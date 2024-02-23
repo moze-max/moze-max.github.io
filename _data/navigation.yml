@@ -57,3 +57,23 @@ header:
       tr      : &TR       Hakkında
       # @end locale config
     url: /about.html
+
+me:
+  - title: 介绍
+    children:
+      - title: who am i?
+        url: me.doc\who-am-i
+      - title:
+        url:
+      - title:
+        url:
+  - title: beyond
+    children:
+      - title:
+        url: 
+      - title:
+        url:
+      - title:
+        url:
+
+      
