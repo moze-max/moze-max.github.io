@@ -27,7 +27,7 @@ key: page-about
 ---
 
 ### HELLO WORLD! 
->This blog power by text theme  
+>This blog powered by teXt theme  
 
 我是王雨轩。  
 
