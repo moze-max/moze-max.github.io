@@ -1,7 +1,11 @@
 body {  
     font-family: Arial, sans-serif;  
-    margin: 0;  
-    padding: 0;  
+    margin: 3rem;  
+    padding: 90%;  
+    font-style: normal;
+    font-size: medium;
+    page: 2;
+    
   }  
     
   header {  
@@ -20,7 +24,7 @@ body {
     
   .logo {  
     max-height: 100%;  
-    max-width: 200px; /* 根据需要调整logo的大小 */  
+    max-width: 20px; /* 根据需要调整logo的大小 */  
   }  
     
   .gradient-background {  
