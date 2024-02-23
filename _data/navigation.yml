@@ -62,11 +62,11 @@ me:
   - title: 介绍
     children:
       - title: who am i?
-        url: me.doc\who-am-i.md
+        url: me.doc\who-am-i
       - title: what have i acconplished?
-        url: me.doc\accomplished.md
+        url: me.doc\accomplished
       - title: My goal?
-        url: me.doc\goal.md
+        url: me.doc\goal
   - title: beyond
     children:
       - title:
