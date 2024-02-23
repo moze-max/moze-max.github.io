@@ -1,32 +1,9 @@
 header:
 
-  - titles:
-  # @start local config
-      en      : &EN       index
-      en-GB   : *EN       index
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      zh-Hans : &ZH_HANS  主页
-      zh      : *ZH_HANS
-      zh-CN   : *ZH_HANS
-      zh-SG   : *ZH_HANS
-
-  # @end local config
+  - title:    index
   url: /index.html
 
-  - titles:
-  # @start locale config
-        en      : &EN       Doc
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      zh-Hans : &ZH_HANS    文档
-      zh      : *ZH_HANS
-      zh-CN   : *ZH_HANS
-      zh-SG   : *ZH_HANS
-  # @end locale config
+  - title:    doc
   url: /doc.html
   - title: start
     children:
