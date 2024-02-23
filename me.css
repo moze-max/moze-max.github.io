@@ -24,9 +24,11 @@ body {
   }  
     
   .logo {  
+    height: min-content;
+    width: min-content;
     max-height: auto;  
-    max-width: 20px; /* 根据需要调整logo的大小 */  
-    background-color: aquamarine;
+    max-width: auto; /* 根据需要调整logo的大小 */  
+    background-color: rgb(221, 226, 192);
   }  
     
   .gradient-background {  
