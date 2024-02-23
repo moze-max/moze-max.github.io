@@ -1,5 +1,6 @@
 ---
 title: goal?
+layout: page
 permalink: me.doc\goal
 key: me.doc-goal
 ---

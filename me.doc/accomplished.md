@@ -1,5 +1,6 @@
 ---
 title: accomplished
+layout: page
 permalink: me.doc\accomplished
 key: me.doc-accomplished
 ---
