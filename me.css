@@ -1,10 +1,9 @@
 body {  
     font-family: Arial, sans-serif;  
-    margin: 3rem;  
+    margin: 1%;  
     padding: 90%;  
     font-style: normal;
     font-size: medium;
-    page: 2;
     align-items: start;
   }  
     
@@ -17,8 +16,8 @@ body {
 
   blockquote{
     background-color: aquamarine;
-    margin-left: 30px; /* 或者你想要的任何值 */  
-    text-indent: -30px; /* 与左边距相同的负值，用于将文本内容本身也缩进 */  
+    margin-left: 10%; /* 或者你想要的任何值 */  
+    text-indent: -10%; /* 与左边距相同的负值，用于将文本内容本身也缩进 */  
     font-style: italic;
   }
     
