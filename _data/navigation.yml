@@ -1,12 +1,5 @@
 header:
 
-  - title:    index
-  url: /index.html
-
-  - title:    doc
-  url: /doc.html
-
-
   - titles:
       # @start locale config
       en      : &EN       Archive
