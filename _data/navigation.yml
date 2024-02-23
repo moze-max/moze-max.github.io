@@ -5,12 +5,6 @@ header:
 
   - title:    doc
   url: /doc.html
-  - title: start
-    children:
-    - title:
-      url: 
-    - title:
-      url:
 
 
   - titles:
