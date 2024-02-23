@@ -1,68 +1,62 @@
 body {  
-    font-family: Arial, sans-serif; 
-     
-    margin: 1%;  
-    padding: 90%;  
-    font-style: normal;
-    font-size: medium;
-    align-items: start;
-    word-wrap: break-word , normal;
-
-  }  
-    
-  header {  
-    position: relative;  
-    height: 7%;  
-    background-color: #fff; /* 或者您想要的任何颜色 */ 
-    align-items: center; 
-  }  
-
-  blockquote{
-    background-color: aquamarine;
-    margin-left: 10%; /* 或者你想要的任何值 */  
-    text-indent: -10%; /* 与左边距相同的负值，用于将文本内容本身也缩进 */  
-    font-style: italic;
-  }
-    
-  .logo-container {  
-    width: 10%;  
-    height: 10%;  
-    display: flex;  
-    align-items: center;  
-    justify-content: center;  
-  }  
-    
-  .logo {  
-    height: min-content;
-    width: min-content;
-    max-height: auto;  
-    max-width: auto; /* 根据需要调整logo的大小 */  
-    background-color: rgb(221, 226, 192);
-  }  
-    
-  .gradient-background {  
-    position: absolute;  
-    top: 0;  
-    left: 0;  
-    width: 100%;  
-    height: 100%;  
-    background: linear-gradient(to bottom, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));  
-    z-index: -1;  
-  }  
-    
-  main {  
-    display: flex;  
-  }  
-    
+  font-family: Arial, sans-serif;  
+  margin: 1%;  
+  padding: 3%; /* 减小padding */  
+  font-style: normal;  
+  font-size: 1rem; /* 使用rem单位，这样字体大小可以随着根元素的变化而变化 */  
+  word-wrap: break-word; /* 移除不必要的normal值 */  
+}  
+  
+header {  
+  position: relative;  
+  height: 5vh; /* 使用视口高度单位vh */  
+  background-color: #fff;  
+}  
+  
+.logo-container {  
+  width: 15vw; /* 使用视口宽度单位vw */  
+  height: auto; /* 让高度自动调整 */  
+}  
+  
+.logo {  
+  max-width: 100%; /* 确保logo不会过大 */  
+  height: auto;  
+}  
+  
+.gradient-background {  
+  position: absolute;  
+  top: 0;  
+  left: 0;  
+  width: 100%;  
+  height: 100%;  
+}  
+  
+main {  
+  display: flex;  
+  flex-wrap: wrap; /* 允许子元素在需要时换行 */  
+}  
+  
+.sidebar, .content {  
+  padding: 1rem; /* 使用rem单位 */  
+  flex-basis: 100%; /* 在小屏幕上，让sidebar和content都占据全宽 */  
+}  
+  
+@media (min-width: 600px) {  
   .sidebar {  
-    flex: 1;  
-    background-color: #f8f8f8;  
-    padding: 20px;  
+    flex-basis: 25%; /* 在中等屏幕尺寸上，sidebar占据1/4的宽度 */  
   }  
     
   .content {  
-    flex: 3;  
-    padding: 20px;  
+    flex-basis: 75%; /* 在中等屏幕尺寸上，content占据3/4的宽度 */  
+  }  
+}  
+  
+@media (min-width: 900px) {  
+  .sidebar {  
+    flex-basis: 20%; /* 在大屏幕尺寸上，sidebar占据1/5的宽度 */  
   }  
     
-  /* 根据需要添加更多样式 */
+  .content {  
+    flex-basis: 80%; /* 在大屏幕尺寸上，content占据4/5的宽度 */  
+  }  
+}
