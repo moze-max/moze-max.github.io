@@ -67,8 +67,6 @@ me:
         url: medoc\1.2accomplished
       - title: My goal?
         url: medoc\1.3goal
-      - title: textfile
-        url: medoc\1.4text
   - title: beyond
     children:
       - title:
