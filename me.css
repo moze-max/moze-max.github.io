@@ -14,6 +14,13 @@ body {
     background-color: #fff; /* 或者您想要的任何颜色 */ 
     align-items: center; 
   }  
+
+  blockquote{
+    background-color: aquamarine;
+    margin-left: 30px; /* 或者你想要的任何值 */  
+    text-indent: -30px; /* 与左边距相同的负值，用于将文本内容本身也缩进 */  
+    font-style: italic;
+  }
     
   .logo-container {  
     width: 10%;  
