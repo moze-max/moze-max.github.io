@@ -26,7 +26,8 @@ titles:
 key: page-about
 ---
 
-### This blog power by text theme  
+### HELLO WORLD! 
+>This blog power by text theme  
 
 我是王雨轩。  
 
@@ -39,4 +40,7 @@ key: page-about
 
 -我的知乎[干干净净我的心](https://www.zhihu.com/people/gan-gan-jing-jing-51-90 "干干净净我的心")  
 
--我的Bilibili[墨泽moozy]( https://space.bilibili.com/441318523 "欢迎您！")
+-我的Bilibili[墨泽moozy]( https://space.bilibili.com/441318523 "欢迎您！")  
+
+-我的公众号[`墨泽moozy`](#hellomoozy)  
+
