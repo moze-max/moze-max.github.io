@@ -26,11 +26,17 @@ titles:
 key: page-about
 ---
 
-### This blog power by text theme ###
-我是王雨轩。
-网名 叫做 **墨泽**
-我一向不习惯于实名上网，过于危险，而且很累，我不是一个喜欢劳累的人。
-既然你已经看到了这里，想必你也曾看过我的一些博客、了解过我的知乎、b站账号。
----
-我的知乎[干干净净我的心](https://www.zhihu.com/people/gan-gan-jing-jing-51-90 "干干净净我的心")
-我的Bilibili[墨泽moozy]( https://space.bilibili.com/441318523 "欢迎您！")
+### This blog power by text theme  
+
+我是王雨轩。  
+
+网名 叫做 **墨泽**  
+
+我一向不习惯于实名上网，过于危险，而且很累，我不是一个喜欢劳累的人。  
+
+既然你已经看到了这里，想必你也曾看过我的一些博客、了解过我的知乎、b站账号。  
+
+
+-我的知乎[干干净净我的心](https://www.zhihu.com/people/gan-gan-jing-jing-51-90 "干干净净我的心")  
+
+-我的Bilibili[墨泽moozy]( https://space.bilibili.com/441318523 "欢迎您！")
