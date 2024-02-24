@@ -5,6 +5,9 @@ header:
 
   - title:    wiki
     url: /wiki.html
+
+  - title:    Myflomo
+    url:  /flomo\flomo.html
     
   - titles:
       # @start locale config
