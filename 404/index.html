@@ -1,0 +1,99 @@
+
+<!DOCTYPE html>
+<html lang="ch">
+<head>
+    <meta charset="UTF-8">
+    <meta name="404" content="width=device-width, initial-scale=1.0">
+    <link url = >
+    <title>哎呀！页面不见了</title>
+    <style>
+       
+        body {
+            font-family: 'Arial', sans-serif;
+            text-align: center;
+            background-color: #D3D3D3;
+            min-height: 100vh; /* 确保body至少占据视口的高度 */
+            color: #333;
+            padding-top: 150px;
+        } 
+
+        h1 {  
+            font-size: 56px;  
+            /* 移除text-shadow，因为它会与渐变效果冲突 */  
+            /* text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1); */  
+            margin-bottom: 20px;  
+            /* 设置背景渐变 */  
+            background-image: linear-gradient(to right, rgb(47, 188, 139), purple);  
+            /* 使用-webkit-前缀确保在旧版WebKit浏览器中的兼容性 */  
+            -webkit-background-clip: text;  
+            /* 设置背景裁剪为文字 */  
+            background-clip: text;  
+            /* 设置文字颜色为透明，以便背景渐变能够显示 */  
+            color: transparent;  
+        }  
+
+        h2 {  
+            font-size: 36px;  
+            /* 移除text-shadow，因为它会与渐变效果冲突 */  
+            /* text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1); */  
+            margin-bottom: 15px;  
+            /* 设置背景渐变 */  
+            background-image: linear-gradient(to right, rgb(47, 188, 139), purple);  
+            /* 使用-webkit-前缀确保在旧版WebKit浏览器中的兼容性 */  
+            -webkit-background-clip: text;  
+            /* 设置背景裁剪为文字 */  
+            background-clip: text;  
+            /* 设置文字颜色为透明，以便背景渐变能够显示 */  
+            color: transparent;  
+        } 
+
+        p {
+            font-size: 24px;
+            margin-bottom: 40px;
+        }
+
+        a {
+            display: inline-block;  
+            padding: 40px 60px;  
+            font-size: 20px;  
+            color: transparent; /* 设置文字颜色为透明，以便渐变背景可以显示 */  
+            background-image: linear-gradient(to right, rgb(17, 131, 175),rgb(27, 83, 130));  
+            -webkit-background-clip: text; /* 使用Webkit前缀确保在Chrome和Safari等浏览器上正常工作 */  
+            -webkit-text-fill-color: transparent; /* 使用Webkit前缀设置文字填充颜色为透明 */  
+            background-clip: text; /* 设置背景裁剪为文字 */   
+            transition: all 0.3s ease; /* 添加过渡效果 */  
+            border: none; /* 移除边框 */  
+            cursor: pointer; /* 设置鼠标悬停时的样式为手形图标 */
+        }
+
+        a:hover {
+            color: #0056b3;
+        }
+        button {  
+            display: inline-block;  
+            padding: 40px 60px;  
+            font-size: 20px;  
+            color: transparent; /* 设置文字颜色为透明，以便渐变背景可以显示 */  
+            background-image: linear-gradient(to right, rgb(17, 131, 175),rgb(27, 83, 130));  
+            -webkit-background-clip: text; /* 使用Webkit前缀确保在Chrome和Safari等浏览器上正常工作 */  
+            -webkit-text-fill-color: transparent; /* 使用Webkit前缀设置文字填充颜色为透明 */  
+            background-clip: text; /* 设置背景裁剪为文字 */   
+            transition: all 0.3s ease; /* 添加过渡效果 */  
+            border: none; /* 移除边框 */  
+            cursor: pointer; /* 设置鼠标悬停时的样式为手形图标 */  
+        }  
+    
+  button:hover {  
+    background-image: linear-gradient(to right, orange, yellow); /* 定义鼠标悬停时的渐变效果 */  
+  }
+    </style>
+</head>
+    <body>
+        <h1>哎呀！页面不见了~</h1>
+        <h2>Sorry!This page not found!</h2>
+        <p>
+            当你看到这个页面的时候，可能意味着你输入的链接有错误！请再检查一下你的链接！
+        </p>
+        <a href="/">回到首页</a>
+    </body>
+</html>
