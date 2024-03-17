@@ -453,6 +453,9 @@ public:
 <p>然后一步一步走，不走太快，不背离自己的初衷。</p>
 <p><strong>我认为这样就已经足够了。</strong></p>
 ]]></content>
+      <categories>
+        <category>周记</category>
+      </categories>
       <tags>
         <tag>text</tag>
         <tag>someword</tag>
@@ -547,5 +550,66 @@ public:
       <tags>
         <tag>算法</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>静态工作点</title>
+    <url>/2024/03/17/%E9%9D%99%E6%80%81%E5%B7%A5%E4%BD%9C%E7%82%B9/</url>
+    <content><![CDATA[<h1 id="什么是静态工作点？"><a href="#什么是静态工作点？" class="headerlink" title="什么是静态工作点？"></a>什么是静态工作点？</h1><p>三极管有静态工作与动态工作两种状态。</p>
+<p>静态工作点就是将交流电源输出信号为零的时候放大电路的工作状态，比如IB的大小此时就是IBQ。</p>
+<p>所以在求静态工作点的时候要先把交流电路变成直流电路。</p>
+<h2 id="未完待续"><a href="#未完待续" class="headerlink" title="未完待续"></a>未完待续</h2>]]></content>
+      <categories>
+        <category>wiki</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>PCB</title>
+    <url>/2024/03/17/PCB/</url>
+    <content><![CDATA[<h1 id="为什么学PCB板子？"><a href="#为什么学PCB板子？" class="headerlink" title="为什么学PCB板子？"></a>为什么学PCB板子？</h1><h2 id="洞洞板的方式十分不方便"><a href="#洞洞板的方式十分不方便" class="headerlink" title="洞洞板的方式十分不方便"></a>洞洞板的方式十分不方便</h2><p>洞洞板最首先是所有的线都在背面裸露出来，必然要受到腐蚀与磨损，随着时间的流逝，与PCB板子相比，<strong>“短时间”内必然会降低性能甚至损毁。</strong></p>
+<p>其次，洞洞板的形式会让电路巨大，不利于使用与携带。</p>
+<h2 id="PCB板是整个电路的载体"><a href="#PCB板是整个电路的载体" class="headerlink" title="PCB板是整个电路的载体"></a>PCB板是整个电路的载体</h2><p>PCB板上有各个元件的连线，连接起不同的组件。</p>
+<p>我们一般设计好PCB板之后，发给淘宝店家让其打板，一周左右能到。</p>
+<p><strong>PCB是整个电路的载体</strong>，我们在PCB板上进行焊接，得到以PCB板为载体的电路。</p>
+<h2 id="实践极其重要"><a href="#实践极其重要" class="headerlink" title="实践极其重要"></a>实践极其重要</h2><p><em><strong>不论怎么说，PCB板可以在网上找例子，但是想要真正学会，那你必须要自己画，自己设计出来板子，然后自己找人生产，然后自己测试板子。</strong></em></p>
+<p>理论上的功夫很简单，但是想要真正学会，那么就一定要勤画板子。</p>
+<p>我的老师说，你自己的板子就会像是一个艺术品一样。</p>
+<h1 id="如何开始？"><a href="#如何开始？" class="headerlink" title="如何开始？"></a>如何开始？</h1><h2 id="首先要下载软件"><a href="#首先要下载软件" class="headerlink" title="首先要下载软件"></a>首先要下载软件</h2><p><em><strong>altium Designer</strong></em></p>
+<h3 id="软件管家"><a href="#软件管家" class="headerlink" title="软件管家"></a>软件管家</h3><p>你可以去关注一个叫做软件管家的公众号</p>
+<p>上面会给你下载软件的链接。</p>
+<p>软件名字叫做altium Designer。</p>
+<h3 id="为什么不用proteus"><a href="#为什么不用proteus" class="headerlink" title="为什么不用proteus?"></a>为什么不用proteus?</h3><p>proteus也能画，但是与淘宝上的PCB厂不好对接，也就说你使用proteus也可以做，但是不好进行实现，顶多使用Proteus仿真。</p>
+<p>因此使用altium Designer是最好的。</p>
+<h1 id="要学会自己画封装"><a href="#要学会自己画封装" class="headerlink" title="要学会自己画封装"></a>要学会自己画封装</h1><p><em>库用的时候才会觉得少</em></p>
+<ul>
+<li><p>建立工程文件夹<br>  所有的东西都是在工程文件夹里面找。<br>  然后给其保存</p>
+</li>
+<li><p>建立资源文件夹<br>  doc<br>  pcb<br>  ……</p>
+</li>
+<li><p>建立符号库 </p>
+</li>
+<li><p>建立封装库</p>
+</li>
+</ul>
+<p><strong>原理图是功能设计，pcb图是加工设计，封装是原理图符号所对应的元件的外形尺寸与引脚信息，PCB板是电路的载体</strong></p>
+<h3 id="原理图"><a href="#原理图" class="headerlink" title="原理图"></a>原理图</h3><p>只要信息对就行，谁说符号就是那个符号？<em><strong>只要上面标注的信息对即可</strong></em>。</p>
+<p>所以在原理图上可以看见很多各种各样的块。</p>
+<p>只要一个方框，然后上面画上四根线，那就是USB口不行么？只要上面的引脚信息、大小信息与实际上的USB口一样不就可以了？</p>
+<p>所以很多的东西并没有对应的符号，只需要一个黄色块即可。</p>
+<h3 id="封装"><a href="#封装" class="headerlink" title="封装"></a>封装</h3><p>没有绝对完美的封装库</p>
+<p>要学会自己按照原理图设计封装。</p>
+<p>那么到最后你就真正自己学会了PCB。</p>
+<h1 id="PCB板的制作"><a href="#PCB板的制作" class="headerlink" title="PCB板的制作"></a>PCB板的制作</h1><blockquote>
+<p>首先需要覆铜板</p>
+</blockquote>
+<p>中间是玻璃纤维，外面覆盖铜箔</p>
+<p>在上面钻出来孔。PCB板上面的孔就是这么来的。</p>
+<p>电镀在孔中上铜。</p>
+<p>在上下贴蓝膜，再贴黑膜，只有在需要导线的地方露出来，其余部分不透光，用紫外线进行照射，于是需要导线的地方变紫了。</p>
+<p>在用显影液将蓝膜上的蓝色洗掉。</p>
+<p>然后使用三氯化铁进行置换反应，将紫色的地方保留下来，上面的铜就形成了导线。</p>
+]]></content>
+      <categories>
+        <category>电路</category>
+      </categories>
   </entry>
 </search>
