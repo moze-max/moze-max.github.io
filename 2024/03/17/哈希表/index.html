@@ -26,14 +26,14 @@
 
 
 
-<link rel="canonical" href="https://moozy.space/">
+<link rel="canonical" href="https://moozy.space/2024/03/17/%E5%93%88%E5%B8%8C%E8%A1%A8/">
 
 
 
-<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":true,"isPost":false,"lang":"zh-CN","comments":"","permalink":"","path":"index.html","title":""}</script>
+<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"zh-CN","comments":true,"permalink":"https://moozy.space/2024/03/17/%E5%93%88%E5%B8%8C%E8%A1%A8/","path":"2024/03/17/哈希表/","title":"哈希表"}</script>
 
 <script class="next-config" data-name="calendar" type="application/json">""</script>
-<title>BEYOND - 生生不息的人生态度，永远相信美好即将到来</title>
+<title>哈希表 | BEYOND</title>
   
 
 
@@ -66,7 +66,7 @@
 
     <a href="/" class="brand" rel="start">
       <i class="logo-line"></i>
-      <h1 class="site-title">BEYOND</h1>
+      <p class="site-title">BEYOND</p>
       <i class="logo-line"></i>
     </a>
       <p class="site-subtitle" itemprop="description">生生不息的人生态度，永远相信美好即将到来</p>
@@ -120,7 +120,7 @@
   
   <aside class="sidebar">
 
-    <div class="sidebar-inner sidebar-overview-active">
+    <div class="sidebar-inner sidebar-nav-active sidebar-toc-active">
       <ul class="sidebar-nav">
         <li class="sidebar-nav-toc">
           文章目录
@@ -133,6 +133,7 @@
       <div class="sidebar-panel-container">
         <!--noindex-->
         <div class="post-toc-wrap sidebar-panel">
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%93%88%E5%B8%8C%E8%A1%A8"><span class="nav-number">1.</span> <span class="nav-text">哈希表</span></a></li></ol></div>
         </div>
         <!--/noindex-->
 
@@ -198,16 +199,17 @@
 
     </div>
 
-    <div class="main-inner index posts-expand">
+    <div class="main-inner post posts-expand">
 
-    
+
+  
 
 
 <div class="post-block">
   
   
 
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
     <link itemprop="mainEntityOfPage" href="https://moozy.space/2024/03/17/%E5%93%88%E5%B8%8C%E8%A1%A8/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -221,13 +223,13 @@
     </span>
 
     <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
-      <meta itemprop="name" content="undefined | BEYOND">
+      <meta itemprop="name" content="哈希表 | BEYOND">
       <meta itemprop="description" content="">
     </span>
       <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/2024/03/17/%E5%93%88%E5%B8%8C%E8%A1%A8/" class="post-title-link" itemprop="url">哈希表</a>
-        </h2>
+        <h1 class="post-title" itemprop="name headline">
+          哈希表
+        </h1>
 
         <div class="post-meta-container">
           <div class="post-meta">
@@ -259,8 +261,7 @@
     
     
     
-    <div class="post-body" itemprop="articleBody">
-          <h1 id="哈希表"><a href="#哈希表" class="headerlink" title="哈希表"></a><strong>哈希表</strong></h1><p>有的时候，我们需要记录下我们所做的事情，在初学阶段，我们可以使用数组或者容器来进行记录，但是当数据量十分巨大的时候，那么使用哈希表来进行数据的记录会十分方便而且快捷，并且不用担心出现爆栈之类的问题。</p>
+    <div class="post-body" itemprop="articleBody"><h1 id="哈希表"><a href="#哈希表" class="headerlink" title="哈希表"></a><strong>哈希表</strong></h1><p>有的时候，我们需要记录下我们所做的事情，在初学阶段，我们可以使用数组或者容器来进行记录，但是当数据量十分巨大的时候，那么使用哈希表来进行数据的记录会十分方便而且快捷，并且不用担心出现爆栈之类的问题。</p>
 <p>在C++中的哈希表实现有三个函数：map,multimap,unordered_map，前面两个函数的实现是利用了红黑树，unordered map的实现是使用了哈希结构直接做映射。</p>
 <p>在实际使用中大多数是使用unordered_map，因为使用unordered_map进行查找、删改的效率是最高的。<br>前面两个函数由于通过在内部实现红黑树的方法来实现哈希表，所以内存占用大，但是在处理一些具有顺序的表的时候更加快速。</p>
 <p>unordered_map的使用示例：unordered_map&lt;string,int&gt;mp;&#x2F;&#x2F;表示键值对由string 映射到 int.<br>unordered_map函数中常用的成员方法：</p>
@@ -275,7 +276,6 @@
 
 <p>这些例子演示了如何使用unordered_map容器来实现哈希表，并在其中存储和访问键值对。第一个例子使用了默认的哈希函数，而第二个例子自定义了哈希函数。这只是C++中实现哈希表的简单示例，实际上还有更多的用法和扩展可以探索。请注意，为了运行这些示例，您需要编译器支持C++11或更高版本。</p>
 
-      
     </div>
 
     
@@ -283,255 +283,27 @@
     
 
     <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
+          <div class="post-tags">
+              <a href="/tags/%E7%AE%97%E6%B3%95/" rel="tag"># 算法</a>
+          </div>
 
-
-
-
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://moozy.space/2024/03/16/%E7%AC%AC%E4%BA%8C%E5%91%A8%E4%B8%8D%E5%A6%A8%E5%86%99%E7%82%B9%E4%B8%9C%E8%A5%BF/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/avatar.gif">
-      <meta itemprop="name" content="moze">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="BEYOND">
-      <meta itemprop="description" content="这是我的个人网站，我将用来发布一些与编程技术相关的文章。">
-    </span>
-
-    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
-      <meta itemprop="name" content="undefined | BEYOND">
-      <meta itemprop="description" content="">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/2024/03/16/%E7%AC%AC%E4%BA%8C%E5%91%A8%E4%B8%8D%E5%A6%A8%E5%86%99%E7%82%B9%E4%B8%9C%E8%A5%BF/" class="post-title-link" itemprop="url">第二周不妨写点东西</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">发表于</span>
-      
-
-      <time title="创建时间：2024-03-16 17:32:52 / 修改时间：18:08:37" itemprop="dateCreated datePublished" datetime="2024-03-16T17:32:52+08:00">2024-03-16</time>
-    </span>
-
-  
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          <p>大一下学期的第二周的周记</p>
-          <!--noindex-->
-            <div class="post-button">
-              <a class="btn" href="/2024/03/16/%E7%AC%AC%E4%BA%8C%E5%91%A8%E4%B8%8D%E5%A6%A8%E5%86%99%E7%82%B9%E4%B8%9C%E8%A5%BF/">
-                阅读全文 &raquo;
-              </a>
-            </div>
-          <!--/noindex-->
         
-      
-    </div>
+  <div class="social-like a2a_kit a2a_kit_size_32 a2a_default_style">
+    <a class="a2a_dd" target="_blank" rel="noopener" href="https://www.addtoany.com/share"></a>
+      <a class="a2a_button_facebook"></a>
+      <a class="a2a_button_twitter"></a>
+      <a class="a2a_button_wechat"></a>
+  </div>
 
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://moozy.space/2024/03/16/2024-02-24-%E7%A2%8E%E7%A2%8E%E5%BF%B5/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/avatar.gif">
-      <meta itemprop="name" content="moze">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="BEYOND">
-      <meta itemprop="description" content="这是我的个人网站，我将用来发布一些与编程技术相关的文章。">
-    </span>
-
-    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
-      <meta itemprop="name" content="undefined | BEYOND">
-      <meta itemprop="description" content="">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/2024/03/16/2024-02-24-%E7%A2%8E%E7%A2%8E%E5%BF%B5/" class="post-title-link" itemprop="url">碎碎念</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">发表于</span>
-
-      <time title="创建时间：2024-03-16 16:44:05" itemprop="dateCreated datePublished" datetime="2024-03-16T16:44:05+08:00">2024-03-16</time>
-    </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar-check"></i>
-      </span>
-      <span class="post-meta-item-text">更新于</span>
-      <time title="修改时间：2024-03-06 16:40:11" itemprop="dateModified" datetime="2024-03-06T16:40:11+08:00">2024-03-06</time>
-    </span>
-
-  
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          <h1 id="azure"><a href="#azure" class="headerlink" title="azure"></a>azure</h1><p>今天晚上偶然看到了azure的价格计算器，在上面作为学习用途去部署静态网页竟然也是免费的！  </p>
-<p>这不由得令我感到欣喜若狂。  </p>
-<p>但是我忽然又想到，我这么费劲巴拉的到底是想要干什么呢？  </p>
-          <!--noindex-->
-            <div class="post-button">
-              <a class="btn" href="/2024/03/16/2024-02-24-%E7%A2%8E%E7%A2%8E%E5%BF%B5/#more" rel="contents">
-                阅读全文 &raquo;
-              </a>
+          <div class="post-nav">
+            <div class="post-nav-item">
+                <a href="/2024/03/16/%E7%AC%AC%E4%BA%8C%E5%91%A8%E4%B8%8D%E5%A6%A8%E5%86%99%E7%82%B9%E4%B8%9C%E8%A5%BF/" rel="prev" title="第二周不妨写点东西">
+                  <i class="fa fa-angle-left"></i> 第二周不妨写点东西
+                </a>
             </div>
-          <!--/noindex-->
-        
-      
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://moozy.space/2024/03/16/2024-02-24-typecho/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/avatar.gif">
-      <meta itemprop="name" content="moze">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="BEYOND">
-      <meta itemprop="description" content="这是我的个人网站，我将用来发布一些与编程技术相关的文章。">
-    </span>
-
-    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
-      <meta itemprop="name" content="undefined | BEYOND">
-      <meta itemprop="description" content="">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/2024/03/16/2024-02-24-typecho/" class="post-title-link" itemprop="url">typecho</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">发表于</span>
-
-      <time title="创建时间：2024-03-16 16:44:05" itemprop="dateCreated datePublished" datetime="2024-03-16T16:44:05+08:00">2024-03-16</time>
-    </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar-check"></i>
-      </span>
-      <span class="post-meta-item-text">更新于</span>
-      <time title="修改时间：2024-03-06 16:40:08" itemprop="dateModified" datetime="2024-03-06T16:40:08+08:00">2024-03-06</time>
-    </span>
-
-  
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          <p>我原本是在用着jekyll的，然后我想要想办法让我的在GitHub pages上的页面也上到我的服务器上，但是没想到服务器上安装jekyll失败了……  </p>
-<p>我可以继续去折腾，但是这是没有必要的……  </p>
-<p>是的……这是没有必要的……  </p>
-          <!--noindex-->
-            <div class="post-button">
-              <a class="btn" href="/2024/03/16/2024-02-24-typecho/#more" rel="contents">
-                阅读全文 &raquo;
-              </a>
+            <div class="post-nav-item">
             </div>
-          <!--/noindex-->
-        
-      
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
+          </div>
     </footer>
   </article>
 </div>
@@ -539,93 +311,7 @@
 
 
 
-    
 
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://moozy.space/2024/03/16/2024-02-23-%E6%95%B4%E7%90%86/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/avatar.gif">
-      <meta itemprop="name" content="moze">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="BEYOND">
-      <meta itemprop="description" content="这是我的个人网站，我将用来发布一些与编程技术相关的文章。">
-    </span>
-
-    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
-      <meta itemprop="name" content="undefined | BEYOND">
-      <meta itemprop="description" content="">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/2024/03/16/2024-02-23-%E6%95%B4%E7%90%86/" class="post-title-link" itemprop="url">整理</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">发表于</span>
-
-      <time title="创建时间：2024-03-16 16:44:05" itemprop="dateCreated datePublished" datetime="2024-03-16T16:44:05+08:00">2024-03-16</time>
-    </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar-check"></i>
-      </span>
-      <span class="post-meta-item-text">更新于</span>
-      <time title="修改时间：2024-03-06 16:40:17" itemprop="dateModified" datetime="2024-03-06T16:40:17+08:00">2024-03-06</time>
-    </span>
-
-  
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          <h1 id="知识的海洋无穷无尽罢"><a href="#知识的海洋无穷无尽罢" class="headerlink" title="知识的海洋无穷无尽罢!"></a>知识的海洋无穷无尽罢!</h1><p>我此刻仍旧在试图让这个网页更加的好看,更加的像是我曾经的设计.  </p>
-<p>即使这么做确实不是很简单.  </p>
-          <!--noindex-->
-            <div class="post-button">
-              <a class="btn" href="/2024/03/16/2024-02-23-%E6%95%B4%E7%90%86/#more" rel="contents">
-                阅读全文 &raquo;
-              </a>
-            </div>
-          <!--/noindex-->
-        
-      
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
-  <nav class="pagination">
-    <span class="page-number current">1</span><a class="page-number" href="/page/2/">2</a><span class="space">&hellip;</span><a class="page-number" href="/page/4/">4</a><a class="extend next" rel="next" title="下一页" aria-label="下一页" href="/page/2/"><i class="fa fa-angle-right"></i></a>
-  </nav>
 
 </div>
   </main>
@@ -698,7 +384,7 @@
 
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/quicklink/2.3.0/quicklink.umd.js" integrity="sha256-yvJQOINiH9fWemHn0vCA5lsHWJaHs6/ZmO+1Ft04SvM=" crossorigin="anonymous"></script>
-  <script class="next-config" data-name="quicklink" type="application/json">{"enable":true,"home":true,"archive":true,"delay":true,"timeout":3000,"priority":true,"url":"https://moozy.space/"}</script>
+  <script class="next-config" data-name="quicklink" type="application/json">{"enable":true,"home":true,"archive":true,"delay":true,"timeout":3000,"priority":true,"url":"https://moozy.space/2024/03/17/%E5%93%88%E5%B8%8C%E8%A1%A8/"}</script>
   <script src="/js/third-party/quicklink.js"></script>
 
 </body>
