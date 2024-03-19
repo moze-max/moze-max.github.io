@@ -537,8 +537,9 @@ public:
 <figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">unordered_map&lt;string, <span class="type">int</span>&gt;map;</span><br><span class="line">map[<span class="string">&quot;hello&quot;</span>] = <span class="number">1</span>;</span><br><span class="line">map.<span class="built_in">emplace</span>(<span class="string">&quot;number&quot;</span>, <span class="number">2</span>);</span><br><span class="line">cout &lt;&lt; <span class="string">&quot;map[hello] = &quot;</span> &lt;&lt; map[<span class="string">&quot;hello&quot;</span>] &lt;&lt; <span class="string">&quot;map[\&quot;number\&quot;] = &quot;</span> &lt;&lt; map[<span class="string">&quot;number&quot;</span>] &lt;&lt; endl;</span><br><span class="line">out：</span><br><span class="line">map[hello] = <span class="number">1</span>map[<span class="string">&quot;number&quot;</span>] = <span class="number">2</span></span><br></pre></td></tr></table></figure>
 
 
-<p><code>insert()</code> 向容器中添加键值对、<br><code>erase()</code>删除指定键值对、 </p>
 <ul>
+<li><code>insert()</code> 向容器中添加键值对、</li>
+<li><code>erase()</code>删除指定键值对、 </li>
 <li><code>erase(pos,n)</code>; 删除从pos开始的n个字符，比如erase(0,1)就是删除第一个字符</li>
 <li><code>erase(position)</code>;删除position处的一个字符(position是个string类型的迭代器)</li>
 <li><code>erase(first,last)</code>;删除从first到last之间的字符（first和last都是迭代器）</li>
@@ -620,5 +621,36 @@ public:
       <categories>
         <category>电路</category>
       </categories>
+  </entry>
+  <entry>
+    <title>leetcode_3070——前缀和</title>
+    <url>/2024/03/19/leetcode-3070/</url>
+    <content><![CDATA[<p><strong>元素和小于等于 k 的子矩阵的数目</strong></p>
+<h1 id="前缀和"><a href="#前缀和" class="headerlink" title="前缀和"></a>前缀和</h1><p>为什么要使用前缀和的方式来写代码？</p>
+<p>首先，当然，你可以暴力遍历，由于要求矩阵的元素和的数目，你可以依次先遍历横行，然后再遍历竖行，两个for循环应该就可以搞定。</p>
+<p>但是请注意，这样的做法可能无法通过leetcode等软件的测试，因为这样的计算要花费很长的时间。</p>
+<blockquote>
+<p>我向来不相信知乎上有的人说自己用python多快多快，但是用C++来运行代码就十分慢。<br>不正是这么一回事么，自己没写好代码，python上许多的库的质量都非常好，所以python运行起来速度也不慢，但是C++上你自己写的函数可不就是能用就行。</p>
+</blockquote>
+<p>所以我们应该如何优化我们的代码？</p>
+<p>我们可以注意到，当使用for循环计算的时候，出现了很多重复次数的计算，我们应该避免这些重复计算。</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="keyword">class</span> <span class="title class_">Solution</span> &#123;</span><br><span class="line"><span class="keyword">public</span>:</span><br><span class="line">    <span class="function"><span class="type">int</span> <span class="title">countSubmatrices</span><span class="params">(vector&lt;vector&lt;<span class="type">int</span>&gt;&gt;&amp; grid, <span class="type">int</span> k)</span> </span>&#123;</span><br><span class="line">        <span class="type">int</span> ans = <span class="number">0</span>,m = grid.<span class="built_in">size</span>(),n = grid[<span class="number">0</span>].<span class="built_in">size</span>();</span><br><span class="line">        vector&lt;vector&lt;<span class="type">int</span>&gt;&gt; <span class="built_in">sum</span> (m+<span class="number">1</span>,<span class="built_in">vector</span>&lt;<span class="type">int</span>&gt;(n+<span class="number">1</span>));</span><br><span class="line">        <span class="keyword">for</span>(<span class="type">int</span> i = <span class="number">0</span>;i&lt;m;i++)&#123;</span><br><span class="line">            <span class="keyword">for</span>(<span class="type">int</span> j = <span class="number">0</span>;j&lt;n;j++)&#123;</span><br><span class="line">                sum[i+<span class="number">1</span>][j+<span class="number">1</span>] = sum[i+<span class="number">1</span>][j] + sum[i][j+<span class="number">1</span>] -sum[i][j] + grid[i][j];</span><br><span class="line">                ans += sum[i+<span class="number">1</span>][j+<span class="number">1</span>]&lt;=k;</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">return</span> ans;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure>
+<p><code>vector&lt;vector&lt;int&gt;&gt; sum (m+1,vector&lt;int&gt;(n+1));</code>先是生成一个答案容器，用来储存数据。</p>
+<p>这里需要注意要多申请一点空间，也就是$m+1$与$n+1$，方便用来数据初始化。</p>
+<p>然后进行计算。</p>
+<p>$ \begin{matrix}<br>1 &amp; 2 \<br>2 &amp; 3 \end{matrix}$ 类似于这样的一个数组，我们怎么给他进行sum求和？</p>
+<p>凭借经验，我们很快可以得到这样的一个结果：</p>
+<p>$ \begin{matrix}<br>1 &amp; 3 \<br>3 &amp; 8 \end{matrix}$ ，那我们是怎么样做的呢？最开始的1，我们不做任何处理，然后右上的2，我们给他加上左边的1，左下的2也是同理，对于右下的3，可以这样抽象，正如左下的2一样，可以给他加上右上的3，然后左边同理，再加上一个3.此时我们可以注意到，1重复了，那么我们就把1给减掉。</p>
+<p><code>sum[i+1][j+1] = sum[i+1][j] + sum[i][j+1] -sum[i][j] + grid[i][j];</code></p>
+<p>于是我们就得到了这样的式子。</p>
+<p>如果sum[i+1][j+1]符合&lt;&#x3D;k的条件，那么就说明以grid左上元素到[i][j]这个矩阵的和符合条件。</p>
+<p>如此，通过前缀和，我们就实现了对于计算的简化。</p>
+]]></content>
+      <categories>
+        <category>算法</category>
+      </categories>
+      <tags>
+        <tag>算法</tag>
+      </tags>
   </entry>
 </search>
