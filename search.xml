@@ -67,6 +67,26 @@
       </tags>
   </entry>
   <entry>
+    <title>typecho</title>
+    <url>/2024/02/24/typecho/</url>
+    <content><![CDATA[<p>我原本是在用着jekyll的，然后我想要想办法让我的在GitHub pages上的页面也上到我的服务器上，但是没想到服务器上安装jekyll失败了……</p>
+<p>我可以继续去折腾，但是这是没有必要的……</p>
+<p>是的……这是没有必要的……</p>
+<span id="more"></span>
+<p>我认为现在唯一必要的，就是是否有一种同步工具，可以方便地同步这两个博客上的内容。</p>
+<p>如果不可行的话，那么我将会在这两个博客中的其中一个失效后使用另外一个。</p>
+<p>我已经花了两天的时候攻克了在github上的博客配置，不愿意再花两天再在我的服务器上配置我的博客了。</p>
+<p>typecho配置是真的很方便，再腾讯云上只需要点两下，然后复制几行命令，然后就可以直接登录进后台使用了。</p>
+<p>-我的Bilibili<span class="exturl" data-url="aHR0cHM6Ly9zcGFjZS5iaWxpYmlsaS5jb20vNDQxMzE4NTIz" title="欢迎您！">墨泽moozy<i class="fa fa-external-link-alt"></i></span></p>
+<p>-我的公众号<a href="#hellomoozy">墨泽moozy</a></p>
+<p>-我的知乎<span class="exturl" data-url="aHR0cHM6Ly93d3cuemhpaHUuY29tL3Blb3BsZS9nYW4tZ2FuLWppbmctamluZy01MS05MA==" title="欢迎关注">干干净净我的心<i class="fa fa-external-link-alt"></i></span></p>
+<p>-我的<a href="https://moozy.space" title="欢迎到访！">博客</a></p>
+]]></content>
+      <tags>
+        <tag>text</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>一些杂项</title>
     <url>/2024/02/23/%E7%A2%8E%E7%A2%8E%E5%BF%B5/</url>
     <content><![CDATA[<h1 id="first"><a class="markdownIt-Anchor" href="#first"></a> FIRST</h1>
@@ -94,26 +114,6 @@
       <tags>
         <tag>text</tag>
         <tag>someword</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>typecho</title>
-    <url>/2024/02/24/typecho/</url>
-    <content><![CDATA[<p>我原本是在用着jekyll的，然后我想要想办法让我的在GitHub pages上的页面也上到我的服务器上，但是没想到服务器上安装jekyll失败了……</p>
-<p>我可以继续去折腾，但是这是没有必要的……</p>
-<p>是的……这是没有必要的……</p>
-<span id="more"></span>
-<p>我认为现在唯一必要的，就是是否有一种同步工具，可以方便地同步这两个博客上的内容。</p>
-<p>如果不可行的话，那么我将会在这两个博客中的其中一个失效后使用另外一个。</p>
-<p>我已经花了两天的时候攻克了在github上的博客配置，不愿意再花两天再在我的服务器上配置我的博客了。</p>
-<p>typecho配置是真的很方便，再腾讯云上只需要点两下，然后复制几行命令，然后就可以直接登录进后台使用了。</p>
-<p>-我的Bilibili<span class="exturl" data-url="aHR0cHM6Ly9zcGFjZS5iaWxpYmlsaS5jb20vNDQxMzE4NTIz" title="欢迎您！">墨泽moozy<i class="fa fa-external-link-alt"></i></span></p>
-<p>-我的公众号<a href="#hellomoozy">墨泽moozy</a></p>
-<p>-我的知乎<span class="exturl" data-url="aHR0cHM6Ly93d3cuemhpaHUuY29tL3Blb3BsZS9nYW4tZ2FuLWppbmctamluZy01MS05MA==" title="欢迎关注">干干净净我的心<i class="fa fa-external-link-alt"></i></span></p>
-<p>-我的<a href="https://moozy.space" title="欢迎到访！">博客</a></p>
-]]></content>
-      <tags>
-        <tag>text</tag>
       </tags>
   </entry>
   <entry>
@@ -201,52 +201,58 @@ TreeNode *left; 和 TreeNode *right;：这两个是指针，分别指向节点�
       </tags>
   </entry>
   <entry>
-    <title>明日离家</title>
-    <url>/2024/02/29/%E6%98%8E%E5%A4%A9%E7%A6%BB%E5%AE%B6/</url>
-    <content><![CDATA[<h1 id="又到了离家的日子"><a class="markdownIt-Anchor" href="#又到了离家的日子"></a> 又到了离家的日子</h1>
-<p>不知不觉已经到了29号了。ICP备案还没有通过，已经过了九天了，可能是没有通过，也可能是其他的什么原因，心累，不想再管了。</p>
-<p>过不了备案就过不了备案吧，反正github.io也不需要备案。</p>
-<p>不知不觉又到了离家的日子，忽然内心有一点伤悲。</p>
-<p>在学校的时候想回家，在家的时候想回学校，但是到了临走的时候又会舍不得。</p>
-<p>一个幸福的家庭是很有必要的，真的。家庭就是一个人的避风港，在那才能得到一点心灵的慰藉。现如今又要远离家乡，去到遥远的地方学习，进修。</p>
-<p>这些东西其实都还好，其实我更加担心的一点就是……离开了家，付出了很多，但是最终却没有什么收获。我最担心的就是这个。</p>
-<p>怎么说呢……等到我毕业的时候，我两手空空，抱着一份简历不知道能投到什么公司的hr手里，在那个时候才是真正的痛苦。</p>
-<p>为了这一切舍弃了那么多，最终你又得到了什么？我最怕的就是我什么都没有得到。</p>
-<h1 id="我心安处是吾乡"><a class="markdownIt-Anchor" href="#我心安处是吾乡"></a> 我心安处是吾乡</h1>
-<p>苏轼曾经说过一句话，叫做<em>我心安处是吾乡</em>。</p>
-<p><em><strong>我十分的认同。</strong></em></p>
-<p>当我远离我的家乡的时候，我所能依靠的就只有内心的安定了。有一句话叫做<strong>随遇而安</strong>，随遇而安是很重要的品质，*只有你的内心安定下来了，你才能把你自己的内心安定下来。*这一句话听起来像是一句废话，但是其实是指不同层面的内心安定。</p>
-<p>一个人在外，奔波，安定是很少有的。</p>
-<p>内心总是会有慌张与急促。</p>
-<p>也就正如我所说，*只有你的内心安定下来了，你才能把你自己的内心安定下来。*一个是安定的内心，一个是内心的安定。</p>
-<p>总而言之呢……我又到了新的一个学期，看课表和上一个学期也差不多，少了一些课，也多了一些课，但是总体来看，每一周的排课量是有所减少的。</p>
-<h1 id="说些奋斗的话"><a class="markdownIt-Anchor" href="#说些奋斗的话"></a> 说些奋斗的话</h1>
-<h2 id="现实中的作为"><a class="markdownIt-Anchor" href="#现实中的作为"></a> 现实中的作为</h2>
-<p>当你在高中的时候，你会总是感觉大学的生活十分美好，每天早上八点才要上课，每天即使有晚修也下得很早，这样的日子，你的内心有什么不满足的？</p>
-<p>但是这个就是事实，是真的不满足。</p>
-<p>当你可以每天早上八点再上课的时候，你就会想要九点再上课，如果可以不上课，你会更加想要永远不上课。</p>
-<p>给了自己借口去放松，那么就会一直放松下去了。</p>
-<p>这一点，哪怕是什么清华北大的人也没有办法免俗。</p>
-<p><strong>当然了，任何一个学校都会有坚持下去不懈奋斗的人</strong>这样的人是有勇气，有毅力，更有前途的。我也希望他们可以坚持下去，因为不论什么事情，都是坚持最难，抛去酷刑不谈，平淡、坚持，才是最会让人崩溃的。</p>
-<p>哪怕是酷刑，也不是一下子就招的，要么是心理压力，要么是真的上了酷刑，总归是要有一个坚持的过程。</p>
-<p>正如士兵突击中所说：<strong>光荣在于平淡，艰巨在于漫长</strong>。</p>
-<p>在我高三的时候，我也把这一句话当作我的座右铭，当然，我到了最后的关头，最后的那几个星期实在是坚持不下去了，作业还是做，题还是刷，但是没有那种充沛的热情去做事，失去了激情，就好像是草原上的五班一样，还是照样站岗，还是照样巡逻，但是已经和没来到五班之前的样子不一样了。</p>
-<p><em><strong>不一样太多了。</strong></em></p>
-<p>那么这一个新的学期，就还是做新的模样，在家里面补充好了能量，到了新的学期就努力拼搏。</p>
-<h2 id="网上的人总是说奋斗无用"><a class="markdownIt-Anchor" href="#网上的人总是说奋斗无用"></a> 网上的人总是说奋斗无用</h2>
-<p>到底有没有用呢？我也不知道。可是我现在除了奋斗还有什么路子？难道我现在去工厂打工，难道我现在抛弃学业会是更好的行为？<strong>恐怕我不能苟同</strong>。不论如何，在现在，还能有一些机会来提高自己的实力，那就先提高自己的实力。当你连蓝桥杯都不敢说能秒杀的时候，你又有什么信心说可以去通过大厂的面试？</p>
-<p>哪怕人们都说：<strong>码农根本用不上那些东西</strong>，<em>那也是先进了大厂才会有这样的觉悟</em>，你连别人的门槛都过不去，<em><strong>你管别人门槛后是比门槛高还是比门槛低</strong></em>？</p>
-<h2 id="低调做人高调做事"><a class="markdownIt-Anchor" href="#低调做人高调做事"></a> 低调做人，高调做事</h2>
-<p>我听过说这样一句话：<em>低调做人，高调做事</em>。仔细想想，大体上是对的。低调做人可以不给自己带来敌人，高调做事往往更加容易成功。<strong>（高调做事，让别人高看你一眼，让别人对你更加地尊重，你所有用的条件就会更加有用。）</strong></p>
-<p>就先这样吧。</p>
-<p>再等一会，让命运的齿轮再转一会。</p>
+    <title>关于二叉树的层序遍历方式</title>
+    <url>/2024/02/27/%E5%BF%83%E6%80%81%E5%B4%A9%E4%BA%86/</url>
+    <content><![CDATA[<h1 id="心态崩了"><a class="markdownIt-Anchor" href="#心态崩了"></a> 心态崩了</h1>
+<p>蓝桥杯的题好难……前面几道填空题，暴力固然可以做，可是代码量大，能保证代码写出来不出错也是很难的……而有一些题目，要进行剪枝等等操作，还有一些题目，思路都很难想……虽然看了别人的的答案之后——啊呀！不就是这么一回事么！</p>
+<p>可是自己做起来就是很难搞。</p>
+<p>后面的几道大题就更是很难很难了。</p>
+<p>线段树、前后缀和、图论……不是我吹，吹牛可以，真写起来是一道也不会。能写个dfs就已经快到极限了，用个滚动数组、滑动窗口、二分查找优化一下就是真的极限了……</p>
+<p>今年的蓝桥杯能给我来一道比较简单的动态规划，我就真的谢天谢地。</p>
+<p>马上又要开学了。感觉一个寒假过去啥也没学到，啥也不是…………下个学期课还算是比较少……但是有大学物理…………先走一步看一步吧，慢慢学，慢慢努力……蓝桥杯这种玩意……今年拿不了奖还可以明年再试试，然后到大三就努力备战考研了。</p>
+<h2 id="下面是代码部分"><a class="markdownIt-Anchor" href="#下面是代码部分"></a> 下面是代码部分</h2>
+<h3 id="先来说说-queue"><a class="markdownIt-Anchor" href="#先来说说-queue"></a> 先来说说 queue</h3>
+<p>queue和栈最大的区别是queue是先进先出的，叫做队列，栈是先进后出的，类似于一个十分窄的箱子，前面放进去的东西就只好最后才能取出来。</p>
+<span id="more"></span>
+<p>队列则是类似于平时的排队，先排队的人先出来。</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">&#123;</span><br><span class="line"><span class="comment">//C++队列Queue类成员函数如下:</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">back</span>()<span class="comment">//返回最后一个元素</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">empty</span>()<span class="comment">//如果队列空则返回真</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">front</span>()<span class="comment">//返回第一个元素</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">pop</span>()<span class="comment">//删除第一个元素</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">push</span>()<span class="comment">//在末尾加入一个元素</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">size</span>()<span class="comment">//返回队列中元素的个数</span></span><br><span class="line"></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p>知道了queue的性质，来讲讲二叉树的层序遍历。</p>
+<p><strong>所谓的层序遍历就是把二叉树的每一层的元素都遍历出来，默认是从左到右，顺序是每一层，从根节点逐层向下。</strong></p>
+<p>那么输出的状态就是[[],[]]这样的，因为有的节点是有两个值的。或者不用这样只是输出排序也成。</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="comment">//在蓝桥杯里，不像是leetcode那样一切都是封装好，只需要写一个函数即可，在蓝桥杯上，要写一个完整的函数。</span></span><br><span class="line"><span class="comment">//首先导库</span></span><br><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;bits/stdc++.h&gt;</span>  </span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br><span class="line"><span class="comment">//我固然知道using namespace std是一种十分不好的行为，但是在蓝桥杯里本来也用不上太多的命名，一个using就可以解决一切问题。</span></span><br><span class="line"><span class="keyword">struct</span> <span class="title class_">TreeNode</span>&#123;</span><br><span class="line">    <span class="type">int</span> val;</span><br><span class="line">    TreeNode* left;</span><br><span class="line">    TreeNode* right;</span><br><span class="line">    <span class="built_in">TreeNode</span> (<span class="type">int</span> x):<span class="built_in">val</span>(x),<span class="built_in">left</span>(<span class="literal">nullptr</span>),<span class="built_in">right</span>(<span class="literal">nullptr</span>)&#123;&#125;</span><br><span class="line">&#125;;</span><br><span class="line"></span><br><span class="line"><span class="comment">//root = [3,9,20,null,null,15,7]  </span></span><br><span class="line"></span><br><span class="line">vector&lt;vector&lt;<span class="type">int</span>&gt;&gt; <span class="built_in">level</span>(TreeNode* root)&#123;</span><br><span class="line">    vector&lt;vector&lt;<span class="type">int</span>&gt;&gt; res;<span class="comment">//使用一个二维容器来储存数据。</span></span><br><span class="line">    <span class="keyword">if</span>(!root)&#123;</span><br><span class="line">        <span class="keyword">return</span> res;</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="comment">//如果根节点是空的那就直接返回，下面的写法也可以实现同样的效果。</span></span><br><span class="line">    <span class="comment">/*</span></span><br><span class="line"><span class="comment">    if(root ==  nullptr)</span></span><br><span class="line"><span class="comment">        return res;</span></span><br><span class="line"><span class="comment">    */</span></span><br><span class="line"></span><br><span class="line">    queue&lt;TreeNode*&gt; q;<span class="comment">//创建一个队列用来层序遍历</span></span><br><span class="line">    q.<span class="built_in">push</span>(root);<span class="comment">//先是将根节点入队。</span></span><br><span class="line">    <span class="keyword">while</span>(!q.<span class="built_in">empty</span>())&#123;<span class="comment">//如果当前节点不为空</span></span><br><span class="line">        <span class="type">int</span> cursize = q.<span class="built_in">size</span>();</span><br><span class="line">        res.<span class="built_in">push_back</span>(<span class="built_in">vector</span>&lt;<span class="type">int</span>&gt;());<span class="comment">//往答案里添加一个容器。</span></span><br><span class="line"></span><br><span class="line">        <span class="keyword">for</span>(<span class="type">int</span> i = <span class="number">1</span>;i&lt;= cursize;i++)&#123;</span><br><span class="line">            <span class="keyword">auto</span> node = q.<span class="built_in">front</span>();<span class="comment">//node就是当前层的最左边的节点。</span></span><br><span class="line">            q.<span class="built_in">pop</span>();<span class="comment">//删除队列中的第一个元素，注意，这个时候第一个元素已经被存到node里面了</span></span><br><span class="line">            res.<span class="built_in">back</span>().<span class="built_in">push_back</span>(node-&gt;val);<span class="comment">//向res的最后的vector存入node的值。注意这个时候node是第一个元素。然后将node所有的左右的元素也存进去。</span></span><br><span class="line">            <span class="comment">//然后继续向左右添加节点。</span></span><br><span class="line">            <span class="keyword">if</span>(node-&gt;left) </span><br><span class="line">                q.<span class="built_in">push</span>(node-&gt;left);</span><br><span class="line">            <span class="keyword">if</span>(node-&gt;right)</span><br><span class="line">                q.<span class="built_in">push</span>(node-&gt;right);</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="keyword">return</span> res;</span><br><span class="line"></span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="type">int</span> <span class="title">main</span><span class="params">(<span class="type">void</span>)</span></span>&#123;</span><br><span class="line">    TreeNode* root = <span class="keyword">new</span> <span class="built_in">TreeNode</span>(<span class="number">1</span>);  </span><br><span class="line">    root-&gt;left = <span class="keyword">new</span> <span class="built_in">TreeNode</span>(<span class="number">2</span>);  </span><br><span class="line">    root-&gt;right = <span class="keyword">new</span> <span class="built_in">TreeNode</span>(<span class="number">3</span>);  </span><br><span class="line">    root-&gt;right-&gt;left = <span class="keyword">new</span> <span class="built_in">TreeNode</span>(<span class="number">4</span>);  </span><br><span class="line">    root-&gt;right-&gt;right = <span class="keyword">new</span> <span class="built_in">TreeNode</span>(<span class="number">5</span>); </span><br><span class="line">    vector&lt;vector&lt;<span class="type">int</span>&gt;&gt;ans;</span><br><span class="line">    ans = <span class="built_in">level</span>(root);</span><br><span class="line">    <span class="comment">//在leetcode中此时直接return就可以结束了。</span></span><br><span class="line">    <span class="type">int</span> n = ans.<span class="built_in">size</span>();</span><br><span class="line">    <span class="keyword">for</span>(<span class="type">int</span> i = <span class="number">0</span>;i &lt; n; i++)</span><br><span class="line">    &#123;</span><br><span class="line">        <span class="type">int</span> m = ans[i].<span class="built_in">size</span>();</span><br><span class="line">        <span class="keyword">for</span>(<span class="type">int</span> j = <span class="number">0</span>;j &lt; m;j++)</span><br><span class="line">        &#123;</span><br><span class="line">            cout&lt;&lt;ans[i][j];</span><br><span class="line">            cout&lt;&lt;endl;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<h3 id="有几点是特别妙的"><a class="markdownIt-Anchor" href="#有几点是特别妙的"></a> 有几点是特别妙的。</h3>
+<p><strong>首先就是使用队列可以减少空间开支，这样除了那些用来维护的内存、树本身的内存外只需要两层树的内存即可。</strong><br />
+<strong>每一层都是root-&gt;left然后再root-&gt;right，这样本身就可以维护队列的从左到右。由于根节点只有一个，所以根节点无所谓是从左到右还是从右到左，其他的节点都是先左再右，然后再加上队列的先进先出的特点，这下子就可以实现从左到右的排列。</strong></p>
+<p>说说一个朴素的做法，也就是leetcode题解中提到的那一个做法，也是类似的历遍，但是是使用哈希表，使用一个二元组记录下节点与其对应的层数，使用哈希表来储存这些数据。</p>
+<p>然后输出的时候就可以使用层数作为key来输出每一层的元素了。</p>
+<p>那么锯齿层序遍历是怎么搞呢？<strong>锯齿层序遍历就是每一层遍历的顺序是反过来的</strong>，这一层是从左到右，下一层就是从右到左。</p>
+<p>可以在存数据进res的时候反转一下数据、或者是需要翻转的时候就把此节点的值添加到队列的尾部，同样是从左到右遍历，那么添加的时候就已经从右到左添加了。</p>
 <p>-我的Bilibili<span class="exturl" data-url="aHR0cHM6Ly9zcGFjZS5iaWxpYmlsaS5jb20vNDQxMzE4NTIz" title="欢迎您！">墨泽moozy<i class="fa fa-external-link-alt"></i></span></p>
 <p>-我的公众号<a href="#hellomoozy">墨泽moozy</a></p>
 <p>-我的知乎<span class="exturl" data-url="aHR0cHM6Ly93d3cuemhpaHUuY29tL3Blb3BsZS9nYW4tZ2FuLWppbmctamluZy01MS05MA==" title="欢迎关注">干干净净我的心<i class="fa fa-external-link-alt"></i></span></p>
 <p>-我的<a href="https://moozy.space" title="欢迎到访！">博客</a></p>
 ]]></content>
       <tags>
-        <tag>text</tag>
+        <tag>someword</tag>
+        <tag>编程</tag>
+        <tag>算法</tag>
+        <tag>碎碎念</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>睡前的话</title>
+    <url>/2024/02/29/%E7%9D%A1%E5%89%8D%E7%9A%84%E8%AF%9D/</url>
+    <content><![CDATA[<p>昨天刚想说ICP备案要备个半天，没想到昨天刚把博客写完半个小时ICP备案通过的通知就下来了。</p>
+<p>虽然通过了，但是还没有向腾讯云同步，所以通过了也暂时没有办法通过域名访问我的网站，等到今天应该就可以实现了。</p>
+<p>然后现在是在等公安的备案。</p>
+<p>这个应该很简单，毕竟我这个网站啥也没有，没有评论，没有通知，没有注册。</p>
+<p>有的只是我一个人的狂欢。</p>
+<p>-我的Bilibili<span class="exturl" data-url="aHR0cHM6Ly9zcGFjZS5iaWxpYmlsaS5jb20vNDQxMzE4NTIz" title="欢迎您！">墨泽moozy<i class="fa fa-external-link-alt"></i></span></p>
+<p>-我的公众号<a href="#hellomoozy">墨泽moozy</a></p>
+<p>-我的知乎<span class="exturl" data-url="aHR0cHM6Ly93d3cuemhpaHUuY29tL3Blb3BsZS9nYW4tZ2FuLWppbmctamluZy01MS05MA==" title="欢迎关注">干干净净我的心<i class="fa fa-external-link-alt"></i></span></p>
+<p>-我的<a href="https://moozy.space" title="欢迎到访！">博客</a></p>
+]]></content>
+      <tags>
         <tag>someword</tag>
       </tags>
   </entry>
@@ -292,62 +298,6 @@ TreeNode *left; 和 TreeNode *right;：这两个是指针，分别指向节点�
       </tags>
   </entry>
   <entry>
-    <title>睡前的话</title>
-    <url>/2024/02/29/%E7%9D%A1%E5%89%8D%E7%9A%84%E8%AF%9D/</url>
-    <content><![CDATA[<p>昨天刚想说ICP备案要备个半天，没想到昨天刚把博客写完半个小时ICP备案通过的通知就下来了。</p>
-<p>虽然通过了，但是还没有向腾讯云同步，所以通过了也暂时没有办法通过域名访问我的网站，等到今天应该就可以实现了。</p>
-<p>然后现在是在等公安的备案。</p>
-<p>这个应该很简单，毕竟我这个网站啥也没有，没有评论，没有通知，没有注册。</p>
-<p>有的只是我一个人的狂欢。</p>
-<p>-我的Bilibili<span class="exturl" data-url="aHR0cHM6Ly9zcGFjZS5iaWxpYmlsaS5jb20vNDQxMzE4NTIz" title="欢迎您！">墨泽moozy<i class="fa fa-external-link-alt"></i></span></p>
-<p>-我的公众号<a href="#hellomoozy">墨泽moozy</a></p>
-<p>-我的知乎<span class="exturl" data-url="aHR0cHM6Ly93d3cuemhpaHUuY29tL3Blb3BsZS9nYW4tZ2FuLWppbmctamluZy01MS05MA==" title="欢迎关注">干干净净我的心<i class="fa fa-external-link-alt"></i></span></p>
-<p>-我的<a href="https://moozy.space" title="欢迎到访！">博客</a></p>
-]]></content>
-      <tags>
-        <tag>someword</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>关于二叉树的层序遍历方式</title>
-    <url>/2024/02/27/%E5%BF%83%E6%80%81%E5%B4%A9%E4%BA%86/</url>
-    <content><![CDATA[<h1 id="心态崩了"><a class="markdownIt-Anchor" href="#心态崩了"></a> 心态崩了</h1>
-<p>蓝桥杯的题好难……前面几道填空题，暴力固然可以做，可是代码量大，能保证代码写出来不出错也是很难的……而有一些题目，要进行剪枝等等操作，还有一些题目，思路都很难想……虽然看了别人的的答案之后——啊呀！不就是这么一回事么！</p>
-<p>可是自己做起来就是很难搞。</p>
-<p>后面的几道大题就更是很难很难了。</p>
-<p>线段树、前后缀和、图论……不是我吹，吹牛可以，真写起来是一道也不会。能写个dfs就已经快到极限了，用个滚动数组、滑动窗口、二分查找优化一下就是真的极限了……</p>
-<p>今年的蓝桥杯能给我来一道比较简单的动态规划，我就真的谢天谢地。</p>
-<p>马上又要开学了。感觉一个寒假过去啥也没学到，啥也不是…………下个学期课还算是比较少……但是有大学物理…………先走一步看一步吧，慢慢学，慢慢努力……蓝桥杯这种玩意……今年拿不了奖还可以明年再试试，然后到大三就努力备战考研了。</p>
-<h2 id="下面是代码部分"><a class="markdownIt-Anchor" href="#下面是代码部分"></a> 下面是代码部分</h2>
-<h3 id="先来说说-queue"><a class="markdownIt-Anchor" href="#先来说说-queue"></a> 先来说说 queue</h3>
-<p>queue和栈最大的区别是queue是先进先出的，叫做队列，栈是先进后出的，类似于一个十分窄的箱子，前面放进去的东西就只好最后才能取出来。</p>
-<span id="more"></span>
-<p>队列则是类似于平时的排队，先排队的人先出来。</p>
-<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">&#123;</span><br><span class="line"><span class="comment">//C++队列Queue类成员函数如下:</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">back</span>()<span class="comment">//返回最后一个元素</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">empty</span>()<span class="comment">//如果队列空则返回真</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">front</span>()<span class="comment">//返回第一个元素</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">pop</span>()<span class="comment">//删除第一个元素</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">push</span>()<span class="comment">//在末尾加入一个元素</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">size</span>()<span class="comment">//返回队列中元素的个数</span></span><br><span class="line"></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<p>知道了queue的性质，来讲讲二叉树的层序遍历。</p>
-<p><strong>所谓的层序遍历就是把二叉树的每一层的元素都遍历出来，默认是从左到右，顺序是每一层，从根节点逐层向下。</strong></p>
-<p>那么输出的状态就是[[],[]]这样的，因为有的节点是有两个值的。或者不用这样只是输出排序也成。</p>
-<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="comment">//在蓝桥杯里，不像是leetcode那样一切都是封装好，只需要写一个函数即可，在蓝桥杯上，要写一个完整的函数。</span></span><br><span class="line"><span class="comment">//首先导库</span></span><br><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;bits/stdc++.h&gt;</span>  </span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br><span class="line"><span class="comment">//我固然知道using namespace std是一种十分不好的行为，但是在蓝桥杯里本来也用不上太多的命名，一个using就可以解决一切问题。</span></span><br><span class="line"><span class="keyword">struct</span> <span class="title class_">TreeNode</span>&#123;</span><br><span class="line">    <span class="type">int</span> val;</span><br><span class="line">    TreeNode* left;</span><br><span class="line">    TreeNode* right;</span><br><span class="line">    <span class="built_in">TreeNode</span> (<span class="type">int</span> x):<span class="built_in">val</span>(x),<span class="built_in">left</span>(<span class="literal">nullptr</span>),<span class="built_in">right</span>(<span class="literal">nullptr</span>)&#123;&#125;</span><br><span class="line">&#125;;</span><br><span class="line"></span><br><span class="line"><span class="comment">//root = [3,9,20,null,null,15,7]  </span></span><br><span class="line"></span><br><span class="line">vector&lt;vector&lt;<span class="type">int</span>&gt;&gt; <span class="built_in">level</span>(TreeNode* root)&#123;</span><br><span class="line">    vector&lt;vector&lt;<span class="type">int</span>&gt;&gt; res;<span class="comment">//使用一个二维容器来储存数据。</span></span><br><span class="line">    <span class="keyword">if</span>(!root)&#123;</span><br><span class="line">        <span class="keyword">return</span> res;</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="comment">//如果根节点是空的那就直接返回，下面的写法也可以实现同样的效果。</span></span><br><span class="line">    <span class="comment">/*</span></span><br><span class="line"><span class="comment">    if(root ==  nullptr)</span></span><br><span class="line"><span class="comment">        return res;</span></span><br><span class="line"><span class="comment">    */</span></span><br><span class="line"></span><br><span class="line">    queue&lt;TreeNode*&gt; q;<span class="comment">//创建一个队列用来层序遍历</span></span><br><span class="line">    q.<span class="built_in">push</span>(root);<span class="comment">//先是将根节点入队。</span></span><br><span class="line">    <span class="keyword">while</span>(!q.<span class="built_in">empty</span>())&#123;<span class="comment">//如果当前节点不为空</span></span><br><span class="line">        <span class="type">int</span> cursize = q.<span class="built_in">size</span>();</span><br><span class="line">        res.<span class="built_in">push_back</span>(<span class="built_in">vector</span>&lt;<span class="type">int</span>&gt;());<span class="comment">//往答案里添加一个容器。</span></span><br><span class="line"></span><br><span class="line">        <span class="keyword">for</span>(<span class="type">int</span> i = <span class="number">1</span>;i&lt;= cursize;i++)&#123;</span><br><span class="line">            <span class="keyword">auto</span> node = q.<span class="built_in">front</span>();<span class="comment">//node就是当前层的最左边的节点。</span></span><br><span class="line">            q.<span class="built_in">pop</span>();<span class="comment">//删除队列中的第一个元素，注意，这个时候第一个元素已经被存到node里面了</span></span><br><span class="line">            res.<span class="built_in">back</span>().<span class="built_in">push_back</span>(node-&gt;val);<span class="comment">//向res的最后的vector存入node的值。注意这个时候node是第一个元素。然后将node所有的左右的元素也存进去。</span></span><br><span class="line">            <span class="comment">//然后继续向左右添加节点。</span></span><br><span class="line">            <span class="keyword">if</span>(node-&gt;left) </span><br><span class="line">                q.<span class="built_in">push</span>(node-&gt;left);</span><br><span class="line">            <span class="keyword">if</span>(node-&gt;right)</span><br><span class="line">                q.<span class="built_in">push</span>(node-&gt;right);</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="keyword">return</span> res;</span><br><span class="line"></span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="type">int</span> <span class="title">main</span><span class="params">(<span class="type">void</span>)</span></span>&#123;</span><br><span class="line">    TreeNode* root = <span class="keyword">new</span> <span class="built_in">TreeNode</span>(<span class="number">1</span>);  </span><br><span class="line">    root-&gt;left = <span class="keyword">new</span> <span class="built_in">TreeNode</span>(<span class="number">2</span>);  </span><br><span class="line">    root-&gt;right = <span class="keyword">new</span> <span class="built_in">TreeNode</span>(<span class="number">3</span>);  </span><br><span class="line">    root-&gt;right-&gt;left = <span class="keyword">new</span> <span class="built_in">TreeNode</span>(<span class="number">4</span>);  </span><br><span class="line">    root-&gt;right-&gt;right = <span class="keyword">new</span> <span class="built_in">TreeNode</span>(<span class="number">5</span>); </span><br><span class="line">    vector&lt;vector&lt;<span class="type">int</span>&gt;&gt;ans;</span><br><span class="line">    ans = <span class="built_in">level</span>(root);</span><br><span class="line">    <span class="comment">//在leetcode中此时直接return就可以结束了。</span></span><br><span class="line">    <span class="type">int</span> n = ans.<span class="built_in">size</span>();</span><br><span class="line">    <span class="keyword">for</span>(<span class="type">int</span> i = <span class="number">0</span>;i &lt; n; i++)</span><br><span class="line">    &#123;</span><br><span class="line">        <span class="type">int</span> m = ans[i].<span class="built_in">size</span>();</span><br><span class="line">        <span class="keyword">for</span>(<span class="type">int</span> j = <span class="number">0</span>;j &lt; m;j++)</span><br><span class="line">        &#123;</span><br><span class="line">            cout&lt;&lt;ans[i][j];</span><br><span class="line">            cout&lt;&lt;endl;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<h3 id="有几点是特别妙的"><a class="markdownIt-Anchor" href="#有几点是特别妙的"></a> 有几点是特别妙的。</h3>
-<p><strong>首先就是使用队列可以减少空间开支，这样除了那些用来维护的内存、树本身的内存外只需要两层树的内存即可。</strong><br />
-<strong>每一层都是root-&gt;left然后再root-&gt;right，这样本身就可以维护队列的从左到右。由于根节点只有一个，所以根节点无所谓是从左到右还是从右到左，其他的节点都是先左再右，然后再加上队列的先进先出的特点，这下子就可以实现从左到右的排列。</strong></p>
-<p>说说一个朴素的做法，也就是leetcode题解中提到的那一个做法，也是类似的历遍，但是是使用哈希表，使用一个二元组记录下节点与其对应的层数，使用哈希表来储存这些数据。</p>
-<p>然后输出的时候就可以使用层数作为key来输出每一层的元素了。</p>
-<p>那么锯齿层序遍历是怎么搞呢？<strong>锯齿层序遍历就是每一层遍历的顺序是反过来的</strong>，这一层是从左到右，下一层就是从右到左。</p>
-<p>可以在存数据进res的时候反转一下数据、或者是需要翻转的时候就把此节点的值添加到队列的尾部，同样是从左到右遍历，那么添加的时候就已经从右到左添加了。</p>
-<p>-我的Bilibili<span class="exturl" data-url="aHR0cHM6Ly9zcGFjZS5iaWxpYmlsaS5jb20vNDQxMzE4NTIz" title="欢迎您！">墨泽moozy<i class="fa fa-external-link-alt"></i></span></p>
-<p>-我的公众号<a href="#hellomoozy">墨泽moozy</a></p>
-<p>-我的知乎<span class="exturl" data-url="aHR0cHM6Ly93d3cuemhpaHUuY29tL3Blb3BsZS9nYW4tZ2FuLWppbmctamluZy01MS05MA==" title="欢迎关注">干干净净我的心<i class="fa fa-external-link-alt"></i></span></p>
-<p>-我的<a href="https://moozy.space" title="欢迎到访！">博客</a></p>
-]]></content>
-      <tags>
-        <tag>someword</tag>
-        <tag>编程</tag>
-        <tag>算法</tag>
-        <tag>碎碎念</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>到达上海</title>
     <url>/2024/03/03/%E5%88%B0%E8%BE%BE%E4%B8%8A%E6%B5%B7/</url>
     <content><![CDATA[<p>为了减少obs资源开支，可以前往我的公众号访问。</p>
@@ -361,6 +311,58 @@ TreeNode *left; 和 TreeNode *right;：这两个是指针，分别指向节点�
       <tags>
         <tag>someword</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>a week</title>
+    <url>/2024/03/09/a-week/</url>
+    <content><![CDATA[<h1 id="first"><a class="markdownIt-Anchor" href="#first"></a> first</h1>
+<p>这周还挺无聊的。做了一些工作，但是做得不多。</p>
+<p>仔细想想，这是一件挺让人沮丧的事情：这个星期做得不多，按照的是学校的进度来走，在学校的进度之外我就基本没有自己的突出的地方了。</p>
+<p>当然，可以这么说：我从很早开始就每天都背单词，这个星期也没有例外，背了几百个单词，又复习了几百个单词，可惜的是，即使背了也不代表四级的题就会写了，也不代表英语的水平就上去了，更不代表今天背了明天就不会忘。</p>
+<!-- more --->
+<p>除此之外，这周做了些无聊的幻想。具体来说，我查找了如何写一个数学论文，还略微看了几眼letax（希望没有拼错）的语法，当然，最后我觉得typst才是用起来最方便的。随后我又在想如何使用typst来替代markdown来写博客。</p>
+<p>于是霎时之间，我又感觉到自己的时间被极大的浪费了。</p>
+<p>***其实可不就是这么一回事：本来就有的东西，非得整个高大上的替代品，为了自己用不上的功能而付费。***当然，这里的付费指的是付出时间与精力，假如真的要花钱，那么我是不会去参加的，作为一个大学生，时间可能有一些富余，但是钱是真的没有什么富余。</p>
+<p>昨天晚上跑了三公里。三公里固然算不上什么，但是跑三公里真的可以给你带来<strong>快乐与舒心</strong>。即使跑完了大腿疼，乏力，但是不可否认的是在跑步的过程中是快乐的，我上个学期也经常承受这样的快乐，但是当时的心理还没有此时那么的开朗，所以当时也就无法体会现如今的快乐。<br></p>
+<p>所有的一切，使用英文来写都是最好的。例如说markdown这个词汇，假如说我的输入法没有把这个词收录进去，我在输入这个词的时候，要么就切换成英文，要么就顶着那一堆的拼音强行输入。再例如<code>&lt;br&gt;</code>、<code>``</code>，只有在英语模式下才可以流畅地输入，在中文模式下输入就会十分繁琐。</p>
+<p>假如你不使用<code>&lt;br&gt;</code>，那么你就只能在句子的后面打两个空格。</p>
+<p>但是假如我忽略了两个空格，我也没有办法看出来我到底打没打空格。</p>
+<p>中文编程固然不好，但是在某些方面也是有其好处的。说到底，这一切都是外国人主导，就像是铁路仿照马车痕一样，已经没有办法更改了。</p>
+<table>
+<thead>
+<tr>
+<th>h</th>
+<th>e</th>
+<th>l</th>
+<th>l</th>
+<th>o</th>
+<th>!</th>
+</tr>
+</thead>
+</table>
+<br>
+要说起来，现在markdown的玩意我都可以玩得很溜了，然后说回专业的使用markdown生成图表云者，我没有使用场景，也就懒得去学。   
+<p>假如真的有用上的时候，那我为什么不用python画图，然后直接把图片嵌进来呢？</p>
+<p>亦或者，为什么不用typst呢？</p>
+<p>本来很多东西就没有必要all in one ，各取所取，各有所长才是最好的。</p>
+]]></content>
+      <tags>
+        <tag>text</tag>
+        <tag>someword</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>learn_numpy</title>
+    <url>/2024/03/06/learn-numpy/</url>
+    <content><![CDATA[<h1 id="这是一篇关于numpy库的博客"><a class="markdownIt-Anchor" href="#这是一篇关于numpy库的博客"></a> 这是一篇关于numpy库的博客</h1>
+<h2 id="忽然记起自己还有一场数学建模的任务"><a class="markdownIt-Anchor" href="#忽然记起自己还有一场数学建模的任务"></a> 忽然记起自己还有一场数学建模的任务</h2>
+<p>感觉单单是什么蓝桥杯、电设赛云者已经很让人疲惫了，不过数学建模是一种很重要的技能。</p>
+<p>这个博客不可能一次性更新完，会慢慢更新。</p>
+<p>在这个博客中，我会介绍我关于numpy的学习经验。</p>
+]]></content>
+      <categories>
+        <category>算法</category>
+      </categories>
   </entry>
   <entry>
     <title>节约空间地求余</title>
@@ -408,51 +410,49 @@ TreeNode *left; 和 TreeNode *right;：这两个是指针，分别指向节点�
       </tags>
   </entry>
   <entry>
-    <title>learn_numpy</title>
-    <url>/2024/03/06/learn-numpy/</url>
-    <content><![CDATA[<h1 id="这是一篇关于numpy库的博客"><a class="markdownIt-Anchor" href="#这是一篇关于numpy库的博客"></a> 这是一篇关于numpy库的博客</h1>
-<h2 id="忽然记起自己还有一场数学建模的任务"><a class="markdownIt-Anchor" href="#忽然记起自己还有一场数学建模的任务"></a> 忽然记起自己还有一场数学建模的任务</h2>
-<p>感觉单单是什么蓝桥杯、电设赛云者已经很让人疲惫了，不过数学建模是一种很重要的技能。</p>
-<p>这个博客不可能一次性更新完，会慢慢更新。</p>
-<p>在这个博客中，我会介绍我关于numpy的学习经验。</p>
-]]></content>
-      <categories>
-        <category>算法</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>a week</title>
-    <url>/2024/03/09/a-week/</url>
-    <content><![CDATA[<h1 id="first"><a class="markdownIt-Anchor" href="#first"></a> first</h1>
-<p>这周还挺无聊的。做了一些工作，但是做得不多。</p>
-<p>仔细想想，这是一件挺让人沮丧的事情：这个星期做得不多，按照的是学校的进度来走，在学校的进度之外我就基本没有自己的突出的地方了。</p>
-<p>当然，可以这么说：我从很早开始就每天都背单词，这个星期也没有例外，背了几百个单词，又复习了几百个单词，可惜的是，即使背了也不代表四级的题就会写了，也不代表英语的水平就上去了，更不代表今天背了明天就不会忘。</p>
-<!-- more --->
-<p>除此之外，这周做了些无聊的幻想。具体来说，我查找了如何写一个数学论文，还略微看了几眼letax（希望没有拼错）的语法，当然，最后我觉得typst才是用起来最方便的。随后我又在想如何使用typst来替代markdown来写博客。</p>
-<p>于是霎时之间，我又感觉到自己的时间被极大的浪费了。</p>
-<p>***其实可不就是这么一回事：本来就有的东西，非得整个高大上的替代品，为了自己用不上的功能而付费。***当然，这里的付费指的是付出时间与精力，假如真的要花钱，那么我是不会去参加的，作为一个大学生，时间可能有一些富余，但是钱是真的没有什么富余。</p>
-<p>昨天晚上跑了三公里。三公里固然算不上什么，但是跑三公里真的可以给你带来<strong>快乐与舒心</strong>。即使跑完了大腿疼，乏力，但是不可否认的是在跑步的过程中是快乐的，我上个学期也经常承受这样的快乐，但是当时的心理还没有此时那么的开朗，所以当时也就无法体会现如今的快乐。<br></p>
-<p>所有的一切，使用英文来写都是最好的。例如说markdown这个词汇，假如说我的输入法没有把这个词收录进去，我在输入这个词的时候，要么就切换成英文，要么就顶着那一堆的拼音强行输入。再例如<code>&lt;br&gt;</code>、<code>``</code>，只有在英语模式下才可以流畅地输入，在中文模式下输入就会十分繁琐。</p>
-<p>假如你不使用<code>&lt;br&gt;</code>，那么你就只能在句子的后面打两个空格。</p>
-<p>但是假如我忽略了两个空格，我也没有办法看出来我到底打没打空格。</p>
-<p>中文编程固然不好，但是在某些方面也是有其好处的。说到底，这一切都是外国人主导，就像是铁路仿照马车痕一样，已经没有办法更改了。</p>
-<table>
-<thead>
-<tr>
-<th>h</th>
-<th>e</th>
-<th>l</th>
-<th>l</th>
-<th>o</th>
-<th>!</th>
-</tr>
-</thead>
-</table>
-<br>
-要说起来，现在markdown的玩意我都可以玩得很溜了，然后说回专业的使用markdown生成图表云者，我没有使用场景，也就懒得去学。   
-<p>假如真的有用上的时候，那我为什么不用python画图，然后直接把图片嵌进来呢？</p>
-<p>亦或者，为什么不用typst呢？</p>
-<p>本来很多东西就没有必要all in one ，各取所取，各有所长才是最好的。</p>
+    <title>明日离家</title>
+    <url>/2024/02/29/%E6%98%8E%E5%A4%A9%E7%A6%BB%E5%AE%B6/</url>
+    <content><![CDATA[<h1 id="又到了离家的日子"><a class="markdownIt-Anchor" href="#又到了离家的日子"></a> 又到了离家的日子</h1>
+<p>不知不觉已经到了29号了。ICP备案还没有通过，已经过了九天了，可能是没有通过，也可能是其他的什么原因，心累，不想再管了。</p>
+<p>过不了备案就过不了备案吧，反正github.io也不需要备案。</p>
+<p>不知不觉又到了离家的日子，忽然内心有一点伤悲。</p>
+<p>在学校的时候想回家，在家的时候想回学校，但是到了临走的时候又会舍不得。</p>
+<p>一个幸福的家庭是很有必要的，真的。家庭就是一个人的避风港，在那才能得到一点心灵的慰藉。现如今又要远离家乡，去到遥远的地方学习，进修。</p>
+<p>这些东西其实都还好，其实我更加担心的一点就是……离开了家，付出了很多，但是最终却没有什么收获。我最担心的就是这个。</p>
+<p>怎么说呢……等到我毕业的时候，我两手空空，抱着一份简历不知道能投到什么公司的hr手里，在那个时候才是真正的痛苦。</p>
+<p>为了这一切舍弃了那么多，最终你又得到了什么？我最怕的就是我什么都没有得到。</p>
+<h1 id="我心安处是吾乡"><a class="markdownIt-Anchor" href="#我心安处是吾乡"></a> 我心安处是吾乡</h1>
+<p>苏轼曾经说过一句话，叫做<em>我心安处是吾乡</em>。</p>
+<p><em><strong>我十分的认同。</strong></em></p>
+<p>当我远离我的家乡的时候，我所能依靠的就只有内心的安定了。有一句话叫做<strong>随遇而安</strong>，随遇而安是很重要的品质，*只有你的内心安定下来了，你才能把你自己的内心安定下来。*这一句话听起来像是一句废话，但是其实是指不同层面的内心安定。</p>
+<p>一个人在外，奔波，安定是很少有的。</p>
+<p>内心总是会有慌张与急促。</p>
+<p>也就正如我所说，*只有你的内心安定下来了，你才能把你自己的内心安定下来。*一个是安定的内心，一个是内心的安定。</p>
+<p>总而言之呢……我又到了新的一个学期，看课表和上一个学期也差不多，少了一些课，也多了一些课，但是总体来看，每一周的排课量是有所减少的。</p>
+<h1 id="说些奋斗的话"><a class="markdownIt-Anchor" href="#说些奋斗的话"></a> 说些奋斗的话</h1>
+<h2 id="现实中的作为"><a class="markdownIt-Anchor" href="#现实中的作为"></a> 现实中的作为</h2>
+<p>当你在高中的时候，你会总是感觉大学的生活十分美好，每天早上八点才要上课，每天即使有晚修也下得很早，这样的日子，你的内心有什么不满足的？</p>
+<p>但是这个就是事实，是真的不满足。</p>
+<p>当你可以每天早上八点再上课的时候，你就会想要九点再上课，如果可以不上课，你会更加想要永远不上课。</p>
+<p>给了自己借口去放松，那么就会一直放松下去了。</p>
+<p>这一点，哪怕是什么清华北大的人也没有办法免俗。</p>
+<p><strong>当然了，任何一个学校都会有坚持下去不懈奋斗的人</strong>这样的人是有勇气，有毅力，更有前途的。我也希望他们可以坚持下去，因为不论什么事情，都是坚持最难，抛去酷刑不谈，平淡、坚持，才是最会让人崩溃的。</p>
+<p>哪怕是酷刑，也不是一下子就招的，要么是心理压力，要么是真的上了酷刑，总归是要有一个坚持的过程。</p>
+<p>正如士兵突击中所说：<strong>光荣在于平淡，艰巨在于漫长</strong>。</p>
+<p>在我高三的时候，我也把这一句话当作我的座右铭，当然，我到了最后的关头，最后的那几个星期实在是坚持不下去了，作业还是做，题还是刷，但是没有那种充沛的热情去做事，失去了激情，就好像是草原上的五班一样，还是照样站岗，还是照样巡逻，但是已经和没来到五班之前的样子不一样了。</p>
+<p><em><strong>不一样太多了。</strong></em></p>
+<p>那么这一个新的学期，就还是做新的模样，在家里面补充好了能量，到了新的学期就努力拼搏。</p>
+<h2 id="网上的人总是说奋斗无用"><a class="markdownIt-Anchor" href="#网上的人总是说奋斗无用"></a> 网上的人总是说奋斗无用</h2>
+<p>到底有没有用呢？我也不知道。可是我现在除了奋斗还有什么路子？难道我现在去工厂打工，难道我现在抛弃学业会是更好的行为？<strong>恐怕我不能苟同</strong>。不论如何，在现在，还能有一些机会来提高自己的实力，那就先提高自己的实力。当你连蓝桥杯都不敢说能秒杀的时候，你又有什么信心说可以去通过大厂的面试？</p>
+<p>哪怕人们都说：<strong>码农根本用不上那些东西</strong>，<em>那也是先进了大厂才会有这样的觉悟</em>，你连别人的门槛都过不去，<em><strong>你管别人门槛后是比门槛高还是比门槛低</strong></em>？</p>
+<h2 id="低调做人高调做事"><a class="markdownIt-Anchor" href="#低调做人高调做事"></a> 低调做人，高调做事</h2>
+<p>我听过说这样一句话：<em>低调做人，高调做事</em>。仔细想想，大体上是对的。低调做人可以不给自己带来敌人，高调做事往往更加容易成功。<strong>（高调做事，让别人高看你一眼，让别人对你更加地尊重，你所有用的条件就会更加有用。）</strong></p>
+<p>就先这样吧。</p>
+<p>再等一会，让命运的齿轮再转一会。</p>
+<p>-我的Bilibili<span class="exturl" data-url="aHR0cHM6Ly9zcGFjZS5iaWxpYmlsaS5jb20vNDQxMzE4NTIz" title="欢迎您！">墨泽moozy<i class="fa fa-external-link-alt"></i></span></p>
+<p>-我的公众号<a href="#hellomoozy">墨泽moozy</a></p>
+<p>-我的知乎<span class="exturl" data-url="aHR0cHM6Ly93d3cuemhpaHUuY29tL3Blb3BsZS9nYW4tZ2FuLWppbmctamluZy01MS05MA==" title="欢迎关注">干干净净我的心<i class="fa fa-external-link-alt"></i></span></p>
+<p>-我的<a href="https://moozy.space" title="欢迎到访！">博客</a></p>
 ]]></content>
       <tags>
         <tag>text</tag>
@@ -510,6 +510,44 @@ TreeNode *left; 和 TreeNode *right;：这两个是指针，分别指向节点�
       <tags>
         <tag>服务器</tag>
         <tag>博客</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>什么是markdown？</title>
+    <url>/2024/03/16/what_is_md/</url>
+    <content><![CDATA[<h1 id="什么是markdown"><a class="markdownIt-Anchor" href="#什么是markdown"></a> 什么是markdown？</h1>
+<p>markdown是一种轻量级的标记语言。</p>
+<p><em><strong>markdown不是一种编程语言</strong></em>，不像C++、C那样可以编写什么程序，如果要一定要将markdown与编程语言扯上关系的话，<strong>markdown更像是python一类的脚本语言</strong>。</p>
+<p>markdown通过一些简单的标记，实现标题段、加粗、斜体、下划线、表格、代码块等功能，使用一些加强插件可以实现输入数学符号、生成图表等高级用法。</p>
+<!--more--->
+<p>markdown本身并不可直接被转换，也就是说，当你打开.md文件或者.markdown文件的时候，你可以看见的就只是那一堆带有<code>#</code>、<code>*</code>等符号的文本，就像是一个txt文件一样。那么你把markdown文件拖进浏览器中又会怎么样呢？</p>
+<p>很遗憾，假如说你的浏览器没有装上指定的插件的话，依旧只会显示同样的内容：<em><strong>一堆带有<code>#</code>、<code>*</code>等符号的文本，就像是一个txt文件一样</strong></em>，那么我们为什么要使用markdown呢？</p>
+<h1 id="那么我们为什么要使用markdown呢"><a class="markdownIt-Anchor" href="#那么我们为什么要使用markdown呢"></a> 那么我们为什么要使用markdown呢？</h1>
+<p>答案是没有必要，但是在前端工作的时候，markdown是一种很方便地东西。</p>
+<ul>
+<li>此时，大多数的样式，比如说标题，加粗等效果，页面的背景，字体的大小等等属性都已经被确定好了；</li>
+<li>此时你所需要做的就是输入文字，生成文件；</li>
+<li>那么这个时候使用word太笨重，而且不一定适用，并且会遇到各种兼容性问题，</li>
+<li>使用txt又没有格式，压根就没法用上前端所设计好的元素。<br />
+于是此时，markdown就可以大展身手。</li>
+</ul>
+<p>除非遇上了网页前端不支持你所使用的图表、数学语法而你又恰好使用这些标准之外的东西，否则，你的markdown文件可以完美地按照程序员所设计的样式转换成html文件。</p>
+<p>这也是为什么个人博客、github的readme文件都使用markdown的原因了。</p>
+<p>我们是否一定要使用markdown，**甚至为了markdown抛弃word、txt或者别的什么文本格式呢？**我的答案是：<br />
+<em><strong>这是完全没有必要的</strong></em>；</p>
+<h1 id="什么时候使用markdown"><a class="markdownIt-Anchor" href="#什么时候使用markdown"></a> 什么时候使用markdown？</h1>
+<p>markdown最好的战场就是我所说的情况，只需要专注于内容，而不需要在意格式的情况。</p>
+<p><em>这种特定的情况并不是什么时候都可以遇到，我们只需要在遇到这样的需求的时候优先考虑到markdown格式是否可以给我们带来收益即可。</em></p>
+<blockquote>
+<p>而且不得不说的一点是：markdown文件在编写的时候可以完全不用鼠标，你可以一直写到尾，全程只需要注视着屏幕，双手连续打字即可。</p>
+</blockquote>
+<p>假如你有这样的专注工作的需求，markdown是一种十分完美的选择。</p>
+]]></content>
+      <categories>
+        <category>wiki</category>
+      </categories>
+      <tags>
+        <tag>wiki</tag>
       </tags>
   </entry>
   <entry>
@@ -585,44 +623,6 @@ pcb<br />
       </categories>
   </entry>
   <entry>
-    <title>什么是markdown？</title>
-    <url>/2024/03/16/what_is_md/</url>
-    <content><![CDATA[<h1 id="什么是markdown"><a class="markdownIt-Anchor" href="#什么是markdown"></a> 什么是markdown？</h1>
-<p>markdown是一种轻量级的标记语言。</p>
-<p><em><strong>markdown不是一种编程语言</strong></em>，不像C++、C那样可以编写什么程序，如果要一定要将markdown与编程语言扯上关系的话，<strong>markdown更像是python一类的脚本语言</strong>。</p>
-<p>markdown通过一些简单的标记，实现标题段、加粗、斜体、下划线、表格、代码块等功能，使用一些加强插件可以实现输入数学符号、生成图表等高级用法。</p>
-<!--more--->
-<p>markdown本身并不可直接被转换，也就是说，当你打开.md文件或者.markdown文件的时候，你可以看见的就只是那一堆带有<code>#</code>、<code>*</code>等符号的文本，就像是一个txt文件一样。那么你把markdown文件拖进浏览器中又会怎么样呢？</p>
-<p>很遗憾，假如说你的浏览器没有装上指定的插件的话，依旧只会显示同样的内容：<em><strong>一堆带有<code>#</code>、<code>*</code>等符号的文本，就像是一个txt文件一样</strong></em>，那么我们为什么要使用markdown呢？</p>
-<h1 id="那么我们为什么要使用markdown呢"><a class="markdownIt-Anchor" href="#那么我们为什么要使用markdown呢"></a> 那么我们为什么要使用markdown呢？</h1>
-<p>答案是没有必要，但是在前端工作的时候，markdown是一种很方便地东西。</p>
-<ul>
-<li>此时，大多数的样式，比如说标题，加粗等效果，页面的背景，字体的大小等等属性都已经被确定好了；</li>
-<li>此时你所需要做的就是输入文字，生成文件；</li>
-<li>那么这个时候使用word太笨重，而且不一定适用，并且会遇到各种兼容性问题，</li>
-<li>使用txt又没有格式，压根就没法用上前端所设计好的元素。<br />
-于是此时，markdown就可以大展身手。</li>
-</ul>
-<p>除非遇上了网页前端不支持你所使用的图表、数学语法而你又恰好使用这些标准之外的东西，否则，你的markdown文件可以完美地按照程序员所设计的样式转换成html文件。</p>
-<p>这也是为什么个人博客、github的readme文件都使用markdown的原因了。</p>
-<p>我们是否一定要使用markdown，**甚至为了markdown抛弃word、txt或者别的什么文本格式呢？**我的答案是：<br />
-<em><strong>这是完全没有必要的</strong></em>；</p>
-<h1 id="什么时候使用markdown"><a class="markdownIt-Anchor" href="#什么时候使用markdown"></a> 什么时候使用markdown？</h1>
-<p>markdown最好的战场就是我所说的情况，只需要专注于内容，而不需要在意格式的情况。</p>
-<p><em>这种特定的情况并不是什么时候都可以遇到，我们只需要在遇到这样的需求的时候优先考虑到markdown格式是否可以给我们带来收益即可。</em></p>
-<blockquote>
-<p>而且不得不说的一点是：markdown文件在编写的时候可以完全不用鼠标，你可以一直写到尾，全程只需要注视着屏幕，双手连续打字即可。</p>
-</blockquote>
-<p>假如你有这样的专注工作的需求，markdown是一种十分完美的选择。</p>
-]]></content>
-      <categories>
-        <category>wiki</category>
-      </categories>
-      <tags>
-        <tag>wiki</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>哈希表</title>
     <url>/2024/03/17/%E5%93%88%E5%B8%8C%E8%A1%A8/</url>
     <content><![CDATA[<h1 id="哈希表"><a class="markdownIt-Anchor" href="#哈希表"></a> <strong>哈希表</strong></h1>
@@ -660,20 +660,6 @@ pcb<br />
       <tags>
         <tag>算法</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>静态工作点</title>
-    <url>/2024/03/17/%E9%9D%99%E6%80%81%E5%B7%A5%E4%BD%9C%E7%82%B9/</url>
-    <content><![CDATA[<h1 id="什么是静态工作点"><a class="markdownIt-Anchor" href="#什么是静态工作点"></a> 什么是静态工作点？</h1>
-<p>三极管有静态工作与动态工作两种状态。</p>
-<p>静态工作点就是将交流电源输出信号为零的时候放大电路的工作状态，比如IB的大小此时就是IBQ。</p>
-<p>所以在求静态工作点的时候要先把交流电路变成直流电路。</p>
-<h2 id="未完待续"><a class="markdownIt-Anchor" href="#未完待续"></a> 未完待续</h2>
-]]></content>
-      <categories>
-        <category>电路</category>
-        <category>模电</category>
-      </categories>
   </entry>
   <entry>
     <title>第二周不妨写点东西</title>
@@ -748,5 +734,19 @@ pcb<br />
       <tags>
         <tag>算法</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>静态工作点</title>
+    <url>/2024/03/17/%E9%9D%99%E6%80%81%E5%B7%A5%E4%BD%9C%E7%82%B9/</url>
+    <content><![CDATA[<h1 id="什么是静态工作点"><a class="markdownIt-Anchor" href="#什么是静态工作点"></a> 什么是静态工作点？</h1>
+<p>三极管有静态工作与动态工作两种状态。</p>
+<p>静态工作点就是将交流电源输出信号为零的时候放大电路的工作状态，比如IB的大小此时就是IBQ。</p>
+<p>所以在求静态工作点的时候要先把交流电路变成直流电路。</p>
+<h2 id="未完待续"><a class="markdownIt-Anchor" href="#未完待续"></a> 未完待续</h2>
+]]></content>
+      <categories>
+        <category>电路</category>
+        <category>模电</category>
+      </categories>
   </entry>
 </search>
