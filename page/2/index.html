@@ -82,7 +82,7 @@
 
 
 <nav class="site-nav">
-  <ul class="main-menu menu"><li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a></li><li class="menu-item menu-item-tags"><a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>标签<span class="badge">9</span></a></li><li class="menu-item menu-item-categories"><a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>分类<span class="badge">5</span></a></li><li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档<span class="badge">22</span></a></li><li class="menu-item menu-item-wiki"><a href="/wiki/" rel="section"><i class="fa-solid fa-mountain-sun fa-fw"></i>WIKI</a></li><li class="menu-item menu-item-sitemap"><a href="/sitemap.xml" rel="section"><i class="fa fa-sitemap fa-fw"></i>站点地图</a></li><li class="menu-item menu-item-about"><a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>关于</a></li>
+  <ul class="main-menu menu"><li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a></li><li class="menu-item menu-item-tags"><a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>标签<span class="badge">9</span></a></li><li class="menu-item menu-item-categories"><a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>分类<span class="badge">7</span></a></li><li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档<span class="badge">22</span></a></li><li class="menu-item menu-item-wiki"><a href="/wiki/" rel="section"><i class="fa-solid fa-mountain-sun fa-fw"></i>WIKI</a></li><li class="menu-item menu-item-sitemap"><a href="/sitemap.xml" rel="section"><i class="fa fa-sitemap fa-fw"></i>站点地图</a></li><li class="menu-item menu-item-about"><a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>关于</a></li>
       <li class="menu-item menu-item-search">
         <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
         </a>
@@ -151,7 +151,7 @@
       </div>
       <div class="site-state-item site-state-categories">
           <a href="/categories/">
-        <span class="site-state-item-count">5</span>
+        <span class="site-state-item-count">7</span>
         <span class="site-state-item-name">分类</span></a>
       </div>
       <div class="site-state-item site-state-tags">
@@ -266,24 +266,28 @@
     
     
     <div class="post-body" itemprop="articleBody">
-          <h1 id="什么是markdown？"><a href="#什么是markdown？" class="headerlink" title="什么是markdown？"></a>什么是markdown？</h1><p>markdown是一种轻量级的标记语言。</p>
+          <h1 id="什么是markdown"><a class="markdownIt-Anchor" href="#什么是markdown"></a> 什么是markdown？</h1>
+<p>markdown是一种轻量级的标记语言。</p>
 <p><em><strong>markdown不是一种编程语言</strong></em>，不像C++、C那样可以编写什么程序，如果要一定要将markdown与编程语言扯上关系的话，<strong>markdown更像是python一类的脚本语言</strong>。</p>
 <p>markdown通过一些简单的标记，实现标题段、加粗、斜体、下划线、表格、代码块等功能，使用一些加强插件可以实现输入数学符号、生成图表等高级用法。</p>
 <!--more--->
-
 <p>markdown本身并不可直接被转换，也就是说，当你打开.md文件或者.markdown文件的时候，你可以看见的就只是那一堆带有<code>#</code>、<code>*</code>等符号的文本，就像是一个txt文件一样。那么你把markdown文件拖进浏览器中又会怎么样呢？</p>
 <p>很遗憾，假如说你的浏览器没有装上指定的插件的话，依旧只会显示同样的内容：<em><strong>一堆带有<code>#</code>、<code>*</code>等符号的文本，就像是一个txt文件一样</strong></em>，那么我们为什么要使用markdown呢？</p>
-<h1 id="那么我们为什么要使用markdown呢？"><a href="#那么我们为什么要使用markdown呢？" class="headerlink" title="那么我们为什么要使用markdown呢？"></a>那么我们为什么要使用markdown呢？</h1><p>答案是没有必要，但是在前端工作的时候，markdown是一种很方便地东西。</p>
+<h1 id="那么我们为什么要使用markdown呢"><a class="markdownIt-Anchor" href="#那么我们为什么要使用markdown呢"></a> 那么我们为什么要使用markdown呢？</h1>
+<p>答案是没有必要，但是在前端工作的时候，markdown是一种很方便地东西。</p>
 <ul>
 <li>此时，大多数的样式，比如说标题，加粗等效果，页面的背景，字体的大小等等属性都已经被确定好了；</li>
 <li>此时你所需要做的就是输入文字，生成文件；</li>
 <li>那么这个时候使用word太笨重，而且不一定适用，并且会遇到各种兼容性问题，</li>
-<li>使用txt又没有格式，压根就没法用上前端所设计好的元素。<br>于是此时，markdown就可以大展身手。</li>
+<li>使用txt又没有格式，压根就没法用上前端所设计好的元素。<br />
+于是此时，markdown就可以大展身手。</li>
 </ul>
 <p>除非遇上了网页前端不支持你所使用的图表、数学语法而你又恰好使用这些标准之外的东西，否则，你的markdown文件可以完美地按照程序员所设计的样式转换成html文件。</p>
 <p>这也是为什么个人博客、github的readme文件都使用markdown的原因了。</p>
-<p>我们是否一定要使用markdown，<strong>甚至为了markdown抛弃word、txt或者别的什么文本格式呢？</strong>我的答案是：<br><em><strong>这是完全没有必要的</strong></em>；</p>
-<h1 id="什么时候使用markdown？"><a href="#什么时候使用markdown？" class="headerlink" title="什么时候使用markdown？"></a>什么时候使用markdown？</h1><p>markdown最好的战场就是我所说的情况，只需要专注于内容，而不需要在意格式的情况。</p>
+<p>我们是否一定要使用markdown，**甚至为了markdown抛弃word、txt或者别的什么文本格式呢？**我的答案是：<br />
+<em><strong>这是完全没有必要的</strong></em>；</p>
+<h1 id="什么时候使用markdown"><a class="markdownIt-Anchor" href="#什么时候使用markdown"></a> 什么时候使用markdown？</h1>
+<p>markdown最好的战场就是我所说的情况，只需要专注于内容，而不需要在意格式的情况。</p>
 <p><em>这种特定的情况并不是什么时候都可以遇到，我们只需要在遇到这样的需求的时候优先考虑到markdown格式是否可以给我们带来收益即可。</em></p>
 <blockquote>
 <p>而且不得不说的一点是：markdown文件在编写的时候可以完全不用鼠标，你可以一直写到尾，全程只需要注视着屏幕，双手连续打字即可。</p>
@@ -401,7 +405,7 @@
   
 
   <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://moozy.space/2024/03/13/2024-03-13-%E8%BF%98%E5%9C%A8%E7%BE%8E%E5%8C%96/">
+    <link itemprop="mainEntityOfPage" href="https://moozy.space/2024/03/13/%E8%BF%98%E5%9C%A8%E7%BE%8E%E5%8C%96/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/avatar.gif">
@@ -419,7 +423,7 @@
     </span>
       <header class="post-header">
         <h2 class="post-title" itemprop="name headline">
-          <a href="/2024/03/13/2024-03-13-%E8%BF%98%E5%9C%A8%E7%BE%8E%E5%8C%96/" class="post-title-link" itemprop="url">还在美化</a>
+          <a href="/2024/03/13/%E8%BF%98%E5%9C%A8%E7%BE%8E%E5%8C%96/" class="post-title-link" itemprop="url">还在美化</a>
         </h2>
 
         <div class="post-meta-container">
@@ -444,13 +448,15 @@
     
     
     <div class="post-body" itemprop="articleBody">
-          <h1 id="还是在美化的道路上越走越远了"><a href="#还是在美化的道路上越走越远了" class="headerlink" title="还是在美化的道路上越走越远了"></a>还是在美化的道路上越走越远了</h1><p>这个周想要修复博客的sitemap功能，还想要修复博客的搜索功能。  </p>
-<p>这两点都还算是比较好处理，虽然也费了点时间，也掉了点头发，但是其实是非常简单的，因为有直接可用的库，几行代码就可以完事了。   </p>
-<p>我所遇到的问题主要是npm下载的时候没有下载到hexo的文件夹中，而是下载到了根目录下，我今天忽然想起来这件事，查询可知，确实是需要下载到hexo的根目录中的。   </p>
-<p><strong>当我修复了这一错误的时候，他们终于开始正确地工作了。</strong><br><em>下面，我还要再解决http跳转https的任务</em>  </p>
-<p>同时还想要实现这样的功能：<em><strong>给博客新建一个wiki页，然后实现在wiki页中发布专属于wiki的内容，就像是next的示例博客中那样。</strong></em>   </p>
-<p>但是让人沮丧的是，我没有在next的示例博客中找到我想要的介绍，似乎直接略过了这一部分。  </p>
-<p>而http跳转的ngnix代码也无法正常工作。   </p>
+          <h1 id="还是在美化的道路上越走越远了"><a class="markdownIt-Anchor" href="#还是在美化的道路上越走越远了"></a> 还是在美化的道路上越走越远了</h1>
+<p>这个周想要修复博客的sitemap功能，还想要修复博客的搜索功能。</p>
+<p>这两点都还算是比较好处理，虽然也费了点时间，也掉了点头发，但是其实是非常简单的，因为有直接可用的库，几行代码就可以完事了。</p>
+<p>我所遇到的问题主要是npm下载的时候没有下载到hexo的文件夹中，而是下载到了根目录下，我今天忽然想起来这件事，查询可知，确实是需要下载到hexo的根目录中的。</p>
+<p><strong>当我修复了这一错误的时候，他们终于开始正确地工作了。</strong><br />
+<em>下面，我还要再解决http跳转https的任务</em></p>
+<p>同时还想要实现这样的功能：<em><strong>给博客新建一个wiki页，然后实现在wiki页中发布专属于wiki的内容，就像是next的示例博客中那样。</strong></em></p>
+<p>但是让人沮丧的是，我没有在next的示例博客中找到我想要的介绍，似乎直接略过了这一部分。</p>
+<p>而http跳转的ngnix代码也无法正常工作。</p>
 
       
     </div>
@@ -596,7 +602,16 @@
         <i class="far fa-calendar-check"></i>
       </span>
       <span class="post-meta-item-text">更新于</span>
-      <time title="修改时间：2024-03-10 11:07:27" itemprop="dateModified" datetime="2024-03-10T11:07:27+08:00">2024-03-10</time>
+      <time title="修改时间：2024-03-21 09:00:26" itemprop="dateModified" datetime="2024-03-21T09:00:26+08:00">2024-03-21</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">分类于</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/%E7%AE%97%E6%B3%95/" itemprop="url" rel="index"><span itemprop="name">算法</span></a>
+        </span>
     </span>
 
   
