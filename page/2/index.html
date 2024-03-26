@@ -266,14 +266,14 @@
     
     
     <div class="post-body" itemprop="articleBody">
-          <h1 id="哈希表"><a class="markdownIt-Anchor" href="#哈希表"></a> <strong>哈希表</strong></h1>
+          <h1><strong>哈希表</strong></h1>
 <p>有的时候，我们需要记录下我们所做的事情，在初学阶段，我们可以使用数组或者容器来进行记录，但是当数据量十分巨大的时候，那么使用哈希表来进行数据的记录会十分方便而且快捷，并且不用担心出现爆栈之类的问题。</p>
 <p>在C++中的哈希表实现有三个函数：<code>map</code>,<code>multimap</code>,<code>unordered_map</code>，前面两个函数的实现是利用了红黑树，<code>unordered map</code>的实现是使用了哈希结构直接做映射。</p>
-<p>在实际使用中大多数是使用<code>unordered_map</code>，因为使用<code>unordered_map</code>进行查找、删改的效率是最高的。<br />
+<p>在实际使用中大多数是使用<code>unordered_map</code>，因为使用<code>unordered_map</code>进行查找、删改的效率是最高的。<br>
 前面两个函数由于通过在内部实现红黑树的方法来实现哈希表，所以内存占用大，但是在处理一些具有顺序的表的时候更加快速。</p>
-<p><code>unordered_map</code>的使用示例：<code>unordered_map&lt;string,int&gt;mp;</code>//表示键值对由string 映射到 int.<br />
+<p><code>unordered_map</code>的使用示例：<code>unordered_map&lt;string,int&gt;mp;</code>//表示键值对由string 映射到 int.<br>
 <code>unordered_map</code>函数中常用的成员方法：</p>
-<p><code>at(key)</code>返回容器中储存的键key对应的值，如果key不存在，则会抛出<code>out_of_range</code>异常、<code>find(key)</code>查找以key为键的键值对，如果找到，那么就返回一个指向这个键值对的正向迭代器，反之则返回指向容器中最后一个键值对之后的位置的迭代器（<code>end()） 、count(key)</code>在容器中查找以key作为键的键值对的个数、<br />
+<p><code>at(key)</code>返回容器中储存的键key对应的值，如果key不存在，则会抛出<code>out_of_range</code>异常、<code>find(key)</code>查找以key为键的键值对，如果找到，那么就返回一个指向这个键值对的正向迭代器，反之则返回指向容器中最后一个键值对之后的位置的迭代器（<code>end()） 、count(key)</code>在容器中查找以key作为键的键值对的个数、<br>
 <code>emplace()</code> 在容器中添加新键值对，效率比<code>insert()</code>高、</p>
 <figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">unordered_map&lt;string, <span class="type">int</span>&gt;map;</span><br><span class="line">map[<span class="string">&quot;hello&quot;</span>] = <span class="number">1</span>;</span><br><span class="line">map.<span class="built_in">emplace</span>(<span class="string">&quot;number&quot;</span>, <span class="number">2</span>);</span><br><span class="line">cout &lt;&lt; <span class="string">&quot;map[hello] = &quot;</span> &lt;&lt; map[<span class="string">&quot;hello&quot;</span>] &lt;&lt; <span class="string">&quot;map[\&quot;number\&quot;] = &quot;</span> &lt;&lt; map[<span class="string">&quot;number&quot;</span>] &lt;&lt; endl;</span><br><span class="line">out：</span><br><span class="line">map[hello] = <span class="number">1</span>map[<span class="string">&quot;number&quot;</span>] = <span class="number">2</span></span><br></pre></td></tr></table></figure>
 <ul>
@@ -283,16 +283,16 @@
 <li><code>erase(position)</code>;删除position处的一个字符(position是个string类型的迭代器)</li>
 <li><code>erase(first,last)</code>;删除从first到last之间的字符（first和last都是迭代器）</li>
 <li><code>clear()</code>清空容器、</li>
-<li><code>swap()</code>交换两个unordered_map容器储存的键值对，前提是必须保证这两个容器的类型完全相同。<br />
+<li><code>swap()</code>交换两个unordered_map容器储存的键值对，前提是必须保证这两个容器的类型完全相同。<br>
 记录某一个元素出现的次数：</li>
 </ul>
 <figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">unordered_map&lt;<span class="type">int</span>, <span class="type">int</span>&gt;cnt;</span><br><span class="line"><span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">0</span>; i &lt; <span class="number">3</span>; i++) &#123;</span><br><span class="line">    <span class="type">int</span> q;</span><br><span class="line">    cin &gt;&gt; q;</span><br><span class="line">    cnt[q]++;</span><br><span class="line">&#125;</span><br><span class="line"><span class="keyword">for</span> (<span class="keyword">auto</span> q : cnt) &#123;</span><br><span class="line">    cout &lt;&lt; q.first&lt;&lt;<span class="string">&quot;\t&quot;</span>&lt;&lt;q.second&lt;&lt; endl;</span><br><span class="line">&#125;</span><br><span class="line"><span class="comment">//q.first就是键,q.second就是值。</span></span><br></pre></td></tr></table></figure>
-<p>以下为文心一言的回答：<br />
-/**************************************************************************<br />
+<p>以下为文心一言的回答：<br>
+/**************************************************************************<br>
 当然！以下是几个C++中使用哈希表的例子：</p>
 <figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">//例子1：使用unordered_map实现哈希表</span></span><br><span class="line"><span class="meta">#<span class="keyword">include</span><span class="string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="keyword">include</span><span class="string">&lt;unordered_map&gt;</span></span></span><br><span class="line"><span class="function"><span class="type">int</span></span></span><br><span class="line"><span class="function"><span class="title">main</span><span class="params">()</span></span>&#123;      </span><br><span class="line">    std::unordered_map&lt;std::string, <span class="type">int</span>&gt; hashTable;  <span class="comment">// 添加键值对      </span></span><br><span class="line">    hashTable[<span class="string">&quot;apple&quot;</span>] = <span class="number">5</span>;      </span><br><span class="line">    hashTable[<span class="string">&quot;banana&quot;</span>] = <span class="number">7</span>;      </span><br><span class="line">    hashTable[<span class="string">&quot;orange&quot;</span>] = <span class="number">3</span>;  <span class="comment">// 查找键值对      </span></span><br><span class="line">    std::cout &lt;&lt; <span class="string">&quot;apple: &quot;</span> &lt;&lt; hashTable[<span class="string">&quot;apple&quot;</span>] &lt;&lt; std::endl;  <span class="comment">// 遍历哈希表  </span></span><br><span class="line">    <span class="keyword">for</span> (constauto&amp; entry : hashTable) &#123;          </span><br><span class="line">        std::cout &lt;&lt; entry.first &lt;&lt; <span class="string">&quot;: &quot;</span> &lt;&lt; entry.second &lt;&lt; std::endl;      </span><br><span class="line">&#125;</span><br><span class="line">  <span class="keyword">return</span> <span class="number">0</span>;  </span><br><span class="line">&#125;</span><br><span class="line"><span class="comment">//例子2：自定义哈希函数</span></span><br><span class="line"><span class="meta">#<span class="keyword">include</span><span class="string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="keyword">include</span><span class="string">&lt;unordered_map&gt;</span><span class="comment">// 自定义哈希函数  </span></span></span><br><span class="line">structHashFunction &#123;  </span><br><span class="line">std::<span class="built_in">size_toperator</span>()(<span class="type">const</span> std::pair&lt;std::string, <span class="type">int</span>&gt;&amp; key)<span class="type">const</span>&#123;          </span><br><span class="line">std::<span class="type">size_t</span> hash = <span class="number">0</span>;  </span><br><span class="line"><span class="keyword">for</span> (constauto&amp; c : key.first) &#123;              </span><br><span class="line">hash += std::<span class="built_in">hash</span>&lt;<span class="type">char</span>&gt;()(c);          </span><br><span class="line">&#125;  </span><br><span class="line"><span class="keyword">return</span> hash ^ (key.second &lt;&lt; <span class="number">1</span>); <span class="comment">// 或使用boost::hash_combine (需要包含boost/functional/hash.hpp)      </span></span><br><span class="line">&#125;  </span><br><span class="line">&#125;;  </span><br><span class="line"><span class="function"><span class="type">int</span></span></span><br><span class="line"><span class="function"><span class="title">main</span><span class="params">()</span></span>&#123;      </span><br><span class="line">std::unordered_map&lt;std::pair&lt;std::string, <span class="type">int</span>&gt;, std::string, HashFunction&gt; hashTable;  </span><br><span class="line"><span class="comment">// 添加键值对      </span></span><br><span class="line">hashTable[&#123;&#123;<span class="string">&quot;apple&quot;</span>, <span class="number">5</span>&#125;&#125;] = <span class="string">&quot;red&quot;</span>;      </span><br><span class="line">hashTable[&#123;&#123;<span class="string">&quot;banana&quot;</span>, <span class="number">7</span>&#125;&#125;] = <span class="string">&quot;yellow&quot;</span>;      </span><br><span class="line">hashTable[&#123;&#123;<span class="string">&quot;orange&quot;</span>, <span class="number">3</span>&#125;&#125;] = <span class="string">&quot;orange&quot;</span>;  </span><br><span class="line"><span class="comment">// 查找键值对      </span></span><br><span class="line">std::cout &lt;&lt; hashTable[&#123;&#123;<span class="string">&quot;apple&quot;</span>, <span class="number">5</span>&#125;&#125;] &lt;&lt; std::endl;  </span><br><span class="line"><span class="comment">// 遍历哈希表  </span></span><br><span class="line"><span class="keyword">for</span> (constauto&amp; entry : hashTable) &#123;          </span><br><span class="line">std::cout &lt;&lt; entry.first.first &lt;&lt; <span class="string">&quot;, &quot;</span> &lt;&lt; entry.first.second &lt;&lt; <span class="string">&quot;: &quot;</span> &lt;&lt; entry.second &lt;&lt; std::endl;      </span><br><span class="line">&#125;  </span><br><span class="line"><span class="keyword">return</span> <span class="number">0</span>;  </span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 <blockquote>
-<p>这些例子演示了如何使用unordered_map容器来实现哈希表，并在其中存储和访问键值对。第一个例子使用了默认的哈希函数，而第二个例子自定义了哈希函数。这只是C<ins>中实现哈希表的简单示例，实际上还有更多的用法和扩展可以探索。请注意，为了运行这些示例，您需要编译器支持C</ins>11或更高版本。</p>
+<p>这些例子演示了如何使用unordered_map容器来实现哈希表，并在其中存储和访问键值对。第一个例子使用了默认的哈希函数，而第二个例子自定义了哈希函数。这只是C++中实现哈希表的简单示例，实际上还有更多的用法和扩展可以探索。请注意，为了运行这些示例，您需要编译器支持C++11或更高版本。</p>
 </blockquote>
 
       
@@ -470,27 +470,27 @@
     
     
     <div class="post-body" itemprop="articleBody">
-          <h1 id="什么是markdown"><a class="markdownIt-Anchor" href="#什么是markdown"></a> 什么是markdown？</h1>
+          <h1>什么是markdown？</h1>
 <p>markdown是一种轻量级的标记语言。</p>
 <p><em><strong>markdown不是一种编程语言</strong></em>，不像C++、C那样可以编写什么程序，如果要一定要将markdown与编程语言扯上关系的话，<strong>markdown更像是python一类的脚本语言</strong>。</p>
 <p>markdown通过一些简单的标记，实现标题段、加粗、斜体、下划线、表格、代码块等功能，使用一些加强插件可以实现输入数学符号、生成图表等高级用法。</p>
 <!--more--->
 <p>markdown本身并不可直接被转换，也就是说，当你打开.md文件或者.markdown文件的时候，你可以看见的就只是那一堆带有<code>#</code>、<code>*</code>等符号的文本，就像是一个txt文件一样。那么你把markdown文件拖进浏览器中又会怎么样呢？</p>
 <p>很遗憾，假如说你的浏览器没有装上指定的插件的话，依旧只会显示同样的内容：<em><strong>一堆带有<code>#</code>、<code>*</code>等符号的文本，就像是一个txt文件一样</strong></em>，那么我们为什么要使用markdown呢？</p>
-<h1 id="那么我们为什么要使用markdown呢"><a class="markdownIt-Anchor" href="#那么我们为什么要使用markdown呢"></a> 那么我们为什么要使用markdown呢？</h1>
+<h1>那么我们为什么要使用markdown呢？</h1>
 <p>答案是没有必要，但是在前端工作的时候，markdown是一种很方便地东西。</p>
 <ul>
 <li>此时，大多数的样式，比如说标题，加粗等效果，页面的背景，字体的大小等等属性都已经被确定好了；</li>
 <li>此时你所需要做的就是输入文字，生成文件；</li>
 <li>那么这个时候使用word太笨重，而且不一定适用，并且会遇到各种兼容性问题，</li>
-<li>使用txt又没有格式，压根就没法用上前端所设计好的元素。<br />
+<li>使用txt又没有格式，压根就没法用上前端所设计好的元素。<br>
 于是此时，markdown就可以大展身手。</li>
 </ul>
 <p>除非遇上了网页前端不支持你所使用的图表、数学语法而你又恰好使用这些标准之外的东西，否则，你的markdown文件可以完美地按照程序员所设计的样式转换成html文件。</p>
 <p>这也是为什么个人博客、github的readme文件都使用markdown的原因了。</p>
-<p>我们是否一定要使用markdown，**甚至为了markdown抛弃word、txt或者别的什么文本格式呢？**我的答案是：<br />
+<p>我们是否一定要使用markdown，**甚至为了markdown抛弃word、txt或者别的什么文本格式呢？**我的答案是：<br>
 <em><strong>这是完全没有必要的</strong></em>；</p>
-<h1 id="什么时候使用markdown"><a class="markdownIt-Anchor" href="#什么时候使用markdown"></a> 什么时候使用markdown？</h1>
+<h1>什么时候使用markdown？</h1>
 <p>markdown最好的战场就是我所说的情况，只需要专注于内容，而不需要在意格式的情况。</p>
 <p><em>这种特定的情况并不是什么时候都可以遇到，我们只需要在遇到这样的需求的时候优先考虑到markdown格式是否可以给我们带来收益即可。</em></p>
 <blockquote>
@@ -652,11 +652,11 @@
     
     
     <div class="post-body" itemprop="articleBody">
-          <h1 id="还是在美化的道路上越走越远了"><a class="markdownIt-Anchor" href="#还是在美化的道路上越走越远了"></a> 还是在美化的道路上越走越远了</h1>
+          <h1>还是在美化的道路上越走越远了</h1>
 <p>这个周想要修复博客的sitemap功能，还想要修复博客的搜索功能。</p>
 <p>这两点都还算是比较好处理，虽然也费了点时间，也掉了点头发，但是其实是非常简单的，因为有直接可用的库，几行代码就可以完事了。</p>
 <p>我所遇到的问题主要是npm下载的时候没有下载到hexo的文件夹中，而是下载到了根目录下，我今天忽然想起来这件事，查询可知，确实是需要下载到hexo的根目录中的。</p>
-<p><strong>当我修复了这一错误的时候，他们终于开始正确地工作了。</strong><br />
+<p><strong>当我修复了这一错误的时候，他们终于开始正确地工作了。</strong><br>
 <em>下面，我还要再解决http跳转https的任务</em></p>
 <p>同时还想要实现这样的功能：<em><strong>给博客新建一个wiki页，然后实现在wiki页中发布专属于wiki的内容，就像是next的示例博客中那样。</strong></em></p>
 <p>但是让人沮丧的是，我没有在next的示例博客中找到我想要的介绍，似乎直接略过了这一部分。</p>

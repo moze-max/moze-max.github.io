@@ -266,29 +266,29 @@
     
     
     
-    <div class="post-body" itemprop="articleBody"><p>这个是leetcode的2575题。<br />
+    <div class="post-body" itemprop="articleBody"><p>这个是leetcode的2575题。<br>
 对于这一道题，固然可以这样来处理cnt的数据：</p>
-<pre class="highlight"><code class="C++">cnt = cnt *= <span class="number">10</span> + num;
+<pre><code class="language-C++">cnt = cnt *= 10 + num;
 </code></pre>
 <p>但是这么写却又隐患——那就是当遇到特别大，接近long long 的极限的长度的数字的时候，就没有办法再*=10了。</p>
 <p>这个文章将给你介绍如何节约空间。</p>
-<pre class="highlight"><code class="C++"><span class="keyword">class</span> <span class="title class_">Solution</span> &#123;
-<span class="keyword">public</span>:
-    <span class="function">vector&lt;<span class="type">int</span>&gt; <span class="title">divisibilityArray</span><span class="params">(string word, <span class="type">int</span> m)</span> </span>&#123;
-        <span class="type">int</span> n = word.<span class="built_in">size</span>();
-        vector&lt;<span class="type">int</span>&gt;ans;
-        <span class="type">long</span> <span class="type">long</span>  cnt = <span class="number">0</span>;
-        <span class="keyword">for</span>(<span class="keyword">auto</span> q:word)&#123;
-            <span class="keyword">auto</span> num = q -<span class="string">&#x27;0&#x27;</span>;
-            cnt = (cnt * <span class="number">10</span> + num) % m;
-            <span class="keyword">if</span>(cnt % m == <span class="number">0</span>)&#123;
-                ans.<span class="built_in">emplace</span>(ans.<span class="built_in">end</span>(),<span class="number">1</span>);
+<pre><code class="language-C++">class Solution &#123;
+public:
+    vector&lt;int&gt; divisibilityArray(string word, int m) &#123;
+        int n = word.size();
+        vector&lt;int&gt;ans;
+        long long  cnt = 0;
+        for(auto q:word)&#123;
+            auto num = q -'0';
+            cnt = (cnt * 10 + num) % m;
+            if(cnt % m == 0)&#123;
+                ans.emplace(ans.end(),1);
             &#125;
-            <span class="keyword">else</span>&#123;
-                ans.<span class="built_in">emplace</span>(ans.<span class="built_in">end</span>(),<span class="number">0</span>);
+            else&#123;
+                ans.emplace(ans.end(),0);
             &#125;
         &#125;
-        <span class="keyword">return</span> ans;
+        return ans;
         
     &#125;
 &#125;;

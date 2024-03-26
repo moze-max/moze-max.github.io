@@ -1,18 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>整理</title>
+    <url>/2024/02/23/%E6%95%B4%E7%90%86/</url>
+    <content><![CDATA[<h1>知识的海洋无穷无尽罢!</h1>
+<p>我此刻仍旧在试图让这个网页更加的好看,更加的像是我曾经的设计.</p>
+<p>即使这么做确实不是很简单.</p>
+<span id="more"></span>
+<p><strong>有的事情说起来搞笑</strong></p>
+<p>我原本想要做这个网站的时候,却没有想到上传一个Html文件,让它正常运行原来那么简单,我原本以为十分之复杂,甚至还觉得为什么微软出的东西能搞得那么复杂?!</p>
+<p>哦!现在才知道,<em>一切都是那么简单,只不过是我想复杂了罢了</em>!!</p>
+<p>就在谈笑间,又整出了bug…我可能是没有这种天赋来开发软件罢…</p>
+<p>git是真的好用,直接回滚…很难想象没有git之前的程序员是处于怎么样的水深火热之中,某一步出错了,想找出来就很难了,而用git可以直接回滚到正常运行的版本.</p>
+<p>程序员果然不能没有git!</p>
+<p>-我的Bilibili<span class="exturl" data-url="aHR0cHM6Ly9zcGFjZS5iaWxpYmlsaS5jb20vNDQxMzE4NTIz" title="欢迎您！">墨泽moozy<i class="fa fa-external-link-alt"></i></span></p>
+<p>-我的公众号<a href="#hellomoozy">墨泽moozy</a></p>
+<p>-我的知乎<span class="exturl" data-url="aHR0cHM6Ly93d3cuemhpaHUuY29tL3Blb3BsZS9nYW4tZ2FuLWppbmctamluZy01MS05MA==" title="欢迎关注">干干净净我的心<i class="fa fa-external-link-alt"></i></span></p>
+<p>-我的<span class="exturl" data-url="aHR0cHM6Ly9tb3plLW1heC5naXRodWIuaW8=" title="欢迎到访！">博客<i class="fa fa-external-link-alt"></i></span></p>
+]]></content>
+      <tags>
+        <tag>text</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>hello</title>
     <url>/2024/02/23/hello/</url>
-    <content><![CDATA[<h3 id="very-nice-to-see-you"><a class="markdownIt-Anchor" href="#very-nice-to-see-you"></a> very nice to see you!</h3>
-<p>你一定不会相信我为了搞这个花费了多少的时间，犯了多少错误，但是不管怎么说，最终还是上线了……  <br><br />
+    <content><![CDATA[<h3 id="very-nice-to-see-you">very nice to see you!</h3>
+<p>你一定不会相信我为了搞这个花费了多少的时间，犯了多少错误，但是不管怎么说，最终还是上线了……  <br><br>
 说起来是十分的羞耻，我原本想要使用最原始的方式，那就是不用主题，不用别人写好的文件，而是完全靠自己。<br></p>
 <span id="more"></span>
-<p>靠自己写一个识别md文件的程序<br><br />
+<p>靠自己写一个识别md文件的程序<br><br>
 然后自己写一个对应的html文件，然后这个写好的js文件就会自动将md文件修改成html文件。</p>
 <p>你可能会觉得好像很厉害的样子，其实不是的。<br></p>
 <p>要实现这个其实非常简单.</p>
 <blockquote>
-<p>只需要用html用一行代码来写一个块用来接受js处理之后的值,<br><br />
+<p>只需要用html用一行代码来写一个块用来接受js处理之后的值,<br><br>
 然后在js中使用四行代码写一个处理md文件的程序就可以了.<br></p>
 </blockquote>
 <p>确实非常简单是吧?但是现在问题来了,在本地上是没法读取md文件的,这是由于浏览器的安全设置导致的.<br></p>
@@ -22,7 +44,7 @@
 <p>我十分不理解,但是不知道怎么应该修复这个问题,<br>英文世界的文档有点难以找寻,一来是不知道应该怎么搜索,二来是即使搜索到了也很可能没有留意到而略过.<br></p>
 <p>这个就是最大的困难了,假如无法解决这个问题,难道你要写一篇blog就要自己编辑一个html文件么?那么多浪费时间,多浪费精力啊!</p>
 <blockquote>
-<p>尽管html要比markdown强大得多,但是作为一个博客能用上那么强大的功能吗?为了这些用不上的强大要付出那么多的精力,实在是不划算.<br />
+<p>尽管html要比markdown强大得多,但是作为一个博客能用上那么强大的功能吗?为了这些用不上的强大要付出那么多的精力,实在是不划算.<br>
 <br></p>
 </blockquote>
 <p>于是我最终决定使用主题,偶然间看见了这个开源主题.</p>
@@ -45,81 +67,9 @@
       </tags>
   </entry>
   <entry>
-    <title>整理</title>
-    <url>/2024/02/23/%E6%95%B4%E7%90%86/</url>
-    <content><![CDATA[<h1 id="知识的海洋无穷无尽罢"><a class="markdownIt-Anchor" href="#知识的海洋无穷无尽罢"></a> 知识的海洋无穷无尽罢!</h1>
-<p>我此刻仍旧在试图让这个网页更加的好看,更加的像是我曾经的设计.</p>
-<p>即使这么做确实不是很简单.</p>
-<span id="more"></span>
-<p><strong>有的事情说起来搞笑</strong></p>
-<p>我原本想要做这个网站的时候,却没有想到上传一个Html文件,让它正常运行原来那么简单,我原本以为十分之复杂,甚至还觉得为什么微软出的东西能搞得那么复杂?!</p>
-<p>哦!现在才知道,<em>一切都是那么简单,只不过是我想复杂了罢了</em>!!</p>
-<p>就在谈笑间,又整出了bug…我可能是没有这种天赋来开发软件罢…</p>
-<p>git是真的好用,直接回滚…很难想象没有git之前的程序员是处于怎么样的水深火热之中,某一步出错了,想找出来就很难了,而用git可以直接回滚到正常运行的版本.</p>
-<p>程序员果然不能没有git!</p>
-<p>-我的Bilibili<span class="exturl" data-url="aHR0cHM6Ly9zcGFjZS5iaWxpYmlsaS5jb20vNDQxMzE4NTIz" title="欢迎您！">墨泽moozy<i class="fa fa-external-link-alt"></i></span></p>
-<p>-我的公众号<a href="#hellomoozy">墨泽moozy</a></p>
-<p>-我的知乎<span class="exturl" data-url="aHR0cHM6Ly93d3cuemhpaHUuY29tL3Blb3BsZS9nYW4tZ2FuLWppbmctamluZy01MS05MA==" title="欢迎关注">干干净净我的心<i class="fa fa-external-link-alt"></i></span></p>
-<p>-我的<span class="exturl" data-url="aHR0cHM6Ly9tb3plLW1heC5naXRodWIuaW8=" title="欢迎到访！">博客<i class="fa fa-external-link-alt"></i></span></p>
-]]></content>
-      <tags>
-        <tag>text</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>typecho</title>
-    <url>/2024/02/24/typecho/</url>
-    <content><![CDATA[<p>我原本是在用着jekyll的，然后我想要想办法让我的在GitHub pages上的页面也上到我的服务器上，但是没想到服务器上安装jekyll失败了……</p>
-<p>我可以继续去折腾，但是这是没有必要的……</p>
-<p>是的……这是没有必要的……</p>
-<span id="more"></span>
-<p>我认为现在唯一必要的，就是是否有一种同步工具，可以方便地同步这两个博客上的内容。</p>
-<p>如果不可行的话，那么我将会在这两个博客中的其中一个失效后使用另外一个。</p>
-<p>我已经花了两天的时候攻克了在github上的博客配置，不愿意再花两天再在我的服务器上配置我的博客了。</p>
-<p>typecho配置是真的很方便，再腾讯云上只需要点两下，然后复制几行命令，然后就可以直接登录进后台使用了。</p>
-<p>-我的Bilibili<span class="exturl" data-url="aHR0cHM6Ly9zcGFjZS5iaWxpYmlsaS5jb20vNDQxMzE4NTIz" title="欢迎您！">墨泽moozy<i class="fa fa-external-link-alt"></i></span></p>
-<p>-我的公众号<a href="#hellomoozy">墨泽moozy</a></p>
-<p>-我的知乎<span class="exturl" data-url="aHR0cHM6Ly93d3cuemhpaHUuY29tL3Blb3BsZS9nYW4tZ2FuLWppbmctamluZy01MS05MA==" title="欢迎关注">干干净净我的心<i class="fa fa-external-link-alt"></i></span></p>
-<p>-我的<a href="https://moozy.space" title="欢迎到访！">博客</a></p>
-]]></content>
-      <tags>
-        <tag>text</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>一些杂项</title>
-    <url>/2024/02/23/%E7%A2%8E%E7%A2%8E%E5%BF%B5/</url>
-    <content><![CDATA[<h1 id="first"><a class="markdownIt-Anchor" href="#first"></a> FIRST</h1>
-<p>首先就是网站几乎彻底部署好了，这个方案是可行的，而且也是久经验证的。</p>
-<p>在历史上，github pages也为许多的程序员提供了这样的服务，可以预见的是，在短短的几年内，github pages都不会关闭这个服务，即使Github pages 关闭了，我也依旧可以在自己的服务器上继续接力下去。</p>
-<p>而且，github 被微软收购了，背靠着微软雄厚的财力，我相信github短时间内不会倒闭。</p>
-<span id="more"></span>
-<h1 id="secound"><a class="markdownIt-Anchor" href="#secound"></a> SECOUND</h1>
-<p>github pages + vscode +markdown真的是一个非常好用的组合。</p>
-<p>现在总算是可以从这些事情中解脱出来了，然后就可以用点心思去看看算法io的东西，我现在觉得这一套玩意有一点过于学术化，但是以后转码也许能用得上……此外，蓝桥杯毕竟已经交了300元的报名费。</p>
-<p>不论如何，或许可以这么说，我会继续前进，继续前进，直到取得一个比较好的结果……或许可以问<strong>这一个结果</strong>是什么呢？</p>
-<p>我已经有一点语无伦次了，当我思考我的未来的时候，我是迷茫的。</p>
-<p>思考一下……这个时代变得太快了，一个公司，在短短的几年时间登上巅峰，又在短短的几年时间陷入低谷甚至是破产。</p>
-<p>看看IBM公司，曾经的王者，现在已经默默无闻，成为了一个类似智囊团的存在，曾经的机器业务现在也所剩无几……</p>
-<p>再例如NOKIA公司，现在NOKIA回归了通信的老本行，买下了AT&amp;T的贝尔实验室，但是NOKIA与贝尔实验室都没能再续辉煌。</p>
-<p>关于未来的事情，又有谁能说得准？这么早就“布局未来”真的有必要？</p>
-<p>你真的可以<strong>布局</strong>未来么？</p>
-<h1 id="last"><a class="markdownIt-Anchor" href="#last"></a> LAST</h1>
-<p>我希望公众号上可以很方便的同步markdown语法，这样可以方便我进行博客的发布……Markdown真是一个很好用的东西，在使用markdown的时候你的双手不需要离开键盘，只需要几个符号，你就可以进行大纲、加粗、斜体、标题的设置。</p>
-<p>-我的Bilibili<span class="exturl" data-url="aHR0cHM6Ly9zcGFjZS5iaWxpYmlsaS5jb20vNDQxMzE4NTIz" title="欢迎您！">墨泽moozy<i class="fa fa-external-link-alt"></i></span></p>
-<p>-我的公众号<a href="#hellomoozy">墨泽moozy</a></p>
-<p>-我的知乎<span class="exturl" data-url="aHR0cHM6Ly93d3cuemhpaHUuY29tL3Blb3BsZS9nYW4tZ2FuLWppbmctamluZy01MS05MA==" title="欢迎关注">干干净净我的心<i class="fa fa-external-link-alt"></i></span></p>
-<p>-我的<span class="exturl" data-url="aHR0cHM6Ly9tb3plLW1heC5naXRodWIuaW8=" title="欢迎到访！">博客<i class="fa fa-external-link-alt"></i></span></p>
-]]></content>
-      <tags>
-        <tag>text</tag>
-        <tag>someword</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>碎碎念</title>
     <url>/2024/02/24/%E7%A2%8E%E7%A2%8E%E5%BF%B5/</url>
-    <content><![CDATA[<h1 id="azure"><a class="markdownIt-Anchor" href="#azure"></a> azure</h1>
+    <content><![CDATA[<h1>azure</h1>
 <p>今天晚上偶然看到了azure的价格计算器，在上面作为学习用途去部署静态网页竟然也是免费的！</p>
 <p>这不由得令我感到欣喜若狂。</p>
 <p>但是我忽然又想到，我这么费劲巴拉的到底是想要干什么呢？</p>
@@ -146,42 +96,81 @@
       </tags>
   </entry>
   <entry>
+    <title>关于二叉树的层序遍历方式</title>
+    <url>/2024/02/27/%E5%BF%83%E6%80%81%E5%B4%A9%E4%BA%86/</url>
+    <content><![CDATA[<h1>心态崩了</h1>
+<p>蓝桥杯的题好难……前面几道填空题，暴力固然可以做，可是代码量大，能保证代码写出来不出错也是很难的……而有一些题目，要进行剪枝等等操作，还有一些题目，思路都很难想……虽然看了别人的的答案之后——啊呀！不就是这么一回事么！</p>
+<p>可是自己做起来就是很难搞。</p>
+<p>后面的几道大题就更是很难很难了。</p>
+<p>线段树、前后缀和、图论……不是我吹，吹牛可以，真写起来是一道也不会。能写个dfs就已经快到极限了，用个滚动数组、滑动窗口、二分查找优化一下就是真的极限了……</p>
+<p>今年的蓝桥杯能给我来一道比较简单的动态规划，我就真的谢天谢地。</p>
+<p>马上又要开学了。感觉一个寒假过去啥也没学到，啥也不是…………下个学期课还算是比较少……但是有大学物理…………先走一步看一步吧，慢慢学，慢慢努力……蓝桥杯这种玩意……今年拿不了奖还可以明年再试试，然后到大三就努力备战考研了。</p>
+<h2 id="下面是代码部分">下面是代码部分</h2>
+<h3 id="先来说说-queue">先来说说 queue</h3>
+<p>queue和栈最大的区别是queue是先进先出的，叫做队列，栈是先进后出的，类似于一个十分窄的箱子，前面放进去的东西就只好最后才能取出来。</p>
+<span id="more"></span>
+<p>队列则是类似于平时的排队，先排队的人先出来。</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">&#123;</span><br><span class="line"><span class="comment">//C++队列Queue类成员函数如下:</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">back</span>()<span class="comment">//返回最后一个元素</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">empty</span>()<span class="comment">//如果队列空则返回真</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">front</span>()<span class="comment">//返回第一个元素</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">pop</span>()<span class="comment">//删除第一个元素</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">push</span>()<span class="comment">//在末尾加入一个元素</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">size</span>()<span class="comment">//返回队列中元素的个数</span></span><br><span class="line"></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p>知道了queue的性质，来讲讲二叉树的层序遍历。</p>
+<p><strong>所谓的层序遍历就是把二叉树的每一层的元素都遍历出来，默认是从左到右，顺序是每一层，从根节点逐层向下。</strong></p>
+<p>那么输出的状态就是[[],[]]这样的，因为有的节点是有两个值的。或者不用这样只是输出排序也成。</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="comment">//在蓝桥杯里，不像是leetcode那样一切都是封装好，只需要写一个函数即可，在蓝桥杯上，要写一个完整的函数。</span></span><br><span class="line"><span class="comment">//首先导库</span></span><br><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;bits/stdc++.h&gt;</span>  </span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br><span class="line"><span class="comment">//我固然知道using namespace std是一种十分不好的行为，但是在蓝桥杯里本来也用不上太多的命名，一个using就可以解决一切问题。</span></span><br><span class="line"><span class="keyword">struct</span> <span class="title class_">TreeNode</span>&#123;</span><br><span class="line">    <span class="type">int</span> val;</span><br><span class="line">    TreeNode* left;</span><br><span class="line">    TreeNode* right;</span><br><span class="line">    <span class="built_in">TreeNode</span> (<span class="type">int</span> x):<span class="built_in">val</span>(x),<span class="built_in">left</span>(<span class="literal">nullptr</span>),<span class="built_in">right</span>(<span class="literal">nullptr</span>)&#123;&#125;</span><br><span class="line">&#125;;</span><br><span class="line"></span><br><span class="line"><span class="comment">//root = [3,9,20,null,null,15,7]  </span></span><br><span class="line"></span><br><span class="line">vector&lt;vector&lt;<span class="type">int</span>&gt;&gt; <span class="built_in">level</span>(TreeNode* root)&#123;</span><br><span class="line">    vector&lt;vector&lt;<span class="type">int</span>&gt;&gt; res;<span class="comment">//使用一个二维容器来储存数据。</span></span><br><span class="line">    <span class="keyword">if</span>(!root)&#123;</span><br><span class="line">        <span class="keyword">return</span> res;</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="comment">//如果根节点是空的那就直接返回，下面的写法也可以实现同样的效果。</span></span><br><span class="line">    <span class="comment">/*</span></span><br><span class="line"><span class="comment">    if(root ==  nullptr)</span></span><br><span class="line"><span class="comment">        return res;</span></span><br><span class="line"><span class="comment">    */</span></span><br><span class="line"></span><br><span class="line">    queue&lt;TreeNode*&gt; q;<span class="comment">//创建一个队列用来层序遍历</span></span><br><span class="line">    q.<span class="built_in">push</span>(root);<span class="comment">//先是将根节点入队。</span></span><br><span class="line">    <span class="keyword">while</span>(!q.<span class="built_in">empty</span>())&#123;<span class="comment">//如果当前节点不为空</span></span><br><span class="line">        <span class="type">int</span> cursize = q.<span class="built_in">size</span>();</span><br><span class="line">        res.<span class="built_in">push_back</span>(<span class="built_in">vector</span>&lt;<span class="type">int</span>&gt;());<span class="comment">//往答案里添加一个容器。</span></span><br><span class="line"></span><br><span class="line">        <span class="keyword">for</span>(<span class="type">int</span> i = <span class="number">1</span>;i&lt;= cursize;i++)&#123;</span><br><span class="line">            <span class="keyword">auto</span> node = q.<span class="built_in">front</span>();<span class="comment">//node就是当前层的最左边的节点。</span></span><br><span class="line">            q.<span class="built_in">pop</span>();<span class="comment">//删除队列中的第一个元素，注意，这个时候第一个元素已经被存到node里面了</span></span><br><span class="line">            res.<span class="built_in">back</span>().<span class="built_in">push_back</span>(node-&gt;val);<span class="comment">//向res的最后的vector存入node的值。注意这个时候node是第一个元素。然后将node所有的左右的元素也存进去。</span></span><br><span class="line">            <span class="comment">//然后继续向左右添加节点。</span></span><br><span class="line">            <span class="keyword">if</span>(node-&gt;left) </span><br><span class="line">                q.<span class="built_in">push</span>(node-&gt;left);</span><br><span class="line">            <span class="keyword">if</span>(node-&gt;right)</span><br><span class="line">                q.<span class="built_in">push</span>(node-&gt;right);</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="keyword">return</span> res;</span><br><span class="line"></span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="type">int</span> <span class="title">main</span><span class="params">(<span class="type">void</span>)</span></span>&#123;</span><br><span class="line">    TreeNode* root = <span class="keyword">new</span> <span class="built_in">TreeNode</span>(<span class="number">1</span>);  </span><br><span class="line">    root-&gt;left = <span class="keyword">new</span> <span class="built_in">TreeNode</span>(<span class="number">2</span>);  </span><br><span class="line">    root-&gt;right = <span class="keyword">new</span> <span class="built_in">TreeNode</span>(<span class="number">3</span>);  </span><br><span class="line">    root-&gt;right-&gt;left = <span class="keyword">new</span> <span class="built_in">TreeNode</span>(<span class="number">4</span>);  </span><br><span class="line">    root-&gt;right-&gt;right = <span class="keyword">new</span> <span class="built_in">TreeNode</span>(<span class="number">5</span>); </span><br><span class="line">    vector&lt;vector&lt;<span class="type">int</span>&gt;&gt;ans;</span><br><span class="line">    ans = <span class="built_in">level</span>(root);</span><br><span class="line">    <span class="comment">//在leetcode中此时直接return就可以结束了。</span></span><br><span class="line">    <span class="type">int</span> n = ans.<span class="built_in">size</span>();</span><br><span class="line">    <span class="keyword">for</span>(<span class="type">int</span> i = <span class="number">0</span>;i &lt; n; i++)</span><br><span class="line">    &#123;</span><br><span class="line">        <span class="type">int</span> m = ans[i].<span class="built_in">size</span>();</span><br><span class="line">        <span class="keyword">for</span>(<span class="type">int</span> j = <span class="number">0</span>;j &lt; m;j++)</span><br><span class="line">        &#123;</span><br><span class="line">            cout&lt;&lt;ans[i][j];</span><br><span class="line">            cout&lt;&lt;endl;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<h3 id="有几点是特别妙的">有几点是特别妙的。</h3>
+<p><strong>首先就是使用队列可以减少空间开支，这样除了那些用来维护的内存、树本身的内存外只需要两层树的内存即可。</strong><br>
+<strong>每一层都是root-&gt;left然后再root-&gt;right，这样本身就可以维护队列的从左到右。由于根节点只有一个，所以根节点无所谓是从左到右还是从右到左，其他的节点都是先左再右，然后再加上队列的先进先出的特点，这下子就可以实现从左到右的排列。</strong></p>
+<p>说说一个朴素的做法，也就是leetcode题解中提到的那一个做法，也是类似的历遍，但是是使用哈希表，使用一个二元组记录下节点与其对应的层数，使用哈希表来储存这些数据。</p>
+<p>然后输出的时候就可以使用层数作为key来输出每一层的元素了。</p>
+<p>那么锯齿层序遍历是怎么搞呢？<strong>锯齿层序遍历就是每一层遍历的顺序是反过来的</strong>，这一层是从左到右，下一层就是从右到左。</p>
+<p>可以在存数据进res的时候反转一下数据、或者是需要翻转的时候就把此节点的值添加到队列的尾部，同样是从左到右遍历，那么添加的时候就已经从右到左添加了。</p>
+<p>-我的Bilibili<span class="exturl" data-url="aHR0cHM6Ly9zcGFjZS5iaWxpYmlsaS5jb20vNDQxMzE4NTIz" title="欢迎您！">墨泽moozy<i class="fa fa-external-link-alt"></i></span></p>
+<p>-我的公众号<a href="#hellomoozy">墨泽moozy</a></p>
+<p>-我的知乎<span class="exturl" data-url="aHR0cHM6Ly93d3cuemhpaHUuY29tL3Blb3BsZS9nYW4tZ2FuLWppbmctamluZy01MS05MA==" title="欢迎关注">干干净净我的心<i class="fa fa-external-link-alt"></i></span></p>
+<p>-我的<a href="https://moozy.space" title="欢迎到访！">博客</a></p>
+]]></content>
+      <tags>
+        <tag>someword</tag>
+        <tag>碎碎念</tag>
+        <tag>编程</tag>
+        <tag>算法</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>二叉树的集中遍历</title>
     <url>/2024/02/25/%E4%BA%8C%E5%8F%89%E6%A0%91/</url>
-    <content><![CDATA[<h1 id="二叉树的几种遍历"><a class="markdownIt-Anchor" href="#二叉树的几种遍历"></a> 二叉树的几种遍历</h1>
-<h2 id="first"><a class="markdownIt-Anchor" href="#first"></a> FIRST</h2>
-<h3 id="一些废话先写在前面"><a class="markdownIt-Anchor" href="#一些废话先写在前面"></a> 一些废话先写在前面</h3>
+    <content><![CDATA[<h1>二叉树的几种遍历</h1>
+<h2 id="first">FIRST</h2>
+<h3 id="一些废话先写在前面">一些废话先写在前面</h3>
 <p>不论是什么时候，假如你想要前进，想要进步，那就先让自己动起来，只要自己动起来了，那么很多东西都好说了。</p>
 <p>很多的时候就是不想动起来，那么就今天不想动，明天不想动，后天不想动，以后也都不想动了。</p>
 <p>努力的时候要想想自己是真的收获了吗，而不是只是努力了一个小时就觉得自己有收获了。</p>
-<h2 id="进入正题"><a class="markdownIt-Anchor" href="#进入正题"></a> 进入正题：</h2>
+<h2 id="进入正题：">进入正题：</h2>
 <span id="more"></span>
-<h4 id="什么是二叉树"><a class="markdownIt-Anchor" href="#什么是二叉树"></a> 什么是二叉树？</h4>
-<p>简单的来说，那就是树的一种特型，是树中比较简单的一种，其中每个节点都有左子树和右子树（只不过有可能是空的<strong>nullptr</strong>）<br />
-将示意图画出来，就像是现实中的树倒过来一样，所以叫做树，而这种树就叫做二叉树。<br />
+<h4 id="什么是二叉树？">什么是二叉树？</h4>
+<p>简单的来说，那就是树的一种特型，是树中比较简单的一种，其中每个节点都有左子树和右子树（只不过有可能是空的<strong>nullptr</strong>）<br>
+将示意图画出来，就像是现实中的树倒过来一样，所以叫做树，而这种树就叫做二叉树。<br>
 由二叉树左右节点是否为空，是否对称等又可以引出来不同的二叉树类型，比如说完美二叉树，对称二叉树等等，但是这些二叉树只不过是在描述二叉树的样式，并不像树、二叉树的提出这么惊世骇俗，那么别出心裁。</p>
-<h4 id="什么是树"><a class="markdownIt-Anchor" href="#什么是树"></a> 什么是树？</h4>
-<p>树是一种形象化的说法。<br />
+<h4 id="什么是树？">什么是树？</h4>
+<p>树是一种形象化的说法。<br>
 从根部开始，向一个方向延伸，具有多个分支结构，这样的数据就叫做树。从图像上看是如此，实际上在编程中树的构成方式有很多种，力扣中的题目大多是使用结构体，外加抽象的树类型（Treenode）的方式构成的。</p>
 <blockquote>
-<p>A Treenode is a data structure that represents one entry of a tree, which is composed of multiple of such nodes.<br />
+<p>A Treenode is a data structure that represents one entry of a tree, which is composed of multiple of such nodes.<br>
 The topmost node of a tree is called the “root”, and each node (with the exception of the root node) is associated with one parent node. Likewise, each node can have an arbitrary number of child nodes.</p>
 </blockquote>
-<h4 id="怎么求二叉树"><a class="markdownIt-Anchor" href="#怎么求二叉树"></a> 怎么求二叉树？</h4>
-<p>对于一个简单的二叉树：有三种经典的遍历的方法。<br />
-前序遍历：<strong>根左右</strong><br />
-中序遍历：<strong>左根右</strong><br />
+<h4 id="怎么求二叉树？">怎么求二叉树？</h4>
+<p>对于一个简单的二叉树：有三种经典的遍历的方法。<br>
+前序遍历：<strong>根左右</strong><br>
+中序遍历：<strong>左根右</strong><br>
 后序遍历：<strong>左右根</strong></p>
 <p>前序遍历就是从根节点出发，先遍历到最左边的根，然后再逐一向左遍历，其中会遍历完左边的某一个节点下面的所有节点，再会去遍历这个节点的父节点的右子节点。</p>
 <figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="type">void</span> <span class="title">preorder</span><span class="params">(TreeNode *root, vector&lt;<span class="type">int</span>&gt; &amp;res)</span> </span>&#123;</span><br><span class="line">    <span class="keyword">if</span> (root == <span class="literal">nullptr</span>) &#123;</span><br><span class="line">        <span class="keyword">return</span>;</span><br><span class="line">    &#125;</span><br><span class="line">    res.<span class="built_in">push_back</span>(root-&gt;val);<span class="comment">//将当前节点的值存到res里</span></span><br><span class="line">    <span class="built_in">preorder</span>(root-&gt;left, res);</span><br><span class="line">    <span class="built_in">preorder</span>(root-&gt;right, res);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 <p>这里以<strong>灵神</strong>的一段程序为例：</p>
-<p><strong>这是一段leetcode上的代码，由灵神撰写，为了方便我直接拿来用了。</strong><br />
+<p><strong>这是一段leetcode上的代码，由灵神撰写，为了方便我直接拿来用了。</strong><br>
 **这里为了方便储存数据，使用了栈，使用了递归的写法，假如下一个节点是空，那么就返回。所以我们现在模拟一下它的行动，在根节点，假如不是空节点，那么就会将当前节点的数据储存起来，也就是</p>
 <figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="built_in">push_back</span>(root-&gt;val)</span><br><span class="line">```  </span><br><span class="line"></span><br><span class="line">然后搜索左边的那一个节点，接下来，储存当前节点的数据，紧接着，又是递归到左边的节点…………  </span><br><span class="line"></span><br><span class="line">**直到左边的节点已经没有下一个数据，也就是<span class="literal">nullptr</span>的时候**，会从“下一个节点”返回到 **“最后一个有数据的节点”** ，随后，搜索“最后一个有数据的节点”的右节点……    </span><br><span class="line"></span><br><span class="line">然后就是返回到父节点，也就是上一层，再次搜索右节点，因为之前就是左节点下到了最底部，现在返回，就是搜索的从低到高的每一层节点的右节点。  </span><br><span class="line"></span><br><span class="line">这就是**前序遍历**。    </span><br><span class="line"></span><br><span class="line">那么，什么是中序遍历呢？    </span><br><span class="line"></span><br><span class="line">&gt;中序遍历：**左根右**  </span><br><span class="line"></span><br><span class="line">那么就是先递归到最左的节点，然后记录最左边的节点，然后从最左边的节点开始向上记录每一个父节点的值，然后就是父节点的右节点的值，仿照上面灵神的程序，我们可以这么写：    </span><br><span class="line"></span><br><span class="line">```C++</span><br><span class="line"><span class="keyword">if</span>(root == <span class="literal">nullptr</span>)</span><br><span class="line">    <span class="keyword">return</span>;</span><br><span class="line"><span class="built_in">p</span>(root-&gt;left,ans);</span><br><span class="line">ans.<span class="built_in">push_back</span>(root);</span><br><span class="line"><span class="built_in">p</span>(root-&gt;right,ans);</span><br><span class="line">```    </span><br><span class="line"></span><br><span class="line">&gt;后序遍历：**左右根**  </span><br><span class="line"></span><br><span class="line">这个也是十分简单的了，既然是左右根，那就是先是搜索到最左端节点的值，然后搜索与它同父节点的值，然后再搜索父节点的值，再以此类推。  </span><br><span class="line"></span><br><span class="line">```C++  </span><br><span class="line"></span><br><span class="line"><span class="keyword">if</span>(root == <span class="literal">nullptr</span>)</span><br><span class="line">    <span class="keyword">return</span>;</span><br><span class="line"><span class="built_in">p</span>(root-&gt;left,ans);</span><br><span class="line"><span class="built_in">p</span>(root-&gt;right,ans);</span><br><span class="line">ans.<span class="built_in">push_back</span>(root);</span><br><span class="line">```  </span><br><span class="line"></span><br><span class="line">那么在力扣中使用的二叉树到底是什么结构呢？</span><br><span class="line">&gt;以下代码来自[leetcode](leetcode.com)  </span><br><span class="line"></span><br><span class="line">```C++ </span><br><span class="line"> <span class="comment">// Definition for a binary tree node.</span></span><br><span class="line">  <span class="keyword">struct</span> <span class="title class_">TreeNode</span> &#123;</span><br><span class="line">      <span class="type">int</span> val;</span><br><span class="line">      TreeNode *left;</span><br><span class="line">      TreeNode *right;</span><br><span class="line">      <span class="built_in">TreeNode</span>() : <span class="built_in">val</span>(<span class="number">0</span>), <span class="built_in">left</span>(<span class="literal">nullptr</span>), <span class="built_in">right</span>(<span class="literal">nullptr</span>) &#123;&#125;</span><br><span class="line">      <span class="built_in">TreeNode</span>(<span class="type">int</span> x) : <span class="built_in">val</span>(x), <span class="built_in">left</span>(<span class="literal">nullptr</span>), <span class="built_in">right</span>(<span class="literal">nullptr</span>) &#123;&#125;</span><br><span class="line">      <span class="built_in">TreeNode</span>(<span class="type">int</span> x, TreeNode *left, TreeNode *right) : <span class="built_in">val</span>(x), <span class="built_in">left</span>(left), <span class="built_in">right</span>(right) &#123;&#125;</span><br><span class="line">  &#125;;</span><br></pre></td></tr></table></figure>
 <p>下面是对TreeNode结构的介绍：</p>
 <figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="keyword">struct</span> <span class="title class_">TreeNode</span> &#123;  </span><br><span class="line">      <span class="type">int</span> val;                     <span class="comment">// 节点中存储的整数值  </span></span><br><span class="line">      TreeNode *left;              <span class="comment">// 指向左子节点的指针  </span></span><br><span class="line">      TreeNode *right;             <span class="comment">// 指向右子节点的指针  </span></span><br><span class="line">  </span><br><span class="line">      <span class="comment">// 默认构造函数，初始化节点值为0，左右子节点指针为nullptr  </span></span><br><span class="line">      <span class="built_in">TreeNode</span>() : <span class="built_in">val</span>(<span class="number">0</span>), <span class="built_in">left</span>(<span class="literal">nullptr</span>), <span class="built_in">right</span>(<span class="literal">nullptr</span>) &#123;&#125;  </span><br><span class="line">  </span><br><span class="line">      <span class="comment">// 带一个参数的构造函数，只初始化节点值，左右子节点指针为nullptr  </span></span><br><span class="line">      <span class="built_in">TreeNode</span>(<span class="type">int</span> x) : <span class="built_in">val</span>(x), <span class="built_in">left</span>(<span class="literal">nullptr</span>), <span class="built_in">right</span>(<span class="literal">nullptr</span>) &#123;&#125;  </span><br><span class="line">  </span><br><span class="line">      <span class="comment">// 带三个参数的构造函数，初始化节点值以及左右子节点指针  </span></span><br><span class="line">      <span class="built_in">TreeNode</span>(<span class="type">int</span> x, TreeNode *left, TreeNode *right) : <span class="built_in">val</span>(x), <span class="built_in">left</span>(left), <span class="built_in">right</span>(right) &#123;&#125;  </span><br><span class="line">  &#125;;</span><br></pre></td></tr></table></figure>
-<p>int val;：每个TreeNode结构体都有一个整数值val，用于存储节点的值。<br />
-TreeNode *left; 和 TreeNode *right;：这两个是指针，分别指向节点的左子节点和右子节点。<br />
+<p>int val;：每个TreeNode结构体都有一个整数值val，用于存储节点的值。<br>
+TreeNode *left; 和 TreeNode *right;：这两个是指针，分别指向节点的左子节点和右子节点。<br>
 该结构体还提供了三个构造函数：</p>
 <p>默认构造函数：这个构造函数不接受任何参数。它将val初始化为0，并将left和right指针初始化为nullptr（表示没有子节点）。</p>
 <p>带一个参数的构造函数：这个构造函数接受一个整数x作为参数，将val初始化为x，并将left和right指针初始化为nullptr。</p>
@@ -201,65 +190,59 @@ TreeNode *left; 和 TreeNode *right;：这两个是指针，分别指向节点�
       </tags>
   </entry>
   <entry>
-    <title>关于二叉树的层序遍历方式</title>
-    <url>/2024/02/27/%E5%BF%83%E6%80%81%E5%B4%A9%E4%BA%86/</url>
-    <content><![CDATA[<h1 id="心态崩了"><a class="markdownIt-Anchor" href="#心态崩了"></a> 心态崩了</h1>
-<p>蓝桥杯的题好难……前面几道填空题，暴力固然可以做，可是代码量大，能保证代码写出来不出错也是很难的……而有一些题目，要进行剪枝等等操作，还有一些题目，思路都很难想……虽然看了别人的的答案之后——啊呀！不就是这么一回事么！</p>
-<p>可是自己做起来就是很难搞。</p>
-<p>后面的几道大题就更是很难很难了。</p>
-<p>线段树、前后缀和、图论……不是我吹，吹牛可以，真写起来是一道也不会。能写个dfs就已经快到极限了，用个滚动数组、滑动窗口、二分查找优化一下就是真的极限了……</p>
-<p>今年的蓝桥杯能给我来一道比较简单的动态规划，我就真的谢天谢地。</p>
-<p>马上又要开学了。感觉一个寒假过去啥也没学到，啥也不是…………下个学期课还算是比较少……但是有大学物理…………先走一步看一步吧，慢慢学，慢慢努力……蓝桥杯这种玩意……今年拿不了奖还可以明年再试试，然后到大三就努力备战考研了。</p>
-<h2 id="下面是代码部分"><a class="markdownIt-Anchor" href="#下面是代码部分"></a> 下面是代码部分</h2>
-<h3 id="先来说说-queue"><a class="markdownIt-Anchor" href="#先来说说-queue"></a> 先来说说 queue</h3>
-<p>queue和栈最大的区别是queue是先进先出的，叫做队列，栈是先进后出的，类似于一个十分窄的箱子，前面放进去的东西就只好最后才能取出来。</p>
+    <title>一些杂项</title>
+    <url>/2024/02/23/%E7%A2%8E%E7%A2%8E%E5%BF%B5/</url>
+    <content><![CDATA[<h1>FIRST</h1>
+<p>首先就是网站几乎彻底部署好了，这个方案是可行的，而且也是久经验证的。</p>
+<p>在历史上，github pages也为许多的程序员提供了这样的服务，可以预见的是，在短短的几年内，github pages都不会关闭这个服务，即使Github pages 关闭了，我也依旧可以在自己的服务器上继续接力下去。</p>
+<p>而且，github 被微软收购了，背靠着微软雄厚的财力，我相信github短时间内不会倒闭。</p>
 <span id="more"></span>
-<p>队列则是类似于平时的排队，先排队的人先出来。</p>
-<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">&#123;</span><br><span class="line"><span class="comment">//C++队列Queue类成员函数如下:</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">back</span>()<span class="comment">//返回最后一个元素</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">empty</span>()<span class="comment">//如果队列空则返回真</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">front</span>()<span class="comment">//返回第一个元素</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">pop</span>()<span class="comment">//删除第一个元素</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">push</span>()<span class="comment">//在末尾加入一个元素</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">size</span>()<span class="comment">//返回队列中元素的个数</span></span><br><span class="line"></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<p>知道了queue的性质，来讲讲二叉树的层序遍历。</p>
-<p><strong>所谓的层序遍历就是把二叉树的每一层的元素都遍历出来，默认是从左到右，顺序是每一层，从根节点逐层向下。</strong></p>
-<p>那么输出的状态就是[[],[]]这样的，因为有的节点是有两个值的。或者不用这样只是输出排序也成。</p>
-<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="comment">//在蓝桥杯里，不像是leetcode那样一切都是封装好，只需要写一个函数即可，在蓝桥杯上，要写一个完整的函数。</span></span><br><span class="line"><span class="comment">//首先导库</span></span><br><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;bits/stdc++.h&gt;</span>  </span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br><span class="line"><span class="comment">//我固然知道using namespace std是一种十分不好的行为，但是在蓝桥杯里本来也用不上太多的命名，一个using就可以解决一切问题。</span></span><br><span class="line"><span class="keyword">struct</span> <span class="title class_">TreeNode</span>&#123;</span><br><span class="line">    <span class="type">int</span> val;</span><br><span class="line">    TreeNode* left;</span><br><span class="line">    TreeNode* right;</span><br><span class="line">    <span class="built_in">TreeNode</span> (<span class="type">int</span> x):<span class="built_in">val</span>(x),<span class="built_in">left</span>(<span class="literal">nullptr</span>),<span class="built_in">right</span>(<span class="literal">nullptr</span>)&#123;&#125;</span><br><span class="line">&#125;;</span><br><span class="line"></span><br><span class="line"><span class="comment">//root = [3,9,20,null,null,15,7]  </span></span><br><span class="line"></span><br><span class="line">vector&lt;vector&lt;<span class="type">int</span>&gt;&gt; <span class="built_in">level</span>(TreeNode* root)&#123;</span><br><span class="line">    vector&lt;vector&lt;<span class="type">int</span>&gt;&gt; res;<span class="comment">//使用一个二维容器来储存数据。</span></span><br><span class="line">    <span class="keyword">if</span>(!root)&#123;</span><br><span class="line">        <span class="keyword">return</span> res;</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="comment">//如果根节点是空的那就直接返回，下面的写法也可以实现同样的效果。</span></span><br><span class="line">    <span class="comment">/*</span></span><br><span class="line"><span class="comment">    if(root ==  nullptr)</span></span><br><span class="line"><span class="comment">        return res;</span></span><br><span class="line"><span class="comment">    */</span></span><br><span class="line"></span><br><span class="line">    queue&lt;TreeNode*&gt; q;<span class="comment">//创建一个队列用来层序遍历</span></span><br><span class="line">    q.<span class="built_in">push</span>(root);<span class="comment">//先是将根节点入队。</span></span><br><span class="line">    <span class="keyword">while</span>(!q.<span class="built_in">empty</span>())&#123;<span class="comment">//如果当前节点不为空</span></span><br><span class="line">        <span class="type">int</span> cursize = q.<span class="built_in">size</span>();</span><br><span class="line">        res.<span class="built_in">push_back</span>(<span class="built_in">vector</span>&lt;<span class="type">int</span>&gt;());<span class="comment">//往答案里添加一个容器。</span></span><br><span class="line"></span><br><span class="line">        <span class="keyword">for</span>(<span class="type">int</span> i = <span class="number">1</span>;i&lt;= cursize;i++)&#123;</span><br><span class="line">            <span class="keyword">auto</span> node = q.<span class="built_in">front</span>();<span class="comment">//node就是当前层的最左边的节点。</span></span><br><span class="line">            q.<span class="built_in">pop</span>();<span class="comment">//删除队列中的第一个元素，注意，这个时候第一个元素已经被存到node里面了</span></span><br><span class="line">            res.<span class="built_in">back</span>().<span class="built_in">push_back</span>(node-&gt;val);<span class="comment">//向res的最后的vector存入node的值。注意这个时候node是第一个元素。然后将node所有的左右的元素也存进去。</span></span><br><span class="line">            <span class="comment">//然后继续向左右添加节点。</span></span><br><span class="line">            <span class="keyword">if</span>(node-&gt;left) </span><br><span class="line">                q.<span class="built_in">push</span>(node-&gt;left);</span><br><span class="line">            <span class="keyword">if</span>(node-&gt;right)</span><br><span class="line">                q.<span class="built_in">push</span>(node-&gt;right);</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="keyword">return</span> res;</span><br><span class="line"></span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="type">int</span> <span class="title">main</span><span class="params">(<span class="type">void</span>)</span></span>&#123;</span><br><span class="line">    TreeNode* root = <span class="keyword">new</span> <span class="built_in">TreeNode</span>(<span class="number">1</span>);  </span><br><span class="line">    root-&gt;left = <span class="keyword">new</span> <span class="built_in">TreeNode</span>(<span class="number">2</span>);  </span><br><span class="line">    root-&gt;right = <span class="keyword">new</span> <span class="built_in">TreeNode</span>(<span class="number">3</span>);  </span><br><span class="line">    root-&gt;right-&gt;left = <span class="keyword">new</span> <span class="built_in">TreeNode</span>(<span class="number">4</span>);  </span><br><span class="line">    root-&gt;right-&gt;right = <span class="keyword">new</span> <span class="built_in">TreeNode</span>(<span class="number">5</span>); </span><br><span class="line">    vector&lt;vector&lt;<span class="type">int</span>&gt;&gt;ans;</span><br><span class="line">    ans = <span class="built_in">level</span>(root);</span><br><span class="line">    <span class="comment">//在leetcode中此时直接return就可以结束了。</span></span><br><span class="line">    <span class="type">int</span> n = ans.<span class="built_in">size</span>();</span><br><span class="line">    <span class="keyword">for</span>(<span class="type">int</span> i = <span class="number">0</span>;i &lt; n; i++)</span><br><span class="line">    &#123;</span><br><span class="line">        <span class="type">int</span> m = ans[i].<span class="built_in">size</span>();</span><br><span class="line">        <span class="keyword">for</span>(<span class="type">int</span> j = <span class="number">0</span>;j &lt; m;j++)</span><br><span class="line">        &#123;</span><br><span class="line">            cout&lt;&lt;ans[i][j];</span><br><span class="line">            cout&lt;&lt;endl;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<h3 id="有几点是特别妙的"><a class="markdownIt-Anchor" href="#有几点是特别妙的"></a> 有几点是特别妙的。</h3>
-<p><strong>首先就是使用队列可以减少空间开支，这样除了那些用来维护的内存、树本身的内存外只需要两层树的内存即可。</strong><br />
-<strong>每一层都是root-&gt;left然后再root-&gt;right，这样本身就可以维护队列的从左到右。由于根节点只有一个，所以根节点无所谓是从左到右还是从右到左，其他的节点都是先左再右，然后再加上队列的先进先出的特点，这下子就可以实现从左到右的排列。</strong></p>
-<p>说说一个朴素的做法，也就是leetcode题解中提到的那一个做法，也是类似的历遍，但是是使用哈希表，使用一个二元组记录下节点与其对应的层数，使用哈希表来储存这些数据。</p>
-<p>然后输出的时候就可以使用层数作为key来输出每一层的元素了。</p>
-<p>那么锯齿层序遍历是怎么搞呢？<strong>锯齿层序遍历就是每一层遍历的顺序是反过来的</strong>，这一层是从左到右，下一层就是从右到左。</p>
-<p>可以在存数据进res的时候反转一下数据、或者是需要翻转的时候就把此节点的值添加到队列的尾部，同样是从左到右遍历，那么添加的时候就已经从右到左添加了。</p>
+<h1>SECOUND</h1>
+<p>github pages + vscode +markdown真的是一个非常好用的组合。</p>
+<p>现在总算是可以从这些事情中解脱出来了，然后就可以用点心思去看看算法io的东西，我现在觉得这一套玩意有一点过于学术化，但是以后转码也许能用得上……此外，蓝桥杯毕竟已经交了300元的报名费。</p>
+<p>不论如何，或许可以这么说，我会继续前进，继续前进，直到取得一个比较好的结果……或许可以问<strong>这一个结果</strong>是什么呢？</p>
+<p>我已经有一点语无伦次了，当我思考我的未来的时候，我是迷茫的。</p>
+<p>思考一下……这个时代变得太快了，一个公司，在短短的几年时间登上巅峰，又在短短的几年时间陷入低谷甚至是破产。</p>
+<p>看看IBM公司，曾经的王者，现在已经默默无闻，成为了一个类似智囊团的存在，曾经的机器业务现在也所剩无几……</p>
+<p>再例如NOKIA公司，现在NOKIA回归了通信的老本行，买下了AT&amp;T的贝尔实验室，但是NOKIA与贝尔实验室都没能再续辉煌。</p>
+<p>关于未来的事情，又有谁能说得准？这么早就“布局未来”真的有必要？</p>
+<p>你真的可以<strong>布局</strong>未来么？</p>
+<h1>LAST</h1>
+<p>我希望公众号上可以很方便的同步markdown语法，这样可以方便我进行博客的发布……Markdown真是一个很好用的东西，在使用markdown的时候你的双手不需要离开键盘，只需要几个符号，你就可以进行大纲、加粗、斜体、标题的设置。</p>
 <p>-我的Bilibili<span class="exturl" data-url="aHR0cHM6Ly9zcGFjZS5iaWxpYmlsaS5jb20vNDQxMzE4NTIz" title="欢迎您！">墨泽moozy<i class="fa fa-external-link-alt"></i></span></p>
 <p>-我的公众号<a href="#hellomoozy">墨泽moozy</a></p>
 <p>-我的知乎<span class="exturl" data-url="aHR0cHM6Ly93d3cuemhpaHUuY29tL3Blb3BsZS9nYW4tZ2FuLWppbmctamluZy01MS05MA==" title="欢迎关注">干干净净我的心<i class="fa fa-external-link-alt"></i></span></p>
-<p>-我的<a href="https://moozy.space" title="欢迎到访！">博客</a></p>
+<p>-我的<span class="exturl" data-url="aHR0cHM6Ly9tb3plLW1heC5naXRodWIuaW8=" title="欢迎到访！">博客<i class="fa fa-external-link-alt"></i></span></p>
 ]]></content>
       <tags>
+        <tag>text</tag>
         <tag>someword</tag>
-        <tag>编程</tag>
-        <tag>算法</tag>
-        <tag>碎碎念</tag>
       </tags>
   </entry>
   <entry>
-    <title>睡前的话</title>
-    <url>/2024/02/29/%E7%9D%A1%E5%89%8D%E7%9A%84%E8%AF%9D/</url>
-    <content><![CDATA[<p>昨天刚想说ICP备案要备个半天，没想到昨天刚把博客写完半个小时ICP备案通过的通知就下来了。</p>
-<p>虽然通过了，但是还没有向腾讯云同步，所以通过了也暂时没有办法通过域名访问我的网站，等到今天应该就可以实现了。</p>
-<p>然后现在是在等公安的备案。</p>
-<p>这个应该很简单，毕竟我这个网站啥也没有，没有评论，没有通知，没有注册。</p>
-<p>有的只是我一个人的狂欢。</p>
+    <title>typecho</title>
+    <url>/2024/02/24/typecho/</url>
+    <content><![CDATA[<p>我原本是在用着jekyll的，然后我想要想办法让我的在GitHub pages上的页面也上到我的服务器上，但是没想到服务器上安装jekyll失败了……</p>
+<p>我可以继续去折腾，但是这是没有必要的……</p>
+<p>是的……这是没有必要的……</p>
+<span id="more"></span>
+<p>我认为现在唯一必要的，就是是否有一种同步工具，可以方便地同步这两个博客上的内容。</p>
+<p>如果不可行的话，那么我将会在这两个博客中的其中一个失效后使用另外一个。</p>
+<p>我已经花了两天的时候攻克了在github上的博客配置，不愿意再花两天再在我的服务器上配置我的博客了。</p>
+<p>typecho配置是真的很方便，再腾讯云上只需要点两下，然后复制几行命令，然后就可以直接登录进后台使用了。</p>
 <p>-我的Bilibili<span class="exturl" data-url="aHR0cHM6Ly9zcGFjZS5iaWxpYmlsaS5jb20vNDQxMzE4NTIz" title="欢迎您！">墨泽moozy<i class="fa fa-external-link-alt"></i></span></p>
 <p>-我的公众号<a href="#hellomoozy">墨泽moozy</a></p>
 <p>-我的知乎<span class="exturl" data-url="aHR0cHM6Ly93d3cuemhpaHUuY29tL3Blb3BsZS9nYW4tZ2FuLWppbmctamluZy01MS05MA==" title="欢迎关注">干干净净我的心<i class="fa fa-external-link-alt"></i></span></p>
 <p>-我的<a href="https://moozy.space" title="欢迎到访！">博客</a></p>
 ]]></content>
       <tags>
-        <tag>someword</tag>
+        <tag>text</tag>
       </tags>
   </entry>
   <entry>
     <title>心态继续崩着</title>
     <url>/2024/02/27/%E5%BF%83%E6%80%81%E7%BB%A7%E7%BB%AD%E5%B4%A9%E7%9D%80/</url>
-    <content><![CDATA[<h1 id="怎么说都是很难受"><a class="markdownIt-Anchor" href="#怎么说都是很难受"></a> 怎么说都是很难受</h1>
+    <content><![CDATA[<h1>怎么说都是很难受</h1>
 <p>看起自己的一生，总感觉自己没有什么擅长的东西。</p>
 <p>假如说编程？</p>
 <p>仔细看看，哪怕只是蓝桥杯这种类型的题目也就只能做个暴力。</p>
@@ -278,7 +261,7 @@ TreeNode *left; 和 TreeNode *right;：这两个是指针，分别指向节点�
 <p>不过随着我的撰写……我的内心似乎又好了一些……</p>
 <p>别人终归只是简简单单的课后作业……所谓前序遍历，根左右，中序遍历，左根右，后序遍历，左右根。</p>
 <p>这样的玩意我也能随口说出来，但是别人懂得用dfs来遍历么？又懂得为什么dfs是这样遍历而且能说出来解释清楚么？</p>
-<p>博士……外表看起来和一个研究生，一个博士生也没有什么区别，但是一个博士，就是一个领域的最顶尖的人，不管这个领域有没有用 😂</p>
+<p>博士……外表看起来和一个研究生，一个博士生也没有什么区别，但是一个博士，就是一个领域的最顶尖的人，不管这个领域有没有用 :joy:</p>
 <p>那好吧……暂时平复心情，做一些有用的事情。</p>
 <p>把所谓的二叉树再看看，再说说数组。</p>
 <p>我不指望蓝桥杯能拿个什么奖，只要我告诉自己我做到了就好了。</p>
@@ -313,9 +296,134 @@ TreeNode *left; 和 TreeNode *right;：这两个是指针，分别指向节点�
       </tags>
   </entry>
   <entry>
+    <title>睡前的话</title>
+    <url>/2024/02/29/%E7%9D%A1%E5%89%8D%E7%9A%84%E8%AF%9D/</url>
+    <content><![CDATA[<p>昨天刚想说ICP备案要备个半天，没想到昨天刚把博客写完半个小时ICP备案通过的通知就下来了。</p>
+<p>虽然通过了，但是还没有向腾讯云同步，所以通过了也暂时没有办法通过域名访问我的网站，等到今天应该就可以实现了。</p>
+<p>然后现在是在等公安的备案。</p>
+<p>这个应该很简单，毕竟我这个网站啥也没有，没有评论，没有通知，没有注册。</p>
+<p>有的只是我一个人的狂欢。</p>
+<p>-我的Bilibili<span class="exturl" data-url="aHR0cHM6Ly9zcGFjZS5iaWxpYmlsaS5jb20vNDQxMzE4NTIz" title="欢迎您！">墨泽moozy<i class="fa fa-external-link-alt"></i></span></p>
+<p>-我的公众号<a href="#hellomoozy">墨泽moozy</a></p>
+<p>-我的知乎<span class="exturl" data-url="aHR0cHM6Ly93d3cuemhpaHUuY29tL3Blb3BsZS9nYW4tZ2FuLWppbmctamluZy01MS05MA==" title="欢迎关注">干干净净我的心<i class="fa fa-external-link-alt"></i></span></p>
+<p>-我的<a href="https://moozy.space" title="欢迎到访！">博客</a></p>
+]]></content>
+      <tags>
+        <tag>someword</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>明日离家</title>
+    <url>/2024/02/29/%E6%98%8E%E5%A4%A9%E7%A6%BB%E5%AE%B6/</url>
+    <content><![CDATA[<h1>又到了离家的日子</h1>
+<p>不知不觉已经到了29号了。ICP备案还没有通过，已经过了九天了，可能是没有通过，也可能是其他的什么原因，心累，不想再管了。</p>
+<p>过不了备案就过不了备案吧，反正github.io也不需要备案。</p>
+<p>不知不觉又到了离家的日子，忽然内心有一点伤悲。</p>
+<p>在学校的时候想回家，在家的时候想回学校，但是到了临走的时候又会舍不得。</p>
+<p>一个幸福的家庭是很有必要的，真的。家庭就是一个人的避风港，在那才能得到一点心灵的慰藉。现如今又要远离家乡，去到遥远的地方学习，进修。</p>
+<p>这些东西其实都还好，其实我更加担心的一点就是……离开了家，付出了很多，但是最终却没有什么收获。我最担心的就是这个。</p>
+<p>怎么说呢……等到我毕业的时候，我两手空空，抱着一份简历不知道能投到什么公司的hr手里，在那个时候才是真正的痛苦。</p>
+<p>为了这一切舍弃了那么多，最终你又得到了什么？我最怕的就是我什么都没有得到。</p>
+<h1>我心安处是吾乡</h1>
+<p>苏轼曾经说过一句话，叫做<em>我心安处是吾乡</em>。</p>
+<p><em><strong>我十分的认同。</strong></em></p>
+<p>当我远离我的家乡的时候，我所能依靠的就只有内心的安定了。有一句话叫做<strong>随遇而安</strong>，随遇而安是很重要的品质，*只有你的内心安定下来了，你才能把你自己的内心安定下来。*这一句话听起来像是一句废话，但是其实是指不同层面的内心安定。</p>
+<p>一个人在外，奔波，安定是很少有的。</p>
+<p>内心总是会有慌张与急促。</p>
+<p>也就正如我所说，*只有你的内心安定下来了，你才能把你自己的内心安定下来。*一个是安定的内心，一个是内心的安定。</p>
+<p>总而言之呢……我又到了新的一个学期，看课表和上一个学期也差不多，少了一些课，也多了一些课，但是总体来看，每一周的排课量是有所减少的。</p>
+<h1>说些奋斗的话</h1>
+<h2 id="现实中的作为">现实中的作为</h2>
+<p>当你在高中的时候，你会总是感觉大学的生活十分美好，每天早上八点才要上课，每天即使有晚修也下得很早，这样的日子，你的内心有什么不满足的？</p>
+<p>但是这个就是事实，是真的不满足。</p>
+<p>当你可以每天早上八点再上课的时候，你就会想要九点再上课，如果可以不上课，你会更加想要永远不上课。</p>
+<p>给了自己借口去放松，那么就会一直放松下去了。</p>
+<p>这一点，哪怕是什么清华北大的人也没有办法免俗。</p>
+<p><strong>当然了，任何一个学校都会有坚持下去不懈奋斗的人</strong>这样的人是有勇气，有毅力，更有前途的。我也希望他们可以坚持下去，因为不论什么事情，都是坚持最难，抛去酷刑不谈，平淡、坚持，才是最会让人崩溃的。</p>
+<p>哪怕是酷刑，也不是一下子就招的，要么是心理压力，要么是真的上了酷刑，总归是要有一个坚持的过程。</p>
+<p>正如士兵突击中所说：<strong>光荣在于平淡，艰巨在于漫长</strong>。</p>
+<p>在我高三的时候，我也把这一句话当作我的座右铭，当然，我到了最后的关头，最后的那几个星期实在是坚持不下去了，作业还是做，题还是刷，但是没有那种充沛的热情去做事，失去了激情，就好像是草原上的五班一样，还是照样站岗，还是照样巡逻，但是已经和没来到五班之前的样子不一样了。</p>
+<p><em><strong>不一样太多了。</strong></em></p>
+<p>那么这一个新的学期，就还是做新的模样，在家里面补充好了能量，到了新的学期就努力拼搏。</p>
+<h2 id="网上的人总是说奋斗无用">网上的人总是说奋斗无用</h2>
+<p>到底有没有用呢？我也不知道。可是我现在除了奋斗还有什么路子？难道我现在去工厂打工，难道我现在抛弃学业会是更好的行为？<strong>恐怕我不能苟同</strong>。不论如何，在现在，还能有一些机会来提高自己的实力，那就先提高自己的实力。当你连蓝桥杯都不敢说能秒杀的时候，你又有什么信心说可以去通过大厂的面试？</p>
+<p>哪怕人们都说：<strong>码农根本用不上那些东西</strong>，<em>那也是先进了大厂才会有这样的觉悟</em>，你连别人的门槛都过不去，<em><strong>你管别人门槛后是比门槛高还是比门槛低</strong></em>？</p>
+<h2 id="低调做人-高调做事">低调做人，高调做事</h2>
+<p>我听过说这样一句话：<em>低调做人，高调做事</em>。仔细想想，大体上是对的。低调做人可以不给自己带来敌人，高调做事往往更加容易成功。<strong>（高调做事，让别人高看你一眼，让别人对你更加地尊重，你所有用的条件就会更加有用。）</strong></p>
+<p>就先这样吧。</p>
+<p>再等一会，让命运的齿轮再转一会。</p>
+<p>-我的Bilibili<span class="exturl" data-url="aHR0cHM6Ly9zcGFjZS5iaWxpYmlsaS5jb20vNDQxMzE4NTIz" title="欢迎您！">墨泽moozy<i class="fa fa-external-link-alt"></i></span></p>
+<p>-我的公众号<a href="#hellomoozy">墨泽moozy</a></p>
+<p>-我的知乎<span class="exturl" data-url="aHR0cHM6Ly93d3cuemhpaHUuY29tL3Blb3BsZS9nYW4tZ2FuLWppbmctamluZy01MS05MA==" title="欢迎关注">干干净净我的心<i class="fa fa-external-link-alt"></i></span></p>
+<p>-我的<a href="https://moozy.space" title="欢迎到访！">博客</a></p>
+]]></content>
+      <tags>
+        <tag>text</tag>
+        <tag>someword</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>节约空间地求余</title>
+    <url>/2024/03/07/%E8%8A%82%E7%BA%A6%E7%A9%BA%E9%97%B4%E5%9C%B0%E6%B1%82%E4%BD%99/</url>
+    <content><![CDATA[<p>这个是leetcode的2575题。<br>
+对于这一道题，固然可以这样来处理cnt的数据：</p>
+<pre><code class="language-C++">cnt = cnt *= 10 + num;
+</code></pre>
+<p>但是这么写却又隐患——那就是当遇到特别大，接近long long 的极限的长度的数字的时候，就没有办法再*=10了。</p>
+<p>这个文章将给你介绍如何节约空间。</p>
+<pre><code class="language-C++">class Solution &#123;
+public:
+    vector&lt;int&gt; divisibilityArray(string word, int m) &#123;
+        int n = word.size();
+        vector&lt;int&gt;ans;
+        long long  cnt = 0;
+        for(auto q:word)&#123;
+            auto num = q -'0';
+            cnt = (cnt * 10 + num) % m;
+            if(cnt % m == 0)&#123;
+                ans.emplace(ans.end(),1);
+            &#125;
+            else&#123;
+                ans.emplace(ans.end(),0);
+            &#125;
+        &#125;
+        return ans;
+        
+    &#125;
+&#125;;
+</code></pre>
+<p>在运算的途中就将数据给处理了，那么每一次运算的结果都会明显减少，至少不需要再记录那个非常大的数字了。</p>
+<p>假如需要更大的数字，那么可以使用数组来处理。</p>
+<p>但是在这个时候是用不上的。</p>
+<p>为什么可以在计算过程中求余呢？</p>
+<p><strong>可以将求余数分为两个部分，一个是可以被求余的，还有一部分是多出来的。假如是可以被求余的数，那么多出来的就是0；在这个基础上，每一次求余都会将前面可以求余的部分余去，那么两个数字相加的和求余的时候也是同样的，两个数字的可以求余的部分被余去，然后剩下余数。</strong></p>
+<p>由此，通过在计算过程中求余，就可以显著减少空间占用。</p>
+]]></content>
+      <categories>
+        <category>算法</category>
+      </categories>
+      <tags>
+        <tag>编程</tag>
+        <tag>算法</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>learn_numpy</title>
+    <url>/2024/03/06/learn-numpy/</url>
+    <content><![CDATA[<h1>这是一篇关于numpy库的博客</h1>
+<h2 id="忽然记起自己还有一场数学建模的任务">忽然记起自己还有一场数学建模的任务</h2>
+<p>感觉单单是什么蓝桥杯、电设赛云者已经很让人疲惫了，不过数学建模是一种很重要的技能。</p>
+<p>这个博客不可能一次性更新完，会慢慢更新。</p>
+<p>在这个博客中，我会介绍我关于numpy的学习经验。</p>
+]]></content>
+      <categories>
+        <category>算法</category>
+      </categories>
+  </entry>
+  <entry>
     <title>a week</title>
     <url>/2024/03/09/a-week/</url>
-    <content><![CDATA[<h1 id="first"><a class="markdownIt-Anchor" href="#first"></a> first</h1>
+    <content><![CDATA[<h1>first</h1>
 <p>这周还挺无聊的。做了一些工作，但是做得不多。</p>
 <p>仔细想想，这是一件挺让人沮丧的事情：这个星期做得不多，按照的是学校的进度来走，在学校的进度之外我就基本没有自己的突出的地方了。</p>
 <p>当然，可以这么说：我从很早开始就每天都背单词，这个星期也没有例外，背了几百个单词，又复习了几百个单词，可惜的是，即使背了也不代表四级的题就会写了，也不代表英语的水平就上去了，更不代表今天背了明天就不会忘。</p>
@@ -339,6 +447,7 @@ TreeNode *left; 和 TreeNode *right;：这两个是指针，分别指向节点�
 <th>!</th>
 </tr>
 </thead>
+<tbody></tbody>
 </table>
 <br>
 要说起来，现在markdown的玩意我都可以玩得很溜了，然后说回专业的使用markdown生成图表云者，我没有使用场景，也就懒得去学。   
@@ -352,117 +461,65 @@ TreeNode *left; 和 TreeNode *right;：这两个是指针，分别指向节点�
       </tags>
   </entry>
   <entry>
-    <title>learn_numpy</title>
-    <url>/2024/03/06/learn-numpy/</url>
-    <content><![CDATA[<h1 id="这是一篇关于numpy库的博客"><a class="markdownIt-Anchor" href="#这是一篇关于numpy库的博客"></a> 这是一篇关于numpy库的博客</h1>
-<h2 id="忽然记起自己还有一场数学建模的任务"><a class="markdownIt-Anchor" href="#忽然记起自己还有一场数学建模的任务"></a> 忽然记起自己还有一场数学建模的任务</h2>
-<p>感觉单单是什么蓝桥杯、电设赛云者已经很让人疲惫了，不过数学建模是一种很重要的技能。</p>
-<p>这个博客不可能一次性更新完，会慢慢更新。</p>
-<p>在这个博客中，我会介绍我关于numpy的学习经验。</p>
+    <title>还在美化</title>
+    <url>/2024/03/13/%E8%BF%98%E5%9C%A8%E7%BE%8E%E5%8C%96/</url>
+    <content><![CDATA[<h1>还是在美化的道路上越走越远了</h1>
+<p>这个周想要修复博客的sitemap功能，还想要修复博客的搜索功能。</p>
+<p>这两点都还算是比较好处理，虽然也费了点时间，也掉了点头发，但是其实是非常简单的，因为有直接可用的库，几行代码就可以完事了。</p>
+<p>我所遇到的问题主要是npm下载的时候没有下载到hexo的文件夹中，而是下载到了根目录下，我今天忽然想起来这件事，查询可知，确实是需要下载到hexo的根目录中的。</p>
+<p><strong>当我修复了这一错误的时候，他们终于开始正确地工作了。</strong><br>
+<em>下面，我还要再解决http跳转https的任务</em></p>
+<p>同时还想要实现这样的功能：<em><strong>给博客新建一个wiki页，然后实现在wiki页中发布专属于wiki的内容，就像是next的示例博客中那样。</strong></em></p>
+<p>但是让人沮丧的是，我没有在next的示例博客中找到我想要的介绍，似乎直接略过了这一部分。</p>
+<p>而http跳转的ngnix代码也无法正常工作。</p>
 ]]></content>
-      <categories>
-        <category>算法</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>节约空间地求余</title>
-    <url>/2024/03/07/%E8%8A%82%E7%BA%A6%E7%A9%BA%E9%97%B4%E5%9C%B0%E6%B1%82%E4%BD%99/</url>
-    <content><![CDATA[<p>这个是leetcode的2575题。<br />
-对于这一道题，固然可以这样来处理cnt的数据：</p>
-<pre class="highlight"><code class="C++">cnt = cnt *= <span class="number">10</span> + num;
-</code></pre>
-<p>但是这么写却又隐患——那就是当遇到特别大，接近long long 的极限的长度的数字的时候，就没有办法再*=10了。</p>
-<p>这个文章将给你介绍如何节约空间。</p>
-<pre class="highlight"><code class="C++"><span class="keyword">class</span> <span class="title class_">Solution</span> &#123;
-<span class="keyword">public</span>:
-    <span class="function">vector&lt;<span class="type">int</span>&gt; <span class="title">divisibilityArray</span><span class="params">(string word, <span class="type">int</span> m)</span> </span>&#123;
-        <span class="type">int</span> n = word.<span class="built_in">size</span>();
-        vector&lt;<span class="type">int</span>&gt;ans;
-        <span class="type">long</span> <span class="type">long</span>  cnt = <span class="number">0</span>;
-        <span class="keyword">for</span>(<span class="keyword">auto</span> q:word)&#123;
-            <span class="keyword">auto</span> num = q -<span class="string">&#x27;0&#x27;</span>;
-            cnt = (cnt * <span class="number">10</span> + num) % m;
-            <span class="keyword">if</span>(cnt % m == <span class="number">0</span>)&#123;
-                ans.<span class="built_in">emplace</span>(ans.<span class="built_in">end</span>(),<span class="number">1</span>);
-            &#125;
-            <span class="keyword">else</span>&#123;
-                ans.<span class="built_in">emplace</span>(ans.<span class="built_in">end</span>(),<span class="number">0</span>);
-            &#125;
-        &#125;
-        <span class="keyword">return</span> ans;
-        
-    &#125;
-&#125;;
-</code></pre>
-<p>在运算的途中就将数据给处理了，那么每一次运算的结果都会明显减少，至少不需要再记录那个非常大的数字了。</p>
-<p>假如需要更大的数字，那么可以使用数组来处理。</p>
-<p>但是在这个时候是用不上的。</p>
-<p>为什么可以在计算过程中求余呢？</p>
-<p><strong>可以将求余数分为两个部分，一个是可以被求余的，还有一部分是多出来的。假如是可以被求余的数，那么多出来的就是0；在这个基础上，每一次求余都会将前面可以求余的部分余去，那么两个数字相加的和求余的时候也是同样的，两个数字的可以求余的部分被余去，然后剩下余数。</strong></p>
-<p>由此，通过在计算过程中求余，就可以显著减少空间占用。</p>
-]]></content>
-      <categories>
-        <category>算法</category>
-      </categories>
       <tags>
-        <tag>编程</tag>
-        <tag>算法</tag>
+        <tag>服务器</tag>
+        <tag>博客</tag>
       </tags>
   </entry>
   <entry>
-    <title>明日离家</title>
-    <url>/2024/02/29/%E6%98%8E%E5%A4%A9%E7%A6%BB%E5%AE%B6/</url>
-    <content><![CDATA[<h1 id="又到了离家的日子"><a class="markdownIt-Anchor" href="#又到了离家的日子"></a> 又到了离家的日子</h1>
-<p>不知不觉已经到了29号了。ICP备案还没有通过，已经过了九天了，可能是没有通过，也可能是其他的什么原因，心累，不想再管了。</p>
-<p>过不了备案就过不了备案吧，反正github.io也不需要备案。</p>
-<p>不知不觉又到了离家的日子，忽然内心有一点伤悲。</p>
-<p>在学校的时候想回家，在家的时候想回学校，但是到了临走的时候又会舍不得。</p>
-<p>一个幸福的家庭是很有必要的，真的。家庭就是一个人的避风港，在那才能得到一点心灵的慰藉。现如今又要远离家乡，去到遥远的地方学习，进修。</p>
-<p>这些东西其实都还好，其实我更加担心的一点就是……离开了家，付出了很多，但是最终却没有什么收获。我最担心的就是这个。</p>
-<p>怎么说呢……等到我毕业的时候，我两手空空，抱着一份简历不知道能投到什么公司的hr手里，在那个时候才是真正的痛苦。</p>
-<p>为了这一切舍弃了那么多，最终你又得到了什么？我最怕的就是我什么都没有得到。</p>
-<h1 id="我心安处是吾乡"><a class="markdownIt-Anchor" href="#我心安处是吾乡"></a> 我心安处是吾乡</h1>
-<p>苏轼曾经说过一句话，叫做<em>我心安处是吾乡</em>。</p>
-<p><em><strong>我十分的认同。</strong></em></p>
-<p>当我远离我的家乡的时候，我所能依靠的就只有内心的安定了。有一句话叫做<strong>随遇而安</strong>，随遇而安是很重要的品质，*只有你的内心安定下来了，你才能把你自己的内心安定下来。*这一句话听起来像是一句废话，但是其实是指不同层面的内心安定。</p>
-<p>一个人在外，奔波，安定是很少有的。</p>
-<p>内心总是会有慌张与急促。</p>
-<p>也就正如我所说，*只有你的内心安定下来了，你才能把你自己的内心安定下来。*一个是安定的内心，一个是内心的安定。</p>
-<p>总而言之呢……我又到了新的一个学期，看课表和上一个学期也差不多，少了一些课，也多了一些课，但是总体来看，每一周的排课量是有所减少的。</p>
-<h1 id="说些奋斗的话"><a class="markdownIt-Anchor" href="#说些奋斗的话"></a> 说些奋斗的话</h1>
-<h2 id="现实中的作为"><a class="markdownIt-Anchor" href="#现实中的作为"></a> 现实中的作为</h2>
-<p>当你在高中的时候，你会总是感觉大学的生活十分美好，每天早上八点才要上课，每天即使有晚修也下得很早，这样的日子，你的内心有什么不满足的？</p>
-<p>但是这个就是事实，是真的不满足。</p>
-<p>当你可以每天早上八点再上课的时候，你就会想要九点再上课，如果可以不上课，你会更加想要永远不上课。</p>
-<p>给了自己借口去放松，那么就会一直放松下去了。</p>
-<p>这一点，哪怕是什么清华北大的人也没有办法免俗。</p>
-<p><strong>当然了，任何一个学校都会有坚持下去不懈奋斗的人</strong>这样的人是有勇气，有毅力，更有前途的。我也希望他们可以坚持下去，因为不论什么事情，都是坚持最难，抛去酷刑不谈，平淡、坚持，才是最会让人崩溃的。</p>
-<p>哪怕是酷刑，也不是一下子就招的，要么是心理压力，要么是真的上了酷刑，总归是要有一个坚持的过程。</p>
-<p>正如士兵突击中所说：<strong>光荣在于平淡，艰巨在于漫长</strong>。</p>
-<p>在我高三的时候，我也把这一句话当作我的座右铭，当然，我到了最后的关头，最后的那几个星期实在是坚持不下去了，作业还是做，题还是刷，但是没有那种充沛的热情去做事，失去了激情，就好像是草原上的五班一样，还是照样站岗，还是照样巡逻，但是已经和没来到五班之前的样子不一样了。</p>
-<p><em><strong>不一样太多了。</strong></em></p>
-<p>那么这一个新的学期，就还是做新的模样，在家里面补充好了能量，到了新的学期就努力拼搏。</p>
-<h2 id="网上的人总是说奋斗无用"><a class="markdownIt-Anchor" href="#网上的人总是说奋斗无用"></a> 网上的人总是说奋斗无用</h2>
-<p>到底有没有用呢？我也不知道。可是我现在除了奋斗还有什么路子？难道我现在去工厂打工，难道我现在抛弃学业会是更好的行为？<strong>恐怕我不能苟同</strong>。不论如何，在现在，还能有一些机会来提高自己的实力，那就先提高自己的实力。当你连蓝桥杯都不敢说能秒杀的时候，你又有什么信心说可以去通过大厂的面试？</p>
-<p>哪怕人们都说：<strong>码农根本用不上那些东西</strong>，<em>那也是先进了大厂才会有这样的觉悟</em>，你连别人的门槛都过不去，<em><strong>你管别人门槛后是比门槛高还是比门槛低</strong></em>？</p>
-<h2 id="低调做人高调做事"><a class="markdownIt-Anchor" href="#低调做人高调做事"></a> 低调做人，高调做事</h2>
-<p>我听过说这样一句话：<em>低调做人，高调做事</em>。仔细想想，大体上是对的。低调做人可以不给自己带来敌人，高调做事往往更加容易成功。<strong>（高调做事，让别人高看你一眼，让别人对你更加地尊重，你所有用的条件就会更加有用。）</strong></p>
-<p>就先这样吧。</p>
-<p>再等一会，让命运的齿轮再转一会。</p>
-<p>-我的Bilibili<span class="exturl" data-url="aHR0cHM6Ly9zcGFjZS5iaWxpYmlsaS5jb20vNDQxMzE4NTIz" title="欢迎您！">墨泽moozy<i class="fa fa-external-link-alt"></i></span></p>
-<p>-我的公众号<a href="#hellomoozy">墨泽moozy</a></p>
-<p>-我的知乎<span class="exturl" data-url="aHR0cHM6Ly93d3cuemhpaHUuY29tL3Blb3BsZS9nYW4tZ2FuLWppbmctamluZy01MS05MA==" title="欢迎关注">干干净净我的心<i class="fa fa-external-link-alt"></i></span></p>
-<p>-我的<a href="https://moozy.space" title="欢迎到访！">博客</a></p>
+    <title>什么是markdown？</title>
+    <url>/2024/03/16/what_is_md/</url>
+    <content><![CDATA[<h1>什么是markdown？</h1>
+<p>markdown是一种轻量级的标记语言。</p>
+<p><em><strong>markdown不是一种编程语言</strong></em>，不像C++、C那样可以编写什么程序，如果要一定要将markdown与编程语言扯上关系的话，<strong>markdown更像是python一类的脚本语言</strong>。</p>
+<p>markdown通过一些简单的标记，实现标题段、加粗、斜体、下划线、表格、代码块等功能，使用一些加强插件可以实现输入数学符号、生成图表等高级用法。</p>
+<!--more--->
+<p>markdown本身并不可直接被转换，也就是说，当你打开.md文件或者.markdown文件的时候，你可以看见的就只是那一堆带有<code>#</code>、<code>*</code>等符号的文本，就像是一个txt文件一样。那么你把markdown文件拖进浏览器中又会怎么样呢？</p>
+<p>很遗憾，假如说你的浏览器没有装上指定的插件的话，依旧只会显示同样的内容：<em><strong>一堆带有<code>#</code>、<code>*</code>等符号的文本，就像是一个txt文件一样</strong></em>，那么我们为什么要使用markdown呢？</p>
+<h1>那么我们为什么要使用markdown呢？</h1>
+<p>答案是没有必要，但是在前端工作的时候，markdown是一种很方便地东西。</p>
+<ul>
+<li>此时，大多数的样式，比如说标题，加粗等效果，页面的背景，字体的大小等等属性都已经被确定好了；</li>
+<li>此时你所需要做的就是输入文字，生成文件；</li>
+<li>那么这个时候使用word太笨重，而且不一定适用，并且会遇到各种兼容性问题，</li>
+<li>使用txt又没有格式，压根就没法用上前端所设计好的元素。<br>
+于是此时，markdown就可以大展身手。</li>
+</ul>
+<p>除非遇上了网页前端不支持你所使用的图表、数学语法而你又恰好使用这些标准之外的东西，否则，你的markdown文件可以完美地按照程序员所设计的样式转换成html文件。</p>
+<p>这也是为什么个人博客、github的readme文件都使用markdown的原因了。</p>
+<p>我们是否一定要使用markdown，**甚至为了markdown抛弃word、txt或者别的什么文本格式呢？**我的答案是：<br>
+<em><strong>这是完全没有必要的</strong></em>；</p>
+<h1>什么时候使用markdown？</h1>
+<p>markdown最好的战场就是我所说的情况，只需要专注于内容，而不需要在意格式的情况。</p>
+<p><em>这种特定的情况并不是什么时候都可以遇到，我们只需要在遇到这样的需求的时候优先考虑到markdown格式是否可以给我们带来收益即可。</em></p>
+<blockquote>
+<p>而且不得不说的一点是：markdown文件在编写的时候可以完全不用鼠标，你可以一直写到尾，全程只需要注视着屏幕，双手连续打字即可。</p>
+</blockquote>
+<p>假如你有这样的专注工作的需求，markdown是一种十分完美的选择。</p>
 ]]></content>
+      <categories>
+        <category>wiki</category>
+      </categories>
       <tags>
-        <tag>text</tag>
-        <tag>someword</tag>
+        <tag>wiki</tag>
       </tags>
   </entry>
   <entry>
     <title>SVM向量机初入门</title>
     <url>/2024/03/15/SVM%E5%90%91%E9%87%8F%E6%9C%BA%E5%88%9D%E5%85%A5%E9%97%A8/</url>
-    <content><![CDATA[<h1 id="svm向量机"><a class="markdownIt-Anchor" href="#svm向量机"></a> SVM向量机</h1>
+    <content><![CDATA[<h1>SVM向量机</h1>
 <p>使用SVM向量机将数据进行区分。</p>
 <p>由于markdown中不方便插入图片，所以就略去不谈，示意的图片可以在网上找到很多。</p>
 <p>总的来讲，通过SVM向量机对数据进行处理，训练模型，然后通过模型去推测更多的数据。</p>
@@ -484,7 +541,7 @@ TreeNode *left; 和 TreeNode *right;：这两个是指针，分别指向节点�
 <p>现在研究完了SVM向量机，那么它是如何快速处理那么多的数据的呢？</p>
 </blockquote>
 <p>这必须要用到加速处理。</p>
-<h1 id="将低维非线性升为高维线性函数"><a class="markdownIt-Anchor" href="#将低维非线性升为高维线性函数"></a> 将低维非线性升为高维线性函数</h1>
+<h1>将低维非线性升为高维线性函数</h1>
 <p>高维线性函数可以使用线性回归方程求解，进而优化计算速度。</p>
 ]]></content>
       <categories>
@@ -495,176 +552,9 @@ TreeNode *left; 和 TreeNode *right;：这两个是指针，分别指向节点�
       </tags>
   </entry>
   <entry>
-    <title>还在美化</title>
-    <url>/2024/03/13/%E8%BF%98%E5%9C%A8%E7%BE%8E%E5%8C%96/</url>
-    <content><![CDATA[<h1 id="还是在美化的道路上越走越远了"><a class="markdownIt-Anchor" href="#还是在美化的道路上越走越远了"></a> 还是在美化的道路上越走越远了</h1>
-<p>这个周想要修复博客的sitemap功能，还想要修复博客的搜索功能。</p>
-<p>这两点都还算是比较好处理，虽然也费了点时间，也掉了点头发，但是其实是非常简单的，因为有直接可用的库，几行代码就可以完事了。</p>
-<p>我所遇到的问题主要是npm下载的时候没有下载到hexo的文件夹中，而是下载到了根目录下，我今天忽然想起来这件事，查询可知，确实是需要下载到hexo的根目录中的。</p>
-<p><strong>当我修复了这一错误的时候，他们终于开始正确地工作了。</strong><br />
-<em>下面，我还要再解决http跳转https的任务</em></p>
-<p>同时还想要实现这样的功能：<em><strong>给博客新建一个wiki页，然后实现在wiki页中发布专属于wiki的内容，就像是next的示例博客中那样。</strong></em></p>
-<p>但是让人沮丧的是，我没有在next的示例博客中找到我想要的介绍，似乎直接略过了这一部分。</p>
-<p>而http跳转的ngnix代码也无法正常工作。</p>
-]]></content>
-      <tags>
-        <tag>服务器</tag>
-        <tag>博客</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>什么是markdown？</title>
-    <url>/2024/03/16/what_is_md/</url>
-    <content><![CDATA[<h1 id="什么是markdown"><a class="markdownIt-Anchor" href="#什么是markdown"></a> 什么是markdown？</h1>
-<p>markdown是一种轻量级的标记语言。</p>
-<p><em><strong>markdown不是一种编程语言</strong></em>，不像C++、C那样可以编写什么程序，如果要一定要将markdown与编程语言扯上关系的话，<strong>markdown更像是python一类的脚本语言</strong>。</p>
-<p>markdown通过一些简单的标记，实现标题段、加粗、斜体、下划线、表格、代码块等功能，使用一些加强插件可以实现输入数学符号、生成图表等高级用法。</p>
-<!--more--->
-<p>markdown本身并不可直接被转换，也就是说，当你打开.md文件或者.markdown文件的时候，你可以看见的就只是那一堆带有<code>#</code>、<code>*</code>等符号的文本，就像是一个txt文件一样。那么你把markdown文件拖进浏览器中又会怎么样呢？</p>
-<p>很遗憾，假如说你的浏览器没有装上指定的插件的话，依旧只会显示同样的内容：<em><strong>一堆带有<code>#</code>、<code>*</code>等符号的文本，就像是一个txt文件一样</strong></em>，那么我们为什么要使用markdown呢？</p>
-<h1 id="那么我们为什么要使用markdown呢"><a class="markdownIt-Anchor" href="#那么我们为什么要使用markdown呢"></a> 那么我们为什么要使用markdown呢？</h1>
-<p>答案是没有必要，但是在前端工作的时候，markdown是一种很方便地东西。</p>
-<ul>
-<li>此时，大多数的样式，比如说标题，加粗等效果，页面的背景，字体的大小等等属性都已经被确定好了；</li>
-<li>此时你所需要做的就是输入文字，生成文件；</li>
-<li>那么这个时候使用word太笨重，而且不一定适用，并且会遇到各种兼容性问题，</li>
-<li>使用txt又没有格式，压根就没法用上前端所设计好的元素。<br />
-于是此时，markdown就可以大展身手。</li>
-</ul>
-<p>除非遇上了网页前端不支持你所使用的图表、数学语法而你又恰好使用这些标准之外的东西，否则，你的markdown文件可以完美地按照程序员所设计的样式转换成html文件。</p>
-<p>这也是为什么个人博客、github的readme文件都使用markdown的原因了。</p>
-<p>我们是否一定要使用markdown，**甚至为了markdown抛弃word、txt或者别的什么文本格式呢？**我的答案是：<br />
-<em><strong>这是完全没有必要的</strong></em>；</p>
-<h1 id="什么时候使用markdown"><a class="markdownIt-Anchor" href="#什么时候使用markdown"></a> 什么时候使用markdown？</h1>
-<p>markdown最好的战场就是我所说的情况，只需要专注于内容，而不需要在意格式的情况。</p>
-<p><em>这种特定的情况并不是什么时候都可以遇到，我们只需要在遇到这样的需求的时候优先考虑到markdown格式是否可以给我们带来收益即可。</em></p>
-<blockquote>
-<p>而且不得不说的一点是：markdown文件在编写的时候可以完全不用鼠标，你可以一直写到尾，全程只需要注视着屏幕，双手连续打字即可。</p>
-</blockquote>
-<p>假如你有这样的专注工作的需求，markdown是一种十分完美的选择。</p>
-]]></content>
-      <categories>
-        <category>wiki</category>
-      </categories>
-      <tags>
-        <tag>wiki</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>PCB</title>
-    <url>/2024/03/17/PCB/</url>
-    <content><![CDATA[<h1 id="为什么学pcb板子"><a class="markdownIt-Anchor" href="#为什么学pcb板子"></a> 为什么学PCB板子？</h1>
-<h2 id="洞洞板的方式十分不方便"><a class="markdownIt-Anchor" href="#洞洞板的方式十分不方便"></a> 洞洞板的方式十分不方便</h2>
-<p>洞洞板最首先是所有的线都在背面裸露出来，必然要受到腐蚀与磨损，随着时间的流逝，与PCB板子相比，<strong>“短时间”内必然会降低性能甚至损毁。</strong></p>
-<p>其次，洞洞板的形式会让电路巨大，不利于使用与携带。</p>
-<h2 id="pcb板是整个电路的载体"><a class="markdownIt-Anchor" href="#pcb板是整个电路的载体"></a> PCB板是整个电路的载体</h2>
-<p>PCB板上有各个元件的连线，连接起不同的组件。</p>
-<p>我们一般设计好PCB板之后，发给淘宝店家让其打板，一周左右能到。</p>
-<p><strong>PCB是整个电路的载体</strong>，我们在PCB板上进行焊接，得到以PCB板为载体的电路。</p>
-<h2 id="实践极其重要"><a class="markdownIt-Anchor" href="#实践极其重要"></a> 实践极其重要</h2>
-<p><em><strong>不论怎么说，PCB板可以在网上找例子，但是想要真正学会，那你必须要自己画，自己设计出来板子，然后自己找人生产，然后自己测试板子。</strong></em></p>
-<p>理论上的功夫很简单，但是想要真正学会，那么就一定要勤画板子。</p>
-<p>我的老师说，你自己的板子就会像是一个艺术品一样。</p>
-<h1 id="如何开始"><a class="markdownIt-Anchor" href="#如何开始"></a> 如何开始？</h1>
-<h2 id="首先要下载软件"><a class="markdownIt-Anchor" href="#首先要下载软件"></a> 首先要下载软件</h2>
-<p><em><strong>altium Designer</strong></em></p>
-<h3 id="软件管家"><a class="markdownIt-Anchor" href="#软件管家"></a> 软件管家</h3>
-<p>你可以去关注一个叫做软件管家的公众号</p>
-<p>上面会给你下载软件的链接。</p>
-<p>软件名字叫做altium Designer。</p>
-<h3 id="为什么不用proteus"><a class="markdownIt-Anchor" href="#为什么不用proteus"></a> 为什么不用proteus?</h3>
-<p>proteus也能画，但是与淘宝上的PCB厂不好对接，也就说你使用proteus也可以做，但是不好进行实现，顶多使用Proteus仿真。</p>
-<p>因此使用altium Designer是最好的。</p>
-<h1 id="要学会自己画封装"><a class="markdownIt-Anchor" href="#要学会自己画封装"></a> 要学会自己画封装</h1>
-<p><em>库用的时候才会觉得少</em></p>
-<ul>
-<li>
-<p>建立工程文件夹<br />
-所有的东西都是在工程文件夹里面找。<br />
-然后给其保存</p>
-</li>
-<li>
-<p>建立资源文件夹<br />
-doc<br />
-pcb<br />
-……</p>
-</li>
-<li>
-<p>建立符号库</p>
-</li>
-<li>
-<p>建立封装库</p>
-</li>
-</ul>
-<p><strong>原理图是功能设计，pcb图是加工设计，封装是原理图符号所对应的元件的外形尺寸与引脚信息，PCB板是电路的载体</strong></p>
-<h3 id="原理图"><a class="markdownIt-Anchor" href="#原理图"></a> 原理图</h3>
-<p>只要信息对就行，谁说符号就是那个符号？<em><strong>只要上面标注的信息对即可</strong></em>。</p>
-<p>所以在原理图上可以看见很多各种各样的块。</p>
-<p>只要一个方框，然后上面画上四根线，那就是USB口不行么？只要上面的引脚信息、大小信息与实际上的USB口一样不就可以了？</p>
-<p>所以很多的东西并没有对应的符号，只需要一个黄色块即可。</p>
-<h3 id="封装"><a class="markdownIt-Anchor" href="#封装"></a> 封装</h3>
-<p>没有绝对完美的封装库</p>
-<p>要学会自己按照原理图设计封装。</p>
-<p>那么到最后你就真正自己学会了PCB。</p>
-<h1 id="pcb板的制作"><a class="markdownIt-Anchor" href="#pcb板的制作"></a> PCB板的制作</h1>
-<blockquote>
-<p>首先需要覆铜板</p>
-</blockquote>
-<p>中间是玻璃纤维，外面覆盖铜箔</p>
-<p>在上面钻出来孔。PCB板上面的孔就是这么来的。</p>
-<p>电镀在孔中上铜。</p>
-<p>在上下贴蓝膜，再贴黑膜，只有在需要导线的地方露出来，其余部分不透光，用紫外线进行照射，于是需要导线的地方变紫了。</p>
-<p>在用显影液将蓝膜上的蓝色洗掉。</p>
-<p>然后使用三氯化铁进行置换反应，将紫色的地方保留下来，上面的铜就形成了导线。</p>
-]]></content>
-      <categories>
-        <category>电路</category>
-        <category>硬件</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>哈希表</title>
-    <url>/2024/03/17/%E5%93%88%E5%B8%8C%E8%A1%A8/</url>
-    <content><![CDATA[<h1 id="哈希表"><a class="markdownIt-Anchor" href="#哈希表"></a> <strong>哈希表</strong></h1>
-<p>有的时候，我们需要记录下我们所做的事情，在初学阶段，我们可以使用数组或者容器来进行记录，但是当数据量十分巨大的时候，那么使用哈希表来进行数据的记录会十分方便而且快捷，并且不用担心出现爆栈之类的问题。</p>
-<p>在C++中的哈希表实现有三个函数：<code>map</code>,<code>multimap</code>,<code>unordered_map</code>，前面两个函数的实现是利用了红黑树，<code>unordered map</code>的实现是使用了哈希结构直接做映射。</p>
-<p>在实际使用中大多数是使用<code>unordered_map</code>，因为使用<code>unordered_map</code>进行查找、删改的效率是最高的。<br />
-前面两个函数由于通过在内部实现红黑树的方法来实现哈希表，所以内存占用大，但是在处理一些具有顺序的表的时候更加快速。</p>
-<p><code>unordered_map</code>的使用示例：<code>unordered_map&lt;string,int&gt;mp;</code>//表示键值对由string 映射到 int.<br />
-<code>unordered_map</code>函数中常用的成员方法：</p>
-<p><code>at(key)</code>返回容器中储存的键key对应的值，如果key不存在，则会抛出<code>out_of_range</code>异常、<code>find(key)</code>查找以key为键的键值对，如果找到，那么就返回一个指向这个键值对的正向迭代器，反之则返回指向容器中最后一个键值对之后的位置的迭代器（<code>end()） 、count(key)</code>在容器中查找以key作为键的键值对的个数、<br />
-<code>emplace()</code> 在容器中添加新键值对，效率比<code>insert()</code>高、</p>
-<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">unordered_map&lt;string, <span class="type">int</span>&gt;map;</span><br><span class="line">map[<span class="string">&quot;hello&quot;</span>] = <span class="number">1</span>;</span><br><span class="line">map.<span class="built_in">emplace</span>(<span class="string">&quot;number&quot;</span>, <span class="number">2</span>);</span><br><span class="line">cout &lt;&lt; <span class="string">&quot;map[hello] = &quot;</span> &lt;&lt; map[<span class="string">&quot;hello&quot;</span>] &lt;&lt; <span class="string">&quot;map[\&quot;number\&quot;] = &quot;</span> &lt;&lt; map[<span class="string">&quot;number&quot;</span>] &lt;&lt; endl;</span><br><span class="line">out：</span><br><span class="line">map[hello] = <span class="number">1</span>map[<span class="string">&quot;number&quot;</span>] = <span class="number">2</span></span><br></pre></td></tr></table></figure>
-<ul>
-<li><code>insert()</code> 向容器中添加键值对、</li>
-<li><code>erase()</code>删除指定键值对、</li>
-<li><code>erase(pos,n)</code>; 删除从pos开始的n个字符，比如erase(0,1)就是删除第一个字符</li>
-<li><code>erase(position)</code>;删除position处的一个字符(position是个string类型的迭代器)</li>
-<li><code>erase(first,last)</code>;删除从first到last之间的字符（first和last都是迭代器）</li>
-<li><code>clear()</code>清空容器、</li>
-<li><code>swap()</code>交换两个unordered_map容器储存的键值对，前提是必须保证这两个容器的类型完全相同。<br />
-记录某一个元素出现的次数：</li>
-</ul>
-<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">unordered_map&lt;<span class="type">int</span>, <span class="type">int</span>&gt;cnt;</span><br><span class="line"><span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">0</span>; i &lt; <span class="number">3</span>; i++) &#123;</span><br><span class="line">    <span class="type">int</span> q;</span><br><span class="line">    cin &gt;&gt; q;</span><br><span class="line">    cnt[q]++;</span><br><span class="line">&#125;</span><br><span class="line"><span class="keyword">for</span> (<span class="keyword">auto</span> q : cnt) &#123;</span><br><span class="line">    cout &lt;&lt; q.first&lt;&lt;<span class="string">&quot;\t&quot;</span>&lt;&lt;q.second&lt;&lt; endl;</span><br><span class="line">&#125;</span><br><span class="line"><span class="comment">//q.first就是键,q.second就是值。</span></span><br></pre></td></tr></table></figure>
-<p>以下为文心一言的回答：<br />
-/**************************************************************************<br />
-当然！以下是几个C++中使用哈希表的例子：</p>
-<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="comment">//例子1：使用unordered_map实现哈希表</span></span><br><span class="line"><span class="meta">#<span class="keyword">include</span><span class="string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="keyword">include</span><span class="string">&lt;unordered_map&gt;</span></span></span><br><span class="line"><span class="function"><span class="type">int</span></span></span><br><span class="line"><span class="function"><span class="title">main</span><span class="params">()</span></span>&#123;      </span><br><span class="line">    std::unordered_map&lt;std::string, <span class="type">int</span>&gt; hashTable;  <span class="comment">// 添加键值对      </span></span><br><span class="line">    hashTable[<span class="string">&quot;apple&quot;</span>] = <span class="number">5</span>;      </span><br><span class="line">    hashTable[<span class="string">&quot;banana&quot;</span>] = <span class="number">7</span>;      </span><br><span class="line">    hashTable[<span class="string">&quot;orange&quot;</span>] = <span class="number">3</span>;  <span class="comment">// 查找键值对      </span></span><br><span class="line">    std::cout &lt;&lt; <span class="string">&quot;apple: &quot;</span> &lt;&lt; hashTable[<span class="string">&quot;apple&quot;</span>] &lt;&lt; std::endl;  <span class="comment">// 遍历哈希表  </span></span><br><span class="line">    <span class="keyword">for</span> (constauto&amp; entry : hashTable) &#123;          </span><br><span class="line">        std::cout &lt;&lt; entry.first &lt;&lt; <span class="string">&quot;: &quot;</span> &lt;&lt; entry.second &lt;&lt; std::endl;      </span><br><span class="line">&#125;</span><br><span class="line">  <span class="keyword">return</span> <span class="number">0</span>;  </span><br><span class="line">&#125;</span><br><span class="line"><span class="comment">//例子2：自定义哈希函数</span></span><br><span class="line"><span class="meta">#<span class="keyword">include</span><span class="string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="keyword">include</span><span class="string">&lt;unordered_map&gt;</span><span class="comment">// 自定义哈希函数  </span></span></span><br><span class="line">structHashFunction &#123;  </span><br><span class="line">std::<span class="built_in">size_toperator</span>()(<span class="type">const</span> std::pair&lt;std::string, <span class="type">int</span>&gt;&amp; key)<span class="type">const</span>&#123;          </span><br><span class="line">std::<span class="type">size_t</span> hash = <span class="number">0</span>;  </span><br><span class="line"><span class="keyword">for</span> (constauto&amp; c : key.first) &#123;              </span><br><span class="line">hash += std::<span class="built_in">hash</span>&lt;<span class="type">char</span>&gt;()(c);          </span><br><span class="line">&#125;  </span><br><span class="line"><span class="keyword">return</span> hash ^ (key.second &lt;&lt; <span class="number">1</span>); <span class="comment">// 或使用boost::hash_combine (需要包含boost/functional/hash.hpp)      </span></span><br><span class="line">&#125;  </span><br><span class="line">&#125;;  </span><br><span class="line"><span class="function"><span class="type">int</span></span></span><br><span class="line"><span class="function"><span class="title">main</span><span class="params">()</span></span>&#123;      </span><br><span class="line">std::unordered_map&lt;std::pair&lt;std::string, <span class="type">int</span>&gt;, std::string, HashFunction&gt; hashTable;  </span><br><span class="line"><span class="comment">// 添加键值对      </span></span><br><span class="line">hashTable[&#123;&#123;<span class="string">&quot;apple&quot;</span>, <span class="number">5</span>&#125;&#125;] = <span class="string">&quot;red&quot;</span>;      </span><br><span class="line">hashTable[&#123;&#123;<span class="string">&quot;banana&quot;</span>, <span class="number">7</span>&#125;&#125;] = <span class="string">&quot;yellow&quot;</span>;      </span><br><span class="line">hashTable[&#123;&#123;<span class="string">&quot;orange&quot;</span>, <span class="number">3</span>&#125;&#125;] = <span class="string">&quot;orange&quot;</span>;  </span><br><span class="line"><span class="comment">// 查找键值对      </span></span><br><span class="line">std::cout &lt;&lt; hashTable[&#123;&#123;<span class="string">&quot;apple&quot;</span>, <span class="number">5</span>&#125;&#125;] &lt;&lt; std::endl;  </span><br><span class="line"><span class="comment">// 遍历哈希表  </span></span><br><span class="line"><span class="keyword">for</span> (constauto&amp; entry : hashTable) &#123;          </span><br><span class="line">std::cout &lt;&lt; entry.first.first &lt;&lt; <span class="string">&quot;, &quot;</span> &lt;&lt; entry.first.second &lt;&lt; <span class="string">&quot;: &quot;</span> &lt;&lt; entry.second &lt;&lt; std::endl;      </span><br><span class="line">&#125;  </span><br><span class="line"><span class="keyword">return</span> <span class="number">0</span>;  </span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<blockquote>
-<p>这些例子演示了如何使用unordered_map容器来实现哈希表，并在其中存储和访问键值对。第一个例子使用了默认的哈希函数，而第二个例子自定义了哈希函数。这只是C<ins>中实现哈希表的简单示例，实际上还有更多的用法和扩展可以探索。请注意，为了运行这些示例，您需要编译器支持C</ins>11或更高版本。</p>
-</blockquote>
-]]></content>
-      <categories>
-        <category>算法</category>
-      </categories>
-      <tags>
-        <tag>算法</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>第二周不妨写点东西</title>
     <url>/2024/03/16/%E7%AC%AC%E4%BA%8C%E5%91%A8%E4%B8%8D%E5%A6%A8%E5%86%99%E7%82%B9%E4%B8%9C%E8%A5%BF/</url>
-    <content><![CDATA[<h1 id="first"><a class="markdownIt-Anchor" href="#first"></a> FIRST</h1>
+    <content><![CDATA[<h1>FIRST</h1>
 <p>这一周我把hexo重新部署到我的本地。</p>
 <p>然后通过git的方法链接我的服务器与github pages。</p>
 <p>所以，现在看起来，一切都十分完美。我可以随时断网写作，不用担心数据没有保存，也不用担心没有网络的情况。</p>
@@ -674,12 +564,12 @@ pcb<br />
 <blockquote>
 <p><em><strong>当然了，保重身体也是很重要的。</strong></em></p>
 </blockquote>
-<h1 id="second"><a class="markdownIt-Anchor" href="#second"></a> SECOND</h1>
+<h1>SECOND</h1>
 <p>这周我所做依旧不多，但是我对此做了一些反思。</p>
 <p>我认为一个人不应该有太大的压力，假如一个人是快活的快乐的，那么他自然而然会极具有创造力。</p>
 <p>我总是给自己很大的压力，我认为这就叫做精神内耗。我总是处于一种精神内耗而且焦虑的过程中，那么原本简单的东西对于我来讲也会变得困难，原本困难的东西对于我那我更是不会想要去参与。</p>
 <p>于是我决心改变这样的情况，放下焦虑，（而不是放弃努力），看向眼前，该玩的时候玩玩，该学的时候学，不去担心考试，不去担心未来，坚持做好每一秒的事情。</p>
-<h1 id="third"><a class="markdownIt-Anchor" href="#third"></a> THIRD</h1>
+<h1>THIRD</h1>
 <ul>
 <li>计算机二级不是什么难事。</li>
 <li>英语四级难度只是比高考略高，我连高考都不怕，难道我还会惧怕这个英语四级？</li>
@@ -699,22 +589,108 @@ pcb<br />
       </tags>
   </entry>
   <entry>
+    <title>PCB</title>
+    <url>/2024/03/17/PCB/</url>
+    <content><![CDATA[<h1>为什么学PCB板子？</h1>
+<h2 id="洞洞板的方式十分不方便">洞洞板的方式十分不方便</h2>
+<p>洞洞板最首先是所有的线都在背面裸露出来，必然要受到腐蚀与磨损，随着时间的流逝，与PCB板子相比，<strong>“短时间”内必然会降低性能甚至损毁。</strong></p>
+<p>其次，洞洞板的形式会让电路巨大，不利于使用与携带。</p>
+<h2 id="pcb板是整个电路的载体">PCB板是整个电路的载体</h2>
+<p>PCB板上有各个元件的连线，连接起不同的组件。</p>
+<p>我们一般设计好PCB板之后，发给淘宝店家让其打板，一周左右能到。</p>
+<p><strong>PCB是整个电路的载体</strong>，我们在PCB板上进行焊接，得到以PCB板为载体的电路。</p>
+<h2 id="实践极其重要">实践极其重要</h2>
+<p><em><strong>不论怎么说，PCB板可以在网上找例子，但是想要真正学会，那你必须要自己画，自己设计出来板子，然后自己找人生产，然后自己测试板子。</strong></em></p>
+<p>理论上的功夫很简单，但是想要真正学会，那么就一定要勤画板子。</p>
+<p>我的老师说，你自己的板子就会像是一个艺术品一样。</p>
+<h1>如何开始？</h1>
+<h2 id="首先要下载软件">首先要下载软件</h2>
+<p><em><strong>altium Designer</strong></em></p>
+<h3 id="软件管家">软件管家</h3>
+<p>你可以去关注一个叫做软件管家的公众号</p>
+<p>上面会给你下载软件的链接。</p>
+<p>软件名字叫做altium Designer。</p>
+<h3 id="为什么不用proteus">为什么不用proteus?</h3>
+<p>proteus也能画，但是与淘宝上的PCB厂不好对接，也就说你使用proteus也可以做，但是不好进行实现，顶多使用Proteus仿真。</p>
+<p>因此使用altium Designer是最好的。</p>
+<h1>要学会自己画封装</h1>
+<p><em>库用的时候才会觉得少</em></p>
+<ul>
+<li>
+<p>建立工程文件夹<br>
+所有的东西都是在工程文件夹里面找。<br>
+然后给其保存</p>
+</li>
+<li>
+<p>建立资源文件夹<br>
+doc<br>
+pcb<br>
+……</p>
+</li>
+<li>
+<p>建立符号库</p>
+</li>
+<li>
+<p>建立封装库</p>
+</li>
+</ul>
+<p><strong>原理图是功能设计，pcb图是加工设计，封装是原理图符号所对应的元件的外形尺寸与引脚信息，PCB板是电路的载体</strong></p>
+<h3 id="原理图">原理图</h3>
+<p>只要信息对就行，谁说符号就是那个符号？<em><strong>只要上面标注的信息对即可</strong></em>。</p>
+<p>所以在原理图上可以看见很多各种各样的块。</p>
+<p>只要一个方框，然后上面画上四根线，那就是USB口不行么？只要上面的引脚信息、大小信息与实际上的USB口一样不就可以了？</p>
+<p>所以很多的东西并没有对应的符号，只需要一个黄色块即可。</p>
+<h3 id="封装">封装</h3>
+<p>没有绝对完美的封装库</p>
+<p>要学会自己按照原理图设计封装。</p>
+<p>那么到最后你就真正自己学会了PCB。</p>
+<h1>PCB板的制作</h1>
+<blockquote>
+<p>首先需要覆铜板</p>
+</blockquote>
+<p>中间是玻璃纤维，外面覆盖铜箔</p>
+<p>在上面钻出来孔。PCB板上面的孔就是这么来的。</p>
+<p>电镀在孔中上铜。</p>
+<p>在上下贴蓝膜，再贴黑膜，只有在需要导线的地方露出来，其余部分不透光，用紫外线进行照射，于是需要导线的地方变紫了。</p>
+<p>在用显影液将蓝膜上的蓝色洗掉。</p>
+<p>然后使用三氯化铁进行置换反应，将紫色的地方保留下来，上面的铜就形成了导线。</p>
+]]></content>
+      <categories>
+        <category>电路</category>
+        <category>硬件</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>静态工作点</title>
+    <url>/2024/03/17/%E9%9D%99%E6%80%81%E5%B7%A5%E4%BD%9C%E7%82%B9/</url>
+    <content><![CDATA[<h1>什么是静态工作点？</h1>
+<p>三极管有静态工作与动态工作两种状态。</p>
+<p>静态工作点就是将交流电源输出信号为零的时候放大电路的工作状态，比如IB的大小此时就是IBQ。</p>
+<p>所以在求静态工作点的时候要先把交流电路变成直流电路。</p>
+<h2 id="未完待续">未完待续</h2>
+]]></content>
+      <categories>
+        <category>电路</category>
+        <category>模电</category>
+      </categories>
+  </entry>
+  <entry>
     <title>leetcode_3070——前缀和</title>
     <url>/2024/03/19/leetcode-3070/</url>
     <content><![CDATA[<p><strong>元素和小于等于 k 的子矩阵的数目</strong></p>
-<h1 id="前缀和"><a class="markdownIt-Anchor" href="#前缀和"></a> 前缀和</h1>
+<h1>前缀和</h1>
 <p>为什么要使用前缀和的方式来写代码？</p>
 <p>首先，当然，你可以暴力遍历，由于要求矩阵的元素和的数目，你可以依次先遍历横行，然后再遍历竖行，两个for循环应该就可以搞定。</p>
 <p>但是请注意，这样的做法可能无法通过leetcode等软件的测试，因为这样的计算要花费很长的时间。</p>
 <blockquote>
-<p>我向来不相信知乎上有的人说自己用python多快多快，但是用C<ins>来运行代码就十分慢。<br />
-不正是这么一回事么，自己没写好代码，python上许多的库的质量都非常好，所以python运行起来速度也不慢，但是C</ins>上你自己写的函数可不就是能用就行。</p>
+<p>我向来不相信知乎上有的人说自己用python多快多快，但是用C++来运行代码就十分慢。<br>
+不正是这么一回事么，自己没写好代码，python上许多的库的质量都非常好，所以python运行起来速度也不慢，但是C++上你自己写的函数可不就是能用就行。</p>
 </blockquote>
 <p>所以我们应该如何优化我们的代码？</p>
 <p>我们可以注意到，当使用for循环计算的时候，出现了很多重复次数的计算，我们应该避免这些重复计算。</p>
 <figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="keyword">class</span> <span class="title class_">Solution</span> &#123;</span><br><span class="line"><span class="keyword">public</span>:</span><br><span class="line">    <span class="function"><span class="type">int</span> <span class="title">countSubmatrices</span><span class="params">(vector&lt;vector&lt;<span class="type">int</span>&gt;&gt;&amp; grid, <span class="type">int</span> k)</span> </span>&#123;</span><br><span class="line">        <span class="type">int</span> ans = <span class="number">0</span>,m = grid.<span class="built_in">size</span>(),n = grid[<span class="number">0</span>].<span class="built_in">size</span>();</span><br><span class="line">        vector&lt;vector&lt;<span class="type">int</span>&gt;&gt; <span class="built_in">sum</span> (m+<span class="number">1</span>,<span class="built_in">vector</span>&lt;<span class="type">int</span>&gt;(n+<span class="number">1</span>));</span><br><span class="line">        <span class="keyword">for</span>(<span class="type">int</span> i = <span class="number">0</span>;i&lt;m;i++)&#123;</span><br><span class="line">            <span class="keyword">for</span>(<span class="type">int</span> j = <span class="number">0</span>;j&lt;n;j++)&#123;</span><br><span class="line">                sum[i+<span class="number">1</span>][j+<span class="number">1</span>] = sum[i+<span class="number">1</span>][j] + sum[i][j+<span class="number">1</span>] -sum[i][j] + grid[i][j];</span><br><span class="line">                ans += sum[i+<span class="number">1</span>][j+<span class="number">1</span>]&lt;=k;</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">return</span> ans;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure>
 <p><code>vector&lt;vector&lt;int&gt;&gt; sum (m+1,vector&lt;int&gt;(n+1));</code>先是生成一个答案容器，用来储存数据。</p>
-<p>这里需要注意要多申请一点空间，也就是<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>m</mi><mo>+</mo><mn>1</mn></mrow><annotation encoding="application/x-tex">m+1</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.66666em;vertical-align:-0.08333em;"></span><span class="mord mathnormal">m</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">1</span></span></span></span>与<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow><annotation encoding="application/x-tex">n+1</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.66666em;vertical-align:-0.08333em;"></span><span class="mord mathnormal">n</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">1</span></span></span></span>，方便用来数据初始化。</p>
+<p>这里需要注意要多申请一点空间，也就是<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>m</mi><mo>+</mo><mn>1</mn></mrow><annotation encoding="application/x-tex">m+1</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.66666em;vertical-align:-0.08333em;"></span><span class="mord mathdefault">m</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">1</span></span></span></span>与<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow><annotation encoding="application/x-tex">n+1</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.66666em;vertical-align:-0.08333em;"></span><span class="mord mathdefault">n</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">1</span></span></span></span>，方便用来数据初始化。</p>
 <p>然后进行计算。</p>
 <p><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo fence="true">[</mo><mtable rowspacing="0.15999999999999992em" columnspacing="1em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="false"><mn>1</mn></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="false"><mn>2</mn></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="false"><mn>2</mn></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="false"><mn>3</mn></mstyle></mtd></mtr></mtable><mo fence="true">]</mo></mrow><annotation encoding="application/x-tex">\begin{bmatrix} 
 1 &amp; 2 \\
@@ -736,18 +712,67 @@ pcb<br />
       </tags>
   </entry>
   <entry>
-    <title>静态工作点</title>
-    <url>/2024/03/17/%E9%9D%99%E6%80%81%E5%B7%A5%E4%BD%9C%E7%82%B9/</url>
-    <content><![CDATA[<h1 id="什么是静态工作点"><a class="markdownIt-Anchor" href="#什么是静态工作点"></a> 什么是静态工作点？</h1>
-<p>三极管有静态工作与动态工作两种状态。</p>
-<p>静态工作点就是将交流电源输出信号为零的时候放大电路的工作状态，比如IB的大小此时就是IBQ。</p>
-<p>所以在求静态工作点的时候要先把交流电路变成直流电路。</p>
-<h2 id="未完待续"><a class="markdownIt-Anchor" href="#未完待续"></a> 未完待续</h2>
+    <title>哈希表</title>
+    <url>/2024/03/17/%E5%93%88%E5%B8%8C%E8%A1%A8/</url>
+    <content><![CDATA[<h1><strong>哈希表</strong></h1>
+<p>有的时候，我们需要记录下我们所做的事情，在初学阶段，我们可以使用数组或者容器来进行记录，但是当数据量十分巨大的时候，那么使用哈希表来进行数据的记录会十分方便而且快捷，并且不用担心出现爆栈之类的问题。</p>
+<p>在C++中的哈希表实现有三个函数：<code>map</code>,<code>multimap</code>,<code>unordered_map</code>，前面两个函数的实现是利用了红黑树，<code>unordered map</code>的实现是使用了哈希结构直接做映射。</p>
+<p>在实际使用中大多数是使用<code>unordered_map</code>，因为使用<code>unordered_map</code>进行查找、删改的效率是最高的。<br>
+前面两个函数由于通过在内部实现红黑树的方法来实现哈希表，所以内存占用大，但是在处理一些具有顺序的表的时候更加快速。</p>
+<p><code>unordered_map</code>的使用示例：<code>unordered_map&lt;string,int&gt;mp;</code>//表示键值对由string 映射到 int.<br>
+<code>unordered_map</code>函数中常用的成员方法：</p>
+<p><code>at(key)</code>返回容器中储存的键key对应的值，如果key不存在，则会抛出<code>out_of_range</code>异常、<code>find(key)</code>查找以key为键的键值对，如果找到，那么就返回一个指向这个键值对的正向迭代器，反之则返回指向容器中最后一个键值对之后的位置的迭代器（<code>end()） 、count(key)</code>在容器中查找以key作为键的键值对的个数、<br>
+<code>emplace()</code> 在容器中添加新键值对，效率比<code>insert()</code>高、</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">unordered_map&lt;string, <span class="type">int</span>&gt;map;</span><br><span class="line">map[<span class="string">&quot;hello&quot;</span>] = <span class="number">1</span>;</span><br><span class="line">map.<span class="built_in">emplace</span>(<span class="string">&quot;number&quot;</span>, <span class="number">2</span>);</span><br><span class="line">cout &lt;&lt; <span class="string">&quot;map[hello] = &quot;</span> &lt;&lt; map[<span class="string">&quot;hello&quot;</span>] &lt;&lt; <span class="string">&quot;map[\&quot;number\&quot;] = &quot;</span> &lt;&lt; map[<span class="string">&quot;number&quot;</span>] &lt;&lt; endl;</span><br><span class="line">out：</span><br><span class="line">map[hello] = <span class="number">1</span>map[<span class="string">&quot;number&quot;</span>] = <span class="number">2</span></span><br></pre></td></tr></table></figure>
+<ul>
+<li><code>insert()</code> 向容器中添加键值对、</li>
+<li><code>erase()</code>删除指定键值对、</li>
+<li><code>erase(pos,n)</code>; 删除从pos开始的n个字符，比如erase(0,1)就是删除第一个字符</li>
+<li><code>erase(position)</code>;删除position处的一个字符(position是个string类型的迭代器)</li>
+<li><code>erase(first,last)</code>;删除从first到last之间的字符（first和last都是迭代器）</li>
+<li><code>clear()</code>清空容器、</li>
+<li><code>swap()</code>交换两个unordered_map容器储存的键值对，前提是必须保证这两个容器的类型完全相同。<br>
+记录某一个元素出现的次数：</li>
+</ul>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">unordered_map&lt;<span class="type">int</span>, <span class="type">int</span>&gt;cnt;</span><br><span class="line"><span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">0</span>; i &lt; <span class="number">3</span>; i++) &#123;</span><br><span class="line">    <span class="type">int</span> q;</span><br><span class="line">    cin &gt;&gt; q;</span><br><span class="line">    cnt[q]++;</span><br><span class="line">&#125;</span><br><span class="line"><span class="keyword">for</span> (<span class="keyword">auto</span> q : cnt) &#123;</span><br><span class="line">    cout &lt;&lt; q.first&lt;&lt;<span class="string">&quot;\t&quot;</span>&lt;&lt;q.second&lt;&lt; endl;</span><br><span class="line">&#125;</span><br><span class="line"><span class="comment">//q.first就是键,q.second就是值。</span></span><br></pre></td></tr></table></figure>
+<p>以下为文心一言的回答：<br>
+/**************************************************************************<br>
+当然！以下是几个C++中使用哈希表的例子：</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="comment">//例子1：使用unordered_map实现哈希表</span></span><br><span class="line"><span class="meta">#<span class="keyword">include</span><span class="string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="keyword">include</span><span class="string">&lt;unordered_map&gt;</span></span></span><br><span class="line"><span class="function"><span class="type">int</span></span></span><br><span class="line"><span class="function"><span class="title">main</span><span class="params">()</span></span>&#123;      </span><br><span class="line">    std::unordered_map&lt;std::string, <span class="type">int</span>&gt; hashTable;  <span class="comment">// 添加键值对      </span></span><br><span class="line">    hashTable[<span class="string">&quot;apple&quot;</span>] = <span class="number">5</span>;      </span><br><span class="line">    hashTable[<span class="string">&quot;banana&quot;</span>] = <span class="number">7</span>;      </span><br><span class="line">    hashTable[<span class="string">&quot;orange&quot;</span>] = <span class="number">3</span>;  <span class="comment">// 查找键值对      </span></span><br><span class="line">    std::cout &lt;&lt; <span class="string">&quot;apple: &quot;</span> &lt;&lt; hashTable[<span class="string">&quot;apple&quot;</span>] &lt;&lt; std::endl;  <span class="comment">// 遍历哈希表  </span></span><br><span class="line">    <span class="keyword">for</span> (constauto&amp; entry : hashTable) &#123;          </span><br><span class="line">        std::cout &lt;&lt; entry.first &lt;&lt; <span class="string">&quot;: &quot;</span> &lt;&lt; entry.second &lt;&lt; std::endl;      </span><br><span class="line">&#125;</span><br><span class="line">  <span class="keyword">return</span> <span class="number">0</span>;  </span><br><span class="line">&#125;</span><br><span class="line"><span class="comment">//例子2：自定义哈希函数</span></span><br><span class="line"><span class="meta">#<span class="keyword">include</span><span class="string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="keyword">include</span><span class="string">&lt;unordered_map&gt;</span><span class="comment">// 自定义哈希函数  </span></span></span><br><span class="line">structHashFunction &#123;  </span><br><span class="line">std::<span class="built_in">size_toperator</span>()(<span class="type">const</span> std::pair&lt;std::string, <span class="type">int</span>&gt;&amp; key)<span class="type">const</span>&#123;          </span><br><span class="line">std::<span class="type">size_t</span> hash = <span class="number">0</span>;  </span><br><span class="line"><span class="keyword">for</span> (constauto&amp; c : key.first) &#123;              </span><br><span class="line">hash += std::<span class="built_in">hash</span>&lt;<span class="type">char</span>&gt;()(c);          </span><br><span class="line">&#125;  </span><br><span class="line"><span class="keyword">return</span> hash ^ (key.second &lt;&lt; <span class="number">1</span>); <span class="comment">// 或使用boost::hash_combine (需要包含boost/functional/hash.hpp)      </span></span><br><span class="line">&#125;  </span><br><span class="line">&#125;;  </span><br><span class="line"><span class="function"><span class="type">int</span></span></span><br><span class="line"><span class="function"><span class="title">main</span><span class="params">()</span></span>&#123;      </span><br><span class="line">std::unordered_map&lt;std::pair&lt;std::string, <span class="type">int</span>&gt;, std::string, HashFunction&gt; hashTable;  </span><br><span class="line"><span class="comment">// 添加键值对      </span></span><br><span class="line">hashTable[&#123;&#123;<span class="string">&quot;apple&quot;</span>, <span class="number">5</span>&#125;&#125;] = <span class="string">&quot;red&quot;</span>;      </span><br><span class="line">hashTable[&#123;&#123;<span class="string">&quot;banana&quot;</span>, <span class="number">7</span>&#125;&#125;] = <span class="string">&quot;yellow&quot;</span>;      </span><br><span class="line">hashTable[&#123;&#123;<span class="string">&quot;orange&quot;</span>, <span class="number">3</span>&#125;&#125;] = <span class="string">&quot;orange&quot;</span>;  </span><br><span class="line"><span class="comment">// 查找键值对      </span></span><br><span class="line">std::cout &lt;&lt; hashTable[&#123;&#123;<span class="string">&quot;apple&quot;</span>, <span class="number">5</span>&#125;&#125;] &lt;&lt; std::endl;  </span><br><span class="line"><span class="comment">// 遍历哈希表  </span></span><br><span class="line"><span class="keyword">for</span> (constauto&amp; entry : hashTable) &#123;          </span><br><span class="line">std::cout &lt;&lt; entry.first.first &lt;&lt; <span class="string">&quot;, &quot;</span> &lt;&lt; entry.first.second &lt;&lt; <span class="string">&quot;: &quot;</span> &lt;&lt; entry.second &lt;&lt; std::endl;      </span><br><span class="line">&#125;  </span><br><span class="line"><span class="keyword">return</span> <span class="number">0</span>;  </span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<blockquote>
+<p>这些例子演示了如何使用unordered_map容器来实现哈希表，并在其中存储和访问键值对。第一个例子使用了默认的哈希函数，而第二个例子自定义了哈希函数。这只是C++中实现哈希表的简单示例，实际上还有更多的用法和扩展可以探索。请注意，为了运行这些示例，您需要编译器支持C++11或更高版本。</p>
+</blockquote>
 ]]></content>
       <categories>
-        <category>电路</category>
-        <category>模电</category>
+        <category>算法</category>
       </categories>
+      <tags>
+        <tag>算法</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>随便说说</title>
+    <url>/2024/03/26/%E9%9A%8F%E4%BE%BF%E8%AF%B4%E8%AF%B4/</url>
+    <content><![CDATA[<p>上周考完计算机二级。</p>
+<p>感觉难度尚可,算不上是什么难事。</p>
+<p>不过确实有一些担心我的考试不过。</p>
+<p>这两天都在忙活一件小事，那就是用STM32的hal库来搞一个数码管显示数字。</p>
+<p>但是前天实现了段选，但是位选却一直没有搞定。</p>
+<p>说到底，就是对于hal库不太了解，而原本学习的标准库有段时间没看，也差不多快要忘了。</p>
+<p>这两天花了不少时间在各个平台和网站上找资料，很让人沮丧的是，基本上找不到什么有用的资源，说起来搞笑的是，今天晚上在知乎搜索hal库 位选，结果找出来了一个人对大部分hal库文件的注释的汉化的文章。</p>
+<p>这样的文章没有用吗？很难讲，我觉得是十分有用的，对于初学者来讲，中文可以显著降低他们对hal库以及官方文档的恐惧感。</p>
+<p>可是这样的文章却只有十几个观看。</p>
+<p>而更多的搜索出现的几千乃至几万个观看的文章呢？却顾左右而言它，基本上没有什么软用。</p>
+<p>今天晚上，索取无路，于是决定摆烂，很干脆地问了文心一言如何使用GPIO 的 PB引脚，很快，文心一言给出了答案。</p>
+<p>HAL_GPIO_WritePin(GPIOB,GPIO_PIN_0,GPIO_PIN_SET)</p>
+<p>我可以这么说：一语惊醒梦中人。</p>
+<p>我忽然意识到前面的GPIOB、GPIOA到底是什么意思了，而我之前在百度和知乎上搜索却告诉我说是区分什么虚拟、物理串口用的。好吧，也不能说完全没有，只能说对于我一个寻求资料的人来讲没有什么软用。</p>
+<p>于是，终于，我实现了段选与位选。</p>
+<figure class="highlight c"><table><tr><td class="code"><pre><span class="line">HAL_GPIO_WritePin(GPIOA,num_code[<span class="number">3</span>],GPIO_PIN_SET);</span><br><span class="line">		HAL_GPIO_WritePin(GPIOB,GPIO_PIN_5,GPIO_PIN_SET);</span><br><span class="line">		HAL_GPIO_WritePin(GPIOB,GPIO_PIN_4,GPIO_PIN_RESET);</span><br><span class="line">		HAL_GPIO_WritePin(GPIOB,GPIO_PIN_3,GPIO_PIN_RESET);</span><br><span class="line">		HAL_Delay(<span class="number">500</span>);</span><br><span class="line">		HAL_GPIO_WritePin(GPIOA,num_code[<span class="number">3</span>],GPIO_PIN_RESET);</span><br><span class="line">		HAL_Delay(<span class="number">500</span>);</span><br></pre></td></tr></table></figure>
+]]></content>
+      <tags>
+        <tag>碎碎念</tag>
+      </tags>
   </entry>
   <entry>
     <title>大一下学期第三周</title>
@@ -801,29 +826,5 @@ pcb<br />
       <categories>
         <category>周记</category>
       </categories>
-  </entry>
-  <entry>
-    <title>随便说说</title>
-    <url>/2024/03/26/%E9%9A%8F%E4%BE%BF%E8%AF%B4%E8%AF%B4/</url>
-    <content><![CDATA[<p>上周考完计算机二级。</p>
-<p>感觉难度尚可,算不上是什么难事。</p>
-<p>不过确实有一些担心我的考试不过。</p>
-<p>这两天都在忙活一件小事，那就是用STM32的hal库来搞一个数码管显示数字。</p>
-<p>但是前天实现了段选，但是位选却一直没有搞定。</p>
-<p>说到底，就是对于hal库不太了解，而原本学习的标准库有段时间没看，也差不多快要忘了。</p>
-<p>这两天花了不少时间在各个平台和网站上找资料，很让人沮丧的是，基本上找不到什么有用的资源，说起来搞笑的是，今天晚上在知乎搜索hal库 位选，结果找出来了一个人对大部分hal库文件的注释的汉化的文章。</p>
-<p>这样的文章没有用吗？很难讲，我觉得是十分有用的，对于初学者来讲，中文可以显著降低他们对hal库以及官方文档的恐惧感。</p>
-<p>可是这样的文章却只有十几个观看。</p>
-<p>而更多的搜索出现的几千乃至几万个观看的文章呢？却顾左右而言它，基本上没有什么软用。</p>
-<p>今天晚上，索取无路，于是决定摆烂，很干脆地问了文心一言如何使用GPIO 的 PB引脚，很快，文心一言给出了答案。</p>
-<p>HAL_GPIO_WritePin(GPIOB,GPIO_PIN_0,GPIO_PIN_SET)</p>
-<p>我可以这么说：一语惊醒梦中人。</p>
-<p>我忽然意识到前面的GPIOB、GPIOA到底是什么意思了，而我之前在百度和知乎上搜索却告诉我说是区分什么虚拟、物理串口用的。好吧，也不能说完全没有，只能说对于我一个寻求资料的人来讲没有什么软用。</p>
-<p>于是，终于，我实现了段选与位选。</p>
-<figure class="highlight c"><table><tr><td class="code"><pre><span class="line">HAL_GPIO_WritePin(GPIOA,num_code[<span class="number">3</span>],GPIO_PIN_SET);</span><br><span class="line">		HAL_GPIO_WritePin(GPIOB,GPIO_PIN_5,GPIO_PIN_SET);</span><br><span class="line">		HAL_GPIO_WritePin(GPIOB,GPIO_PIN_4,GPIO_PIN_RESET);</span><br><span class="line">		HAL_GPIO_WritePin(GPIOB,GPIO_PIN_3,GPIO_PIN_RESET);</span><br><span class="line">		HAL_Delay(<span class="number">500</span>);</span><br><span class="line">		HAL_GPIO_WritePin(GPIOA,num_code[<span class="number">3</span>],GPIO_PIN_RESET);</span><br><span class="line">		HAL_Delay(<span class="number">500</span>);</span><br></pre></td></tr></table></figure>
-]]></content>
-      <tags>
-        <tag>碎碎念</tag>
-      </tags>
   </entry>
 </search>
