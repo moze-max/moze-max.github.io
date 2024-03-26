@@ -26,14 +26,14 @@
 
 
 
-<link rel="canonical" href="https://moozy.space/tags/text/">
+<link rel="canonical" href="https://moozy.space/2024/03/26/%E9%9A%8F%E4%BE%BF%E8%AF%B4%E8%AF%B4/">
 
 
 
-<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":false,"lang":"zh-CN","comments":"","permalink":"","path":"tags/text/index.html","title":""}</script>
+<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"zh-CN","comments":true,"permalink":"https://moozy.space/2024/03/26/%E9%9A%8F%E4%BE%BF%E8%AF%B4%E8%AF%B4/","path":"2024/03/26/随便说说/","title":"随便说说"}</script>
 
 <script class="next-config" data-name="calendar" type="application/json">""</script>
-<title>标签: text | BEYOND</title>
+<title>随便说说 | BEYOND</title>
   
 
 
@@ -198,133 +198,112 @@
 
     </div>
 
-    <div class="main-inner tag posts-collapse">
+    <div class="main-inner post posts-expand">
 
 
   
+
+
+<div class="post-block">
   
   
-  <div class="post-block">
-    <div class="post-content">
-      <div class="collection-title">
-        <h1 class="collection-header">text
-          <small>标签</small>
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="https://moozy.space/2024/03/26/%E9%9A%8F%E4%BE%BF%E8%AF%B4%E8%AF%B4/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="moze">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="BEYOND">
+      <meta itemprop="description" content="这是我的个人网站，我将用来发布一些与编程技术相关的文章。">
+    </span>
+
+    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
+      <meta itemprop="name" content="随便说说 | BEYOND">
+      <meta itemprop="description" content="">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          随便说说
         </h1>
-      </div>
 
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
       
-    <div class="collection-year">
-      <span class="collection-header">2024</span>
+
+      <time title="创建时间：2024-03-26 22:12:11 / 修改时间：23:07:46" itemprop="dateCreated datePublished" datetime="2024-03-26T22:12:11+08:00">2024-03-26</time>
+    </span>
+
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody"><p>上周考完计算机二级。</p>
+<p>感觉难度尚可,算不上是什么难事。</p>
+<p>不过确实有一些担心我的考试不过。</p>
+<p>这两天都在忙活一件小事，那就是用STM32的hal库来搞一个数码管显示数字。</p>
+<p>但是前天实现了段选，但是位选却一直没有搞定。</p>
+<p>说到底，就是对于hal库不太了解，而原本学习的标准库有段时间没看，也差不多快要忘了。</p>
+<p>这两天花了不少时间在各个平台和网站上找资料，很让人沮丧的是，基本上找不到什么有用的资源，说起来搞笑的是，今天晚上在知乎搜索hal库 位选，结果找出来了一个人对大部分hal库文件的注释的汉化的文章。</p>
+<p>这样的文章没有用吗？很难讲，我觉得是十分有用的，对于初学者来讲，中文可以显著降低他们对hal库以及官方文档的恐惧感。</p>
+<p>可是这样的文章却只有十几个观看。</p>
+<p>而更多的搜索出现的几千乃至几万个观看的文章呢？却顾左右而言它，基本上没有什么软用。</p>
+<p>今天晚上，索取无路，于是决定摆烂，很干脆地问了文心一言如何使用GPIO 的 PB引脚，很快，文心一言给出了答案。</p>
+<p>HAL_GPIO_WritePin(GPIOB,GPIO_PIN_0,GPIO_PIN_SET)</p>
+<p>我可以这么说：一语惊醒梦中人。</p>
+<p>我忽然意识到前面的GPIOB、GPIOA到底是什么意思了，而我之前在百度和知乎上搜索却告诉我说是区分什么虚拟、物理串口用的。好吧，也不能说完全没有，只能说对于我一个寻求资料的人来讲没有什么软用。</p>
+<p>于是，终于，我实现了段选与位选。</p>
+<figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">HAL_GPIO_WritePin(GPIOA,num_code[<span class="number">3</span>],GPIO_PIN_SET);</span><br><span class="line">		HAL_GPIO_WritePin(GPIOB,GPIO_PIN_5,GPIO_PIN_SET);</span><br><span class="line">		HAL_GPIO_WritePin(GPIOB,GPIO_PIN_4,GPIO_PIN_RESET);</span><br><span class="line">		HAL_GPIO_WritePin(GPIOB,GPIO_PIN_3,GPIO_PIN_RESET);</span><br><span class="line">		HAL_Delay(<span class="number">500</span>);</span><br><span class="line">		HAL_GPIO_WritePin(GPIOA,num_code[<span class="number">3</span>],GPIO_PIN_RESET);</span><br><span class="line">		HAL_Delay(<span class="number">500</span>);</span><br></pre></td></tr></table></figure>
+
     </div>
 
-  <article itemscope itemtype="http://schema.org/Article">
-    <header class="post-header">
-      <div class="post-meta-container">
-        <time itemprop="dateCreated"
-              datetime="2024-03-16T17:32:52+08:00"
-              content="2024-03-16">
-          03-16
-        </time>
-      </div>
+    
+    
+    
 
-      <div class="post-title">
-        <a class="post-title-link" href="/2024/03/16/%E7%AC%AC%E4%BA%8C%E5%91%A8%E4%B8%8D%E5%A6%A8%E5%86%99%E7%82%B9%E4%B8%9C%E8%A5%BF/" itemprop="url">
-          <span itemprop="name">第二周不妨写点东西</span>
-        </a>
-      </div>
+    <footer class="post-footer">
+          <div class="post-tags">
+              <a href="/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/" rel="tag"># 碎碎念</a>
+          </div>
 
-      
-    </header>
-  </article>
-
-  <article itemscope itemtype="http://schema.org/Article">
-    <header class="post-header">
-      <div class="post-meta-container">
-        <time itemprop="dateCreated"
-              datetime="2024-03-09T18:04:54+08:00"
-              content="2024-03-09">
-          03-09
-        </time>
-      </div>
-
-      <div class="post-title">
-        <a class="post-title-link" href="/2024/03/09/a-week/" itemprop="url">
-          <span itemprop="name">a week</span>
-        </a>
-      </div>
-
-      
-    </header>
-  </article>
-
-  <article itemscope itemtype="http://schema.org/Article">
-    <header class="post-header">
-      <div class="post-meta-container">
-        <time itemprop="dateCreated"
-              datetime="2024-02-29T12:24:00+08:00"
-              content="2024-02-29">
-          02-29
-        </time>
-      </div>
-
-      <div class="post-title">
-        <a class="post-title-link" href="/2024/02/29/%E6%98%8E%E5%A4%A9%E7%A6%BB%E5%AE%B6/" itemprop="url">
-          <span itemprop="name">明日离家</span>
-        </a>
-      </div>
-
-      
-    </header>
-  </article>
-
-  <article itemscope itemtype="http://schema.org/Article">
-    <header class="post-header">
-      <div class="post-meta-container">
-        <time itemprop="dateCreated"
-              datetime="2024-02-27T20:34:00+08:00"
-              content="2024-02-27">
-          02-27
-        </time>
-      </div>
-
-      <div class="post-title">
-        <a class="post-title-link" href="/2024/02/27/%E5%BF%83%E6%80%81%E7%BB%A7%E7%BB%AD%E5%B4%A9%E7%9D%80/" itemprop="url">
-          <span itemprop="name">心态继续崩着</span>
-        </a>
-      </div>
-
-      
-    </header>
-  </article>
-
-  <article itemscope itemtype="http://schema.org/Article">
-    <header class="post-header">
-      <div class="post-meta-container">
-        <time itemprop="dateCreated"
-              datetime="2024-02-24T00:00:00+08:00"
-              content="2024-02-24">
-          02-24
-        </time>
-      </div>
-
-      <div class="post-title">
-        <a class="post-title-link" href="/2024/02/24/typecho/" itemprop="url">
-          <span itemprop="name">typecho</span>
-        </a>
-      </div>
-
-      
-    </header>
-  </article>
-
-    </div>
+        
+  <div class="social-like a2a_kit a2a_kit_size_32 a2a_default_style">
+    <a class="a2a_dd" target="_blank" rel="noopener" href="https://www.addtoany.com/share"></a>
+      <a class="a2a_button_facebook"></a>
+      <a class="a2a_button_twitter"></a>
+      <a class="a2a_button_wechat"></a>
   </div>
-  
-  
-  
-  <nav class="pagination">
-    <span class="page-number current">1</span><a class="page-number" href="/tags/text/page/2/">2</a><a class="extend next" rel="next" title="下一页" aria-label="下一页" href="/tags/text/page/2/"><i class="fa fa-angle-right"></i></a>
-  </nav>
+
+          <div class="post-nav">
+            <div class="post-nav-item">
+                <a href="/2024/03/22/%E5%A4%A7%E4%B8%80%E4%B8%8B%E5%AD%A6%E6%9C%9F%E7%AC%AC%E4%B8%89%E5%91%A8/" rel="prev" title="大一下学期第三周">
+                  <i class="fa fa-angle-left"></i> 大一下学期第三周
+                </a>
+            </div>
+            <div class="post-nav-item">
+            </div>
+          </div>
+    </footer>
+  </article>
+</div>
+
+
+
+
+
 
 </div>
   </main>
@@ -398,7 +377,7 @@
 
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/quicklink/2.3.0/quicklink.umd.js" integrity="sha256-yvJQOINiH9fWemHn0vCA5lsHWJaHs6/ZmO+1Ft04SvM=" crossorigin="anonymous"></script>
-  <script class="next-config" data-name="quicklink" type="application/json">{"enable":true,"home":true,"archive":true,"delay":true,"timeout":3000,"priority":true,"url":"https://moozy.space/tags/text/"}</script>
+  <script class="next-config" data-name="quicklink" type="application/json">{"enable":true,"home":true,"archive":true,"delay":true,"timeout":3000,"priority":true,"url":"https://moozy.space/2024/03/26/%E9%9A%8F%E4%BE%BF%E8%AF%B4%E8%AF%B4/"}</script>
   <script src="/js/third-party/quicklink.js"></script>
 
 </body>

@@ -802,4 +802,28 @@ pcb<br />
         <category>周记</category>
       </categories>
   </entry>
+  <entry>
+    <title>随便说说</title>
+    <url>/2024/03/26/%E9%9A%8F%E4%BE%BF%E8%AF%B4%E8%AF%B4/</url>
+    <content><![CDATA[<p>上周考完计算机二级。</p>
+<p>感觉难度尚可,算不上是什么难事。</p>
+<p>不过确实有一些担心我的考试不过。</p>
+<p>这两天都在忙活一件小事，那就是用STM32的hal库来搞一个数码管显示数字。</p>
+<p>但是前天实现了段选，但是位选却一直没有搞定。</p>
+<p>说到底，就是对于hal库不太了解，而原本学习的标准库有段时间没看，也差不多快要忘了。</p>
+<p>这两天花了不少时间在各个平台和网站上找资料，很让人沮丧的是，基本上找不到什么有用的资源，说起来搞笑的是，今天晚上在知乎搜索hal库 位选，结果找出来了一个人对大部分hal库文件的注释的汉化的文章。</p>
+<p>这样的文章没有用吗？很难讲，我觉得是十分有用的，对于初学者来讲，中文可以显著降低他们对hal库以及官方文档的恐惧感。</p>
+<p>可是这样的文章却只有十几个观看。</p>
+<p>而更多的搜索出现的几千乃至几万个观看的文章呢？却顾左右而言它，基本上没有什么软用。</p>
+<p>今天晚上，索取无路，于是决定摆烂，很干脆地问了文心一言如何使用GPIO 的 PB引脚，很快，文心一言给出了答案。</p>
+<p>HAL_GPIO_WritePin(GPIOB,GPIO_PIN_0,GPIO_PIN_SET)</p>
+<p>我可以这么说：一语惊醒梦中人。</p>
+<p>我忽然意识到前面的GPIOB、GPIOA到底是什么意思了，而我之前在百度和知乎上搜索却告诉我说是区分什么虚拟、物理串口用的。好吧，也不能说完全没有，只能说对于我一个寻求资料的人来讲没有什么软用。</p>
+<p>于是，终于，我实现了段选与位选。</p>
+<figure class="highlight c"><table><tr><td class="code"><pre><span class="line">HAL_GPIO_WritePin(GPIOA,num_code[<span class="number">3</span>],GPIO_PIN_SET);</span><br><span class="line">		HAL_GPIO_WritePin(GPIOB,GPIO_PIN_5,GPIO_PIN_SET);</span><br><span class="line">		HAL_GPIO_WritePin(GPIOB,GPIO_PIN_4,GPIO_PIN_RESET);</span><br><span class="line">		HAL_GPIO_WritePin(GPIOB,GPIO_PIN_3,GPIO_PIN_RESET);</span><br><span class="line">		HAL_Delay(<span class="number">500</span>);</span><br><span class="line">		HAL_GPIO_WritePin(GPIOA,num_code[<span class="number">3</span>],GPIO_PIN_RESET);</span><br><span class="line">		HAL_Delay(<span class="number">500</span>);</span><br></pre></td></tr></table></figure>
+]]></content>
+      <tags>
+        <tag>碎碎念</tag>
+      </tags>
+  </entry>
 </search>
