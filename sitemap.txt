@@ -1,3 +1,5 @@
+https://moozy.space/2024/03/29/learn-F/
+https://moozy.space/wiki/
 https://moozy.space/2024/03/26/%E9%9A%8F%E4%BE%BF%E8%AF%B4%E8%AF%B4/
 https://moozy.space/2024/03/22/%E5%A4%A7%E4%B8%80%E4%B8%8B%E5%AD%A6%E6%9C%9F%E7%AC%AC%E4%B8%89%E5%91%A8/
 https://moozy.space/2024/02/23/hello/
@@ -7,7 +9,6 @@ https://moozy.space/2024/03/07/%E8%8A%82%E7%BA%A6%E7%A9%BA%E9%97%B4%E5%9C%B0%E6%
 https://moozy.space/2024/03/17/PCB/
 https://moozy.space/2024/03/17/%E9%9D%99%E6%80%81%E5%B7%A5%E4%BD%9C%E7%82%B9/
 https://moozy.space/2024/03/19/leetcode-3070/
-https://moozy.space/wiki/
 https://moozy.space/2024/03/17/%E5%93%88%E5%B8%8C%E8%A1%A8/
 https://moozy.space/2024/03/16/what_is_md/
 https://moozy.space/2024/02/24/typecho/
@@ -48,3 +49,4 @@ https://moozy.space/categories/%E5%91%A8%E8%AE%B0/
 https://moozy.space/categories/%E7%94%B5%E8%B7%AF/
 https://moozy.space/categories/%E7%94%B5%E8%B7%AF/%E7%A1%AC%E4%BB%B6/
 https://moozy.space/categories/%E7%94%B5%E8%B7%AF/%E6%A8%A1%E7%94%B5/
+https://moozy.space/categories/wiki/F/

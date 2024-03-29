@@ -827,4 +827,18 @@ pcb<br>
         <category>周记</category>
       </categories>
   </entry>
+  <entry>
+    <title>learn_F#</title>
+    <url>/2024/03/29/learn-F/</url>
+    <content><![CDATA[<h1 id="什么是f"><a class="markdownIt-Anchor" href="#什么是f"></a> 什么是F#？</h1>
+<p>F#是一门同样基于.net生态的语言，在某方面来讲，它与C#十分相似。</p>
+<p>它与C#最大的不同，就是F#具有浓重的函数式思想，而C#则更多面向对象。</p>
+<p>所有C#可以做的事情，F#都可以完成，区别只是要花费的精力有所不同。</p>
+<figure class="highlight f#"><table><tr><td class="code"><pre><span class="line"><span class="comment">// For more information see https://aka.ms/fsharp-console-apps</span></span><br><span class="line"><span class="built_in">printfn</span> <span class="string">&quot;Hello from F#&quot;</span></span><br><span class="line"><span class="keyword">open</span> System <span class="comment">// Gets access to functionality in System namespace.</span></span><br><span class="line"></span><br><span class="line"><span class="comment">// Defines a list of names</span></span><br><span class="line"><span class="keyword">let</span> names <span class="operator">=</span> [ <span class="string">&quot;Peter&quot;</span>; <span class="string">&quot;Julia&quot;</span>; <span class="string">&quot;Xi&quot;</span> ]</span><br><span class="line"></span><br><span class="line"><span class="comment">// Defines a function that takes a name and produces a greeting.</span></span><br><span class="line"><span class="keyword">let</span> getGreeting name <span class="operator">=</span> <span class="string">$&quot;Hello, <span class="subst">&#123;name&#125;</span>&quot;</span></span><br><span class="line"></span><br><span class="line"><span class="comment">// Prints a greeting for each name!</span></span><br><span class="line">names</span><br><span class="line"><span class="operator">|&gt;</span> List.map getGreeting</span><br><span class="line"><span class="operator">|&gt;</span> List.iter (<span class="keyword">fun</span> greeting <span class="operator">-&gt;</span> <span class="built_in">printfn</span> <span class="string">$&quot;<span class="subst">&#123;greeting&#125;</span>! Enjoy your F#&quot;</span>)</span><br><span class="line"></span><br><span class="line"><span class="keyword">for</span> cnt <span class="operator">=</span> <span class="number">1</span> <span class="keyword">to</span> <span class="number">12</span> <span class="keyword">do</span> </span><br><span class="line">    <span class="built_in">printf</span> <span class="string">$&quot;nice to see you ,<span class="subst">&#123;cnt&#125;</span> \n&quot;</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">let</span> <span class="keyword">mutable</span> cnt <span class="operator">=</span> <span class="number">0</span>;<span class="comment">//F#中let默认生成的值是自动绑定的，也就是不可变值，假如想要让let的值可变，那么就用mutable属性来修饰。</span></span><br><span class="line"><span class="keyword">for</span> name <span class="keyword">in</span> names <span class="keyword">do</span> </span><br><span class="line">    cnt <span class="operator">&lt;-</span> cnt <span class="operator">+</span> <span class="number">1</span> </span><br><span class="line">    <span class="built_in">printfn</span> <span class="string">$&quot;hello ,No.<span class="subst">&#123;cnt&#125;</span> Are you <span class="subst">&#123;name&#125;</span>?&quot;</span></span><br></pre></td></tr></table></figure>
+]]></content>
+      <categories>
+        <category>wiki</category>
+        <category>F#</category>
+      </categories>
+  </entry>
 </search>
