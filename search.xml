@@ -507,6 +507,9 @@ TreeNode *left; 和 TreeNode *right;：这两个是指针，分别指向节点�
 <p>亦或者，为什么不用typst呢？</p>
 <p>本来很多东西就没有必要all in one ，各取所取，各有所长才是最好的。</p>
 ]]></content>
+      <categories>
+        <category>周记</category>
+      </categories>
       <tags>
         <tag>text</tag>
         <tag>someword</tag>

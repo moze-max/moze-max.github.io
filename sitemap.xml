@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://moozy.space/2024/03/09/a-week/</loc>
+    
+    <lastmod>2024-04-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://moozy.space/2024/04/05/%E6%9B%BC%E5%93%88%E9%A1%BF%E4%B8%8E%E5%88%87%E6%AF%94%E9%9B%AA%E5%A4%AB/</loc>
     
     <lastmod>2024-04-05</lastmod>
@@ -165,15 +174,6 @@
   
   <url>
     <loc>https://moozy.space/2024/02/24/%E7%A2%8E%E7%A2%8E%E5%BF%B5/</loc>
-    
-    <lastmod>2024-03-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://moozy.space/2024/03/09/a-week/</loc>
     
     <lastmod>2024-03-17</lastmod>
     
