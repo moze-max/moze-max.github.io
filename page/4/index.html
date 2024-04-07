@@ -82,7 +82,7 @@
 
 
 <nav class="site-nav">
-  <ul class="main-menu menu"><li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a></li><li class="menu-item menu-item-tags"><a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>标签<span class="badge">9</span></a></li><li class="menu-item menu-item-categories"><a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>分类<span class="badge">8</span></a></li><li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档<span class="badge">27</span></a></li><li class="menu-item menu-item-wiki"><a href="/wiki/" rel="section"><i class="fa-solid fa-mountain-sun fa-fw"></i>WIKI</a></li><li class="menu-item menu-item-sitemap"><a href="/sitemap.xml" rel="section"><i class="fa fa-sitemap fa-fw"></i>站点地图</a></li><li class="menu-item menu-item-about"><a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>关于</a></li>
+  <ul class="main-menu menu"><li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a></li><li class="menu-item menu-item-tags"><a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>标签<span class="badge">9</span></a></li><li class="menu-item menu-item-categories"><a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>分类<span class="badge">8</span></a></li><li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档<span class="badge">28</span></a></li><li class="menu-item menu-item-wiki"><a href="/wiki/" rel="section"><i class="fa-solid fa-mountain-sun fa-fw"></i>WIKI</a></li><li class="menu-item menu-item-sitemap"><a href="/sitemap.xml" rel="section"><i class="fa fa-sitemap fa-fw"></i>站点地图</a></li><li class="menu-item menu-item-about"><a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>关于</a></li>
       <li class="menu-item menu-item-search">
         <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
         </a>
@@ -145,7 +145,7 @@
   <nav class="site-state">
       <div class="site-state-item site-state-posts">
         <a href="/archives/">
-          <span class="site-state-item-count">27</span>
+          <span class="site-state-item-count">28</span>
           <span class="site-state-item-name">日志</span>
         </a>
       </div>
@@ -199,6 +199,123 @@
     </div>
 
     <div class="main-inner index posts-expand">
+
+    
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
+    <link itemprop="mainEntityOfPage" href="https://moozy.space/2024/03/07/%E8%8A%82%E7%BA%A6%E7%A9%BA%E9%97%B4%E5%9C%B0%E6%B1%82%E4%BD%99/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="moze">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="BEYOND">
+      <meta itemprop="description" content="这是我的个人网站，我将用来发布一些与编程技术相关的文章。">
+    </span>
+
+    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
+      <meta itemprop="name" content="undefined | BEYOND">
+      <meta itemprop="description" content="">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          <a href="/2024/03/07/%E8%8A%82%E7%BA%A6%E7%A9%BA%E9%97%B4%E5%9C%B0%E6%B1%82%E4%BD%99/" class="post-title-link" itemprop="url">节约空间地求余</a>
+        </h2>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
+
+      <time title="创建时间：2024-03-07 17:13:33" itemprop="dateCreated datePublished" datetime="2024-03-07T17:13:33+08:00">2024-03-07</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar-check"></i>
+      </span>
+      <span class="post-meta-item-text">更新于</span>
+      <time title="修改时间：2024-03-21 09:00:26" itemprop="dateModified" datetime="2024-03-21T09:00:26+08:00">2024-03-21</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">分类于</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/%E7%AE%97%E6%B3%95/" itemprop="url" rel="index"><span itemprop="name">算法</span></a>
+        </span>
+    </span>
+
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+          <p>这个是leetcode的2575题。<br />
+对于这一道题，固然可以这样来处理cnt的数据：</p>
+<pre class="highlight"><code class="C++">cnt = cnt *= <span class="number">10</span> + num;
+</code></pre>
+<p>但是这么写却又隐患——那就是当遇到特别大，接近long long 的极限的长度的数字的时候，就没有办法再*=10了。</p>
+<p>这个文章将给你介绍如何节约空间。</p>
+<pre class="highlight"><code class="C++"><span class="keyword">class</span> <span class="title class_">Solution</span> &#123;
+<span class="keyword">public</span>:
+    <span class="function">vector&lt;<span class="type">int</span>&gt; <span class="title">divisibilityArray</span><span class="params">(string word, <span class="type">int</span> m)</span> </span>&#123;
+        <span class="type">int</span> n = word.<span class="built_in">size</span>();
+        vector&lt;<span class="type">int</span>&gt;ans;
+        <span class="type">long</span> <span class="type">long</span>  cnt = <span class="number">0</span>;
+        <span class="keyword">for</span>(<span class="keyword">auto</span> q:word)&#123;
+            <span class="keyword">auto</span> num = q -<span class="string">&#x27;0&#x27;</span>;
+            cnt = (cnt * <span class="number">10</span> + num) % m;
+            <span class="keyword">if</span>(cnt % m == <span class="number">0</span>)&#123;
+                ans.<span class="built_in">emplace</span>(ans.<span class="built_in">end</span>(),<span class="number">1</span>);
+            &#125;
+            <span class="keyword">else</span>&#123;
+                ans.<span class="built_in">emplace</span>(ans.<span class="built_in">end</span>(),<span class="number">0</span>);
+            &#125;
+        &#125;
+        <span class="keyword">return</span> ans;
+        
+    &#125;
+&#125;;
+</code></pre>
+<p>在运算的途中就将数据给处理了，那么每一次运算的结果都会明显减少，至少不需要再记录那个非常大的数字了。</p>
+<p>假如需要更大的数字，那么可以使用数组来处理。</p>
+<p>但是在这个时候是用不上的。</p>
+<p>为什么可以在计算过程中求余呢？</p>
+<p><strong>可以将求余数分为两个部分，一个是可以被求余的，还有一部分是多出来的。假如是可以被求余的数，那么多出来的就是0；在这个基础上，每一次求余都会将前面可以求余的部分余去，那么两个数字相加的和求余的时候也是同样的，两个数字的可以求余的部分被余去，然后剩下余数。</strong></p>
+<p>由此，通过在计算过程中求余，就可以显著减少空间占用。</p>
+
+      
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+</div>
+
+
+
 
     
 
@@ -554,96 +671,6 @@
 <p>-我的知乎<span class="exturl" data-url="aHR0cHM6Ly93d3cuemhpaHUuY29tL3Blb3BsZS9nYW4tZ2FuLWppbmctamluZy01MS05MA==" title="欢迎关注">干干净净我的心<i class="fa fa-external-link-alt"></i></span></p>
 <p>-我的<a href="https://moozy.space" title="欢迎到访！">博客</a></p>
 
-      
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://moozy.space/2024/02/27/%E5%BF%83%E6%80%81%E7%BB%A7%E7%BB%AD%E5%B4%A9%E7%9D%80/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/avatar.gif">
-      <meta itemprop="name" content="moze">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="BEYOND">
-      <meta itemprop="description" content="这是我的个人网站，我将用来发布一些与编程技术相关的文章。">
-    </span>
-
-    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
-      <meta itemprop="name" content="undefined | BEYOND">
-      <meta itemprop="description" content="">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/2024/02/27/%E5%BF%83%E6%80%81%E7%BB%A7%E7%BB%AD%E5%B4%A9%E7%9D%80/" class="post-title-link" itemprop="url">心态继续崩着</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">发表于</span>
-
-      <time title="创建时间：2024-02-27 20:34:00" itemprop="dateCreated datePublished" datetime="2024-02-27T20:34:00+08:00">2024-02-27</time>
-    </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar-check"></i>
-      </span>
-      <span class="post-meta-item-text">更新于</span>
-      <time title="修改时间：2024-03-06 16:39:36" itemprop="dateModified" datetime="2024-03-06T16:39:36+08:00">2024-03-06</time>
-    </span>
-
-  
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          <h1 id="怎么说都是很难受"><a class="markdownIt-Anchor" href="#怎么说都是很难受"></a> 怎么说都是很难受</h1>
-<p>看起自己的一生，总感觉自己没有什么擅长的东西。</p>
-<p>假如说编程？</p>
-<p>仔细看看，哪怕只是蓝桥杯这种类型的题目也就只能做个暴力。</p>
-<p>说起别的，什么数学、英语、打游戏、运动，就没有一样是能比得上其他人的。</p>
-<p>就没有什么能够拿得出手的玩意。</p>
-<p>哪怕是那个FTF，我写的那一个程序，也没有什么人用上！即使她确实很好用了，只需要简单的点击与选择，但是……没有人用就是没有人用。</p>
-<p>现如今，搭建了一个博客，wordpress、typecho、hexo、jekyll的方案我都试过了，在那么多的时间消耗之后我感觉自己什么也没有得到……</p>
-          <!--noindex-->
-            <div class="post-button">
-              <a class="btn" href="/2024/02/27/%E5%BF%83%E6%80%81%E7%BB%A7%E7%BB%AD%E5%B4%A9%E7%9D%80/#more" rel="contents">
-                阅读全文 &raquo;
-              </a>
-            </div>
-          <!--/noindex-->
-        
       
     </div>
 
