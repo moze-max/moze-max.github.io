@@ -933,4 +933,25 @@ pcb<br />
         <tag>周记</tag>
       </tags>
   </entry>
+  <entry>
+    <title>第七周</title>
+    <url>/2024/04/15/%E7%AC%AC%E4%B8%83%E5%91%A8/</url>
+    <content><![CDATA[<h1>上周</h1>
+<p>上一周考完了蓝桥杯，感觉其实难度尚可。只不过有的题目确实是经验不足。</p>
+<p>这一周我打算开始努力学习模电，然后为那几个比赛做一些准备。</p>
+]]></content>
+      <categories>
+        <category>周记</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>元件</title>
+    <url>/2024/04/14/%E5%85%83%E4%BB%B6/</url>
+    <content><![CDATA[<p>对于元件，有时候会有需要自己画元件的时候。</p>
+]]></content>
+      <categories>
+        <category>电路</category>
+        <category>硬件</category>
+      </categories>
+  </entry>
 </search>
