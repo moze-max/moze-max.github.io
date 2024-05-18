@@ -968,4 +968,23 @@ pcb<br />
         <tag>周记</tag>
       </tags>
   </entry>
+  <entry>
+    <title>第十一周</title>
+    <url>/2024/05/18/%E7%AC%AC%E5%8D%81%E4%B8%80%E5%91%A8/</url>
+    <content><![CDATA[<h2 id="fist"><a class="markdownIt-Anchor" href="#fist"></a> Fist</h2>
+<p>之前曾经说过的esp32现在看来已经不是什么问题了。</p>
+<p>arduino开发带来的优势是难以言表的，上面有非常多的设备库，假设这些库的导入不会带来什么病毒与错误，在他们正常运行的情况下，只需要短短几行代码就可以实现一个原本实现起来十分复杂的目标。</p>
+<p>模电倒是确实是一个问题。</p>
+<p>不过我已经填补了很大一部分的空缺，还有一些残余，但是一切似乎看起来都在正面向好。</p>
+<p>个人博客最大的问题就是没有人看。</p>
+<p>这个就是最大的问题。</p>
+<p>我在努力让我的博客有价值。</p>
+]]></content>
+      <categories>
+        <category>周记</category>
+      </categories>
+      <tags>
+        <tag>周记</tag>
+      </tags>
+  </entry>
 </search>
