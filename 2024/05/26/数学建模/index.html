@@ -26,14 +26,14 @@
 
 
 
-<link rel="canonical" href="https://moozy.space/categories/%E7%94%B5%E8%B7%AF/%E6%A8%A1%E7%94%B5/">
+<link rel="canonical" href="https://moozy.space/2024/05/26/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/">
 
 
 
-<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":false,"lang":"zh-CN","comments":"","permalink":"","path":"categories/电路/模电/index.html","title":""}</script>
+<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"zh-CN","comments":true,"permalink":"https://moozy.space/2024/05/26/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/","path":"2024/05/26/数学建模/","title":"数学建模"}</script>
 
 <script class="next-config" data-name="calendar" type="application/json">""</script>
-<title>分类: 模电 | BEYOND</title>
+<title>数学建模 | BEYOND</title>
   
 
 
@@ -198,50 +198,143 @@
 
     </div>
 
-    <div class="main-inner category posts-collapse">
+    <div class="main-inner post posts-expand">
 
 
   
+
+
+<div class="post-block">
   
   
-  <div class="post-block">
-    <div class="post-content">
-      <div class="collection-title">
-        <h1 class="collection-header">模电
-          <small>分类</small>
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="https://moozy.space/2024/05/26/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="moze">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="BEYOND">
+      <meta itemprop="description" content="这是我的个人网站，我将用来发布一些与编程技术相关的文章。">
+    </span>
+
+    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
+      <meta itemprop="name" content="数学建模 | BEYOND">
+      <meta itemprop="description" content="">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          数学建模
         </h1>
-      </div>
 
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
       
-    <div class="collection-year">
-      <span class="collection-header">2024</span>
+
+      <time title="创建时间：2024-05-26 00:06:02 / 修改时间：00:06:26" itemprop="dateCreated datePublished" datetime="2024-05-26T00:06:02+08:00">2024-05-26</time>
+    </span>
+
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody"><p>这段代码主要是用于计算一个食谱中各种食物所含的蛋白质总量以及一个叫做“总氨基酸评分”的指标。以下是对这段代码的详细解释：</p>
+<ol>
+<li><strong>初始化变量</strong>:</li>
+</ol>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">total_protein = <span class="number">0</span></span><br><span class="line">total_amino_acid_scores = &#123;&#125;</span><br></pre></td></tr></table></figure>
+<pre><code>* `total_protein` 用于记录整个食谱中的蛋白质总量。
+* `total_amino_acid_scores` 是一个字典，用于记录每种氨基酸的评分总和。
+</code></pre>
+<ol start="2">
+<li><strong>遍历食谱</strong>:</li>
+</ol>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">for</span> foods <span class="keyword">in</span> recipe.values():</span><br></pre></td></tr></table></figure>
+<p>这里假设 <code>recipe</code> 是一个字典，其值是一个嵌套的字典。外部循环遍历 <code>recipe</code> 字典中的所有值（也就是食物列表）。<br />
+3. <strong>处理每种食物</strong>:</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">for</span> food, (amount, servings) <span class="keyword">in</span> foods.items():</span><br></pre></td></tr></table></figure>
+<p>对于每种食物，我们获取其名称（<code>food</code>）、数量（<code>amount</code>，可能是以克为单位）和服务的份数（<code>servings</code>）。<br />
+4. <strong>计算蛋白质总量</strong>:</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">total_protein += nutrient_content_per_100g[food].get(<span class="string">&#x27;蛋白质&#x27;</span>, <span class="number">0</span>) * (amount / <span class="number">100</span>) * servings</span><br></pre></td></tr></table></figure>
+<pre><code>* `nutrient_content_per_100g` 是一个外部字典，它应该包含每种食物每100克的营养成分。
+* 使用 `.get('蛋白质', 0)` 来尝试从字典中获取“蛋白质”的值。如果该值不存在，则返回0。
+* 通过将每100克的蛋白质含量与食物的实际数量和服务的份数相乘，我们可以得到这种食物对总蛋白质的贡献。
+</code></pre>
+<ol start="5">
+<li><strong>计算氨基酸评分</strong>:</li>
+</ol>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">for</span> amino_acid, reference_score <span class="keyword">in</span> reference_amino_acids.items():</span><br></pre></td></tr></table></figure>
+<p>这里遍历一个叫做 <code>reference_amino_acids</code> 的字典，它应该包含各种氨基酸及其参考评分。</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">if</span> amino_acid <span class="keyword">in</span> nutrient_content_per_100g[food]:</span><br><span class="line">    amino_acid_content = nutrient_content_per_100g[food][amino_acid]</span><br><span class="line">    score = <span class="built_in">min</span>((amino_acid_content / reference_score), <span class="number">1</span>)</span><br></pre></td></tr></table></figure>
+<pre><code>* 首先检查当前食物中是否含有特定的氨基酸。
+* 如果含有，就获取该氨基酸的含量，并计算其评分。评分为氨基酸含量与参考评分的比值，但不会超过1。
+</code></pre>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">total_amino_acid_scores[amino_acid] = total_amino_acid_scores.get(amino_acid, <span class="number">0</span>) + score * (amount / <span class="number">100</span>) * servings</span><br></pre></td></tr></table></figure>
+<pre><code>* 更新 `total_amino_acid_scores` 字典中当前氨基酸的评分总和。
+</code></pre>
+<ol start="6">
+<li><strong>计算总氨基酸评分</strong>:</li>
+</ol>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">total_aas_score = <span class="built_in">sum</span>(total_amino_acid_scores.values()) / <span class="built_in">len</span>(reference_amino_acids)</span><br></pre></td></tr></table></figure>
+<pre><code>* 将 `total_amino_acid_scores` 字典中所有值相加，得到所有氨基酸评分的总和。
+* 然后将这个总和除以参考氨基酸的数量，得到平均的氨基酸评分，即“总氨基酸评分”。
+</code></pre>
+<ol start="7">
+<li><strong>输出结果</strong>:</li>
+</ol>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="string">&quot;总氨基酸评分：&quot;</span>, total_aas_score)</span><br></pre></td></tr></table></figure>
+<p>打印出计算得到的“总氨基酸评分”。</p>
+<p>总的来说，这段代码的目的是为了评估一个食谱中食物的营养价值，特别是蛋白质和氨基酸的含量及评分。</p>
+
     </div>
 
-  <article itemscope itemtype="http://schema.org/Article">
-    <header class="post-header">
-      <div class="post-meta-container">
-        <time itemprop="dateCreated"
-              datetime="2024-03-17T11:59:16+08:00"
-              content="2024-03-17">
-          03-17
-        </time>
-      </div>
+    
+    
+    
 
-      <div class="post-title">
-        <a class="post-title-link" href="/2024/03/17/%E9%9D%99%E6%80%81%E5%B7%A5%E4%BD%9C%E7%82%B9/" itemprop="url">
-          <span itemprop="name">静态工作点</span>
-        </a>
-      </div>
+    <footer class="post-footer">
 
-      
-    </header>
-  </article>
-
-    </div>
+        
+  <div class="social-like a2a_kit a2a_kit_size_32 a2a_default_style">
+    <a class="a2a_dd" target="_blank" rel="noopener" href="https://www.addtoany.com/share"></a>
+      <a class="a2a_button_facebook"></a>
+      <a class="a2a_button_twitter"></a>
+      <a class="a2a_button_wechat"></a>
   </div>
-  
-  
-  
+
+          <div class="post-nav">
+            <div class="post-nav-item">
+                <a href="/2024/05/18/%E7%AC%AC%E5%8D%81%E4%B8%80%E5%91%A8/" rel="prev" title="第十一周">
+                  <i class="fa fa-angle-left"></i> 第十一周
+                </a>
+            </div>
+            <div class="post-nav-item">
+                <a href="/2024/05/30/%E8%BF%91%E4%BB%A3%E5%8F%B2%E6%8F%90%E7%BA%B2/" rel="next" title="近代史提纲">
+                  近代史提纲 <i class="fa fa-angle-right"></i>
+                </a>
+            </div>
+          </div>
+    </footer>
+  </article>
+</div>
+
+
+
+
+
 
 </div>
   </main>
@@ -315,7 +408,7 @@
 
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/quicklink/2.3.0/quicklink.umd.js" integrity="sha256-yvJQOINiH9fWemHn0vCA5lsHWJaHs6/ZmO+1Ft04SvM=" crossorigin="anonymous"></script>
-  <script class="next-config" data-name="quicklink" type="application/json">{"enable":true,"home":true,"archive":true,"delay":true,"timeout":3000,"priority":true,"url":"https://moozy.space/categories/%E7%94%B5%E8%B7%AF/%E6%A8%A1%E7%94%B5/"}</script>
+  <script class="next-config" data-name="quicklink" type="application/json">{"enable":true,"home":true,"archive":true,"delay":true,"timeout":3000,"priority":true,"url":"https://moozy.space/2024/05/26/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/"}</script>
   <script src="/js/third-party/quicklink.js"></script>
 
 </body>
