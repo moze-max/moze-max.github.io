@@ -432,7 +432,14 @@
   </url>
   
   <url>
-    <loc>https://moozy.space/tags/someword/</loc>
+    <loc>https://moozy.space/tags/%E7%BC%96%E7%A8%8B/</loc>
+    <lastmod>2024-08-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://moozy.space/tags/%E7%AE%97%E6%B3%95/</loc>
     <lastmod>2024-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -446,14 +453,7 @@
   </url>
   
   <url>
-    <loc>https://moozy.space/tags/%E7%BC%96%E7%A8%8B/</loc>
-    <lastmod>2024-08-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://moozy.space/tags/%E7%AE%97%E6%B3%95/</loc>
+    <loc>https://moozy.space/tags/someword/</loc>
     <lastmod>2024-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -474,14 +474,14 @@
   </url>
   
   <url>
-    <loc>https://moozy.space/tags/math/</loc>
+    <loc>https://moozy.space/tags/wiki/</loc>
     <lastmod>2024-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://moozy.space/tags/wiki/</loc>
+    <loc>https://moozy.space/tags/math/</loc>
     <lastmod>2024-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -504,7 +504,7 @@
   </url>
   
   <url>
-    <loc>https://moozy.space/categories/math/</loc>
+    <loc>https://moozy.space/categories/%E5%91%A8%E8%AE%B0/</loc>
     <lastmod>2024-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -518,13 +518,6 @@
   </url>
   
   <url>
-    <loc>https://moozy.space/categories/%E5%91%A8%E8%AE%B0/</loc>
-    <lastmod>2024-08-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://moozy.space/categories/%E7%94%B5%E8%B7%AF/</loc>
     <lastmod>2024-08-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -532,7 +525,14 @@
   </url>
   
   <url>
-    <loc>https://moozy.space/categories/wiki/F/</loc>
+    <loc>https://moozy.space/categories/math/</loc>
+    <lastmod>2024-08-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://moozy.space/categories/%E7%94%B5%E8%B7%AF/%E7%A1%AC%E4%BB%B6/</loc>
     <lastmod>2024-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -546,7 +546,7 @@
   </url>
   
   <url>
-    <loc>https://moozy.space/categories/%E7%94%B5%E8%B7%AF/%E7%A1%AC%E4%BB%B6/</loc>
+    <loc>https://moozy.space/categories/wiki/F/</loc>
     <lastmod>2024-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

@@ -87,162 +87,6 @@
       </tags>
   </entry>
   <entry>
-    <title>碎碎念</title>
-    <url>/2024/02/24/%E7%A2%8E%E7%A2%8E%E5%BF%B5/</url>
-    <content><![CDATA[<h1 id="azure"><a class="markdownIt-Anchor" href="#azure"></a> azure</h1>
-<p>今天晚上偶然看到了azure的价格计算器，在上面作为学习用途去部署静态网页竟然也是免费的！</p>
-<p>这不由得令我感到欣喜若狂。</p>
-<p>但是我忽然又想到，我这么费劲巴拉的到底是想要干什么呢？</p>
-<span id="more"></span>
-<p>本来就已经有了github pages，现在还需要这些玩意做什么？即使以后真的用上了azure的服务器，也是很久很久之后的事情了，目前来讲，或许以后考虑使用香港的服务器或者东京的服务器作为主要的动态使用的服务器来减少开支或许才是稍微有那么一点考虑价值的东西。</p>
-<p>人有的时候是真的很奇妙。明明这些东西没有什么价值，但是却还是忍不住去想，假如我有这个我会怎么样，假如我实现了这个我会怎么样……亦或是，明明已经到了十分危急的关头，到了时间非常紧迫的时刻，人在那个时候却会好像突然能抓住一些空闲的时光，然后用这些空闲的时光来奢侈的干一些没什么价值的事情……</p>
-<p>人是真的很神奇。</p>
-<p>总而言之，确实是很感谢微软，<strong>github pages</strong> 和 <strong>azure</strong>可以免费开放有一定<strong>限制</strong>的<strong>静态网页服务</strong>，假如没有微软的付出，恐怕现在市面上的博客的数量要大大的减少了……当然，活跃的博客的占比也会大大增加……</p>
-<p>免费的东西，人们得到了却总是不会珍惜。</p>
-<p>这样的服务恐怕也只有国外的厂商会提供，假如国内的厂商提供了，那就一定要接入层层的审核，最终的结局就像是曾经腾讯、网易等大厂的博客一样，悄悄然地关闭。</p>
-<p>在国内，如果想你要一个这样的服务，那其实也很简单，那就是进行ICP备案，可是说来简单，我的ICP备案到现在都还没有通过呢！</p>
-<p>不管怎么说，到现在是时候免除这样的烦扰了，是时候去干一些有意义的事情了，把时间花在刀刃上，而不是再去折腾这个博客系统的好坏。</p>
-<blockquote>
-<p>人们在讨论玫瑰花的时候，不会在意她的刺是否扎手，也不会在意她的绿叶是否美丽动人。</p>
-</blockquote>
-<p>-我的Bilibili<span class="exturl" data-url="aHR0cHM6Ly9zcGFjZS5iaWxpYmlsaS5jb20vNDQxMzE4NTIz" title="欢迎您！">墨泽moozy<i class="fa fa-external-link-alt"></i></span></p>
-<p>-我的公众号<a href="#hellomoozy">墨泽moozy</a></p>
-<p>-我的知乎<span class="exturl" data-url="aHR0cHM6Ly93d3cuemhpaHUuY29tL3Blb3BsZS9nYW4tZ2FuLWppbmctamluZy01MS05MA==" title="欢迎关注">干干净净我的心<i class="fa fa-external-link-alt"></i></span></p>
-<p>-我的<a href="https://moozy.space" title="欢迎到访！">博客</a></p>
-]]></content>
-      <tags>
-        <tag>text</tag>
-        <tag>someword</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>一些杂项</title>
-    <url>/2024/02/23/%E7%A2%8E%E7%A2%8E%E5%BF%B5/</url>
-    <content><![CDATA[<h1 id="first"><a class="markdownIt-Anchor" href="#first"></a> FIRST</h1>
-<p>首先就是网站几乎彻底部署好了，这个方案是可行的，而且也是久经验证的。</p>
-<p>在历史上，github pages也为许多的程序员提供了这样的服务，可以预见的是，在短短的几年内，github pages都不会关闭这个服务，即使Github pages 关闭了，我也依旧可以在自己的服务器上继续接力下去。</p>
-<p>而且，github 被微软收购了，背靠着微软雄厚的财力，我相信github短时间内不会倒闭。</p>
-<span id="more"></span>
-<h1 id="secound"><a class="markdownIt-Anchor" href="#secound"></a> SECOUND</h1>
-<p>github pages + vscode +markdown真的是一个非常好用的组合。</p>
-<p>现在总算是可以从这些事情中解脱出来了，然后就可以用点心思去看看算法io的东西，我现在觉得这一套玩意有一点过于学术化，但是以后转码也许能用得上……此外，蓝桥杯毕竟已经交了300元的报名费。</p>
-<p>不论如何，或许可以这么说，我会继续前进，继续前进，直到取得一个比较好的结果……或许可以问<strong>这一个结果</strong>是什么呢？</p>
-<p>我已经有一点语无伦次了，当我思考我的未来的时候，我是迷茫的。</p>
-<p>思考一下……这个时代变得太快了，一个公司，在短短的几年时间登上巅峰，又在短短的几年时间陷入低谷甚至是破产。</p>
-<p>看看IBM公司，曾经的王者，现在已经默默无闻，成为了一个类似智囊团的存在，曾经的机器业务现在也所剩无几……</p>
-<p>再例如NOKIA公司，现在NOKIA回归了通信的老本行，买下了AT&amp;T的贝尔实验室，但是NOKIA与贝尔实验室都没能再续辉煌。</p>
-<p>关于未来的事情，又有谁能说得准？这么早就“布局未来”真的有必要？</p>
-<p>你真的可以<strong>布局</strong>未来么？</p>
-<h1 id="last"><a class="markdownIt-Anchor" href="#last"></a> LAST</h1>
-<p>我希望公众号上可以很方便的同步markdown语法，这样可以方便我进行博客的发布……Markdown真是一个很好用的东西，在使用markdown的时候你的双手不需要离开键盘，只需要几个符号，你就可以进行大纲、加粗、斜体、标题的设置。</p>
-<p>-我的Bilibili<span class="exturl" data-url="aHR0cHM6Ly9zcGFjZS5iaWxpYmlsaS5jb20vNDQxMzE4NTIz" title="欢迎您！">墨泽moozy<i class="fa fa-external-link-alt"></i></span></p>
-<p>-我的公众号<a href="#hellomoozy">墨泽moozy</a></p>
-<p>-我的知乎<span class="exturl" data-url="aHR0cHM6Ly93d3cuemhpaHUuY29tL3Blb3BsZS9nYW4tZ2FuLWppbmctamluZy01MS05MA==" title="欢迎关注">干干净净我的心<i class="fa fa-external-link-alt"></i></span></p>
-<p>-我的<span class="exturl" data-url="aHR0cHM6Ly9tb3plLW1heC5naXRodWIuaW8=" title="欢迎到访！">博客<i class="fa fa-external-link-alt"></i></span></p>
-]]></content>
-      <tags>
-        <tag>text</tag>
-        <tag>someword</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>关于二叉树的层序遍历方式</title>
-    <url>/2024/02/27/%E5%BF%83%E6%80%81%E5%B4%A9%E4%BA%86/</url>
-    <content><![CDATA[<h1 id="心态崩了"><a class="markdownIt-Anchor" href="#心态崩了"></a> 心态崩了</h1>
-<p>蓝桥杯的题好难……前面几道填空题，暴力固然可以做，可是代码量大，能保证代码写出来不出错也是很难的……而有一些题目，要进行剪枝等等操作，还有一些题目，思路都很难想……虽然看了别人的的答案之后——啊呀！不就是这么一回事么！</p>
-<p>可是自己做起来就是很难搞。</p>
-<p>后面的几道大题就更是很难很难了。</p>
-<p>线段树、前后缀和、图论……不是我吹，吹牛可以，真写起来是一道也不会。能写个dfs就已经快到极限了，用个滚动数组、滑动窗口、二分查找优化一下就是真的极限了……</p>
-<p>今年的蓝桥杯能给我来一道比较简单的动态规划，我就真的谢天谢地。</p>
-<p>马上又要开学了。感觉一个寒假过去啥也没学到，啥也不是…………下个学期课还算是比较少……但是有大学物理…………先走一步看一步吧，慢慢学，慢慢努力……蓝桥杯这种玩意……今年拿不了奖还可以明年再试试，然后到大三就努力备战考研了。</p>
-<h2 id="下面是代码部分"><a class="markdownIt-Anchor" href="#下面是代码部分"></a> 下面是代码部分</h2>
-<h3 id="先来说说-queue"><a class="markdownIt-Anchor" href="#先来说说-queue"></a> 先来说说 queue</h3>
-<p>queue和栈最大的区别是queue是先进先出的，叫做队列，栈是先进后出的，类似于一个十分窄的箱子，前面放进去的东西就只好最后才能取出来。</p>
-<span id="more"></span>
-<p>队列则是类似于平时的排队，先排队的人先出来。</p>
-<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">&#123;</span><br><span class="line"><span class="comment">//C++队列Queue类成员函数如下:</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">back</span>()<span class="comment">//返回最后一个元素</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">empty</span>()<span class="comment">//如果队列空则返回真</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">front</span>()<span class="comment">//返回第一个元素</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">pop</span>()<span class="comment">//删除第一个元素</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">push</span>()<span class="comment">//在末尾加入一个元素</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">size</span>()<span class="comment">//返回队列中元素的个数</span></span><br><span class="line"></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<p>知道了queue的性质，来讲讲二叉树的层序遍历。</p>
-<p><strong>所谓的层序遍历就是把二叉树的每一层的元素都遍历出来，默认是从左到右，顺序是每一层，从根节点逐层向下。</strong></p>
-<p>那么输出的状态就是[[],[]]这样的，因为有的节点是有两个值的。或者不用这样只是输出排序也成。</p>
-<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="comment">//在蓝桥杯里，不像是leetcode那样一切都是封装好，只需要写一个函数即可，在蓝桥杯上，要写一个完整的函数。</span></span><br><span class="line"><span class="comment">//首先导库</span></span><br><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;bits/stdc++.h&gt;</span>  </span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br><span class="line"><span class="comment">//我固然知道using namespace std是一种十分不好的行为，但是在蓝桥杯里本来也用不上太多的命名，一个using就可以解决一切问题。</span></span><br><span class="line"><span class="keyword">struct</span> <span class="title class_">TreeNode</span>&#123;</span><br><span class="line">    <span class="type">int</span> val;</span><br><span class="line">    TreeNode* left;</span><br><span class="line">    TreeNode* right;</span><br><span class="line">    <span class="built_in">TreeNode</span> (<span class="type">int</span> x):<span class="built_in">val</span>(x),<span class="built_in">left</span>(<span class="literal">nullptr</span>),<span class="built_in">right</span>(<span class="literal">nullptr</span>)&#123;&#125;</span><br><span class="line">&#125;;</span><br><span class="line"></span><br><span class="line"><span class="comment">//root = [3,9,20,null,null,15,7]  </span></span><br><span class="line"></span><br><span class="line">vector&lt;vector&lt;<span class="type">int</span>&gt;&gt; <span class="built_in">level</span>(TreeNode* root)&#123;</span><br><span class="line">    vector&lt;vector&lt;<span class="type">int</span>&gt;&gt; res;<span class="comment">//使用一个二维容器来储存数据。</span></span><br><span class="line">    <span class="keyword">if</span>(!root)&#123;</span><br><span class="line">        <span class="keyword">return</span> res;</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="comment">//如果根节点是空的那就直接返回，下面的写法也可以实现同样的效果。</span></span><br><span class="line">    <span class="comment">/*</span></span><br><span class="line"><span class="comment">    if(root ==  nullptr)</span></span><br><span class="line"><span class="comment">        return res;</span></span><br><span class="line"><span class="comment">    */</span></span><br><span class="line"></span><br><span class="line">    queue&lt;TreeNode*&gt; q;<span class="comment">//创建一个队列用来层序遍历</span></span><br><span class="line">    q.<span class="built_in">push</span>(root);<span class="comment">//先是将根节点入队。</span></span><br><span class="line">    <span class="keyword">while</span>(!q.<span class="built_in">empty</span>())&#123;<span class="comment">//如果当前节点不为空</span></span><br><span class="line">        <span class="type">int</span> cursize = q.<span class="built_in">size</span>();</span><br><span class="line">        res.<span class="built_in">push_back</span>(<span class="built_in">vector</span>&lt;<span class="type">int</span>&gt;());<span class="comment">//往答案里添加一个容器。</span></span><br><span class="line"></span><br><span class="line">        <span class="keyword">for</span>(<span class="type">int</span> i = <span class="number">1</span>;i&lt;= cursize;i++)&#123;</span><br><span class="line">            <span class="keyword">auto</span> node = q.<span class="built_in">front</span>();<span class="comment">//node就是当前层的最左边的节点。</span></span><br><span class="line">            q.<span class="built_in">pop</span>();<span class="comment">//删除队列中的第一个元素，注意，这个时候第一个元素已经被存到node里面了</span></span><br><span class="line">            res.<span class="built_in">back</span>().<span class="built_in">push_back</span>(node-&gt;val);<span class="comment">//向res的最后的vector存入node的值。注意这个时候node是第一个元素。然后将node所有的左右的元素也存进去。</span></span><br><span class="line">            <span class="comment">//然后继续向左右添加节点。</span></span><br><span class="line">            <span class="keyword">if</span>(node-&gt;left) </span><br><span class="line">                q.<span class="built_in">push</span>(node-&gt;left);</span><br><span class="line">            <span class="keyword">if</span>(node-&gt;right)</span><br><span class="line">                q.<span class="built_in">push</span>(node-&gt;right);</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="keyword">return</span> res;</span><br><span class="line"></span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="type">int</span> <span class="title">main</span><span class="params">(<span class="type">void</span>)</span></span>&#123;</span><br><span class="line">    TreeNode* root = <span class="keyword">new</span> <span class="built_in">TreeNode</span>(<span class="number">1</span>);  </span><br><span class="line">    root-&gt;left = <span class="keyword">new</span> <span class="built_in">TreeNode</span>(<span class="number">2</span>);  </span><br><span class="line">    root-&gt;right = <span class="keyword">new</span> <span class="built_in">TreeNode</span>(<span class="number">3</span>);  </span><br><span class="line">    root-&gt;right-&gt;left = <span class="keyword">new</span> <span class="built_in">TreeNode</span>(<span class="number">4</span>);  </span><br><span class="line">    root-&gt;right-&gt;right = <span class="keyword">new</span> <span class="built_in">TreeNode</span>(<span class="number">5</span>); </span><br><span class="line">    vector&lt;vector&lt;<span class="type">int</span>&gt;&gt;ans;</span><br><span class="line">    ans = <span class="built_in">level</span>(root);</span><br><span class="line">    <span class="comment">//在leetcode中此时直接return就可以结束了。</span></span><br><span class="line">    <span class="type">int</span> n = ans.<span class="built_in">size</span>();</span><br><span class="line">    <span class="keyword">for</span>(<span class="type">int</span> i = <span class="number">0</span>;i &lt; n; i++)</span><br><span class="line">    &#123;</span><br><span class="line">        <span class="type">int</span> m = ans[i].<span class="built_in">size</span>();</span><br><span class="line">        <span class="keyword">for</span>(<span class="type">int</span> j = <span class="number">0</span>;j &lt; m;j++)</span><br><span class="line">        &#123;</span><br><span class="line">            cout&lt;&lt;ans[i][j];</span><br><span class="line">            cout&lt;&lt;endl;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<h3 id="有几点是特别妙的"><a class="markdownIt-Anchor" href="#有几点是特别妙的"></a> 有几点是特别妙的。</h3>
-<p><strong>首先就是使用队列可以减少空间开支，这样除了那些用来维护的内存、树本身的内存外只需要两层树的内存即可。</strong><br />
-<strong>每一层都是root-&gt;left然后再root-&gt;right，这样本身就可以维护队列的从左到右。由于根节点只有一个，所以根节点无所谓是从左到右还是从右到左，其他的节点都是先左再右，然后再加上队列的先进先出的特点，这下子就可以实现从左到右的排列。</strong></p>
-<p>说说一个朴素的做法，也就是leetcode题解中提到的那一个做法，也是类似的历遍，但是是使用哈希表，使用一个二元组记录下节点与其对应的层数，使用哈希表来储存这些数据。</p>
-<p>然后输出的时候就可以使用层数作为key来输出每一层的元素了。</p>
-<p>那么锯齿层序遍历是怎么搞呢？<strong>锯齿层序遍历就是每一层遍历的顺序是反过来的</strong>，这一层是从左到右，下一层就是从右到左。</p>
-<p>可以在存数据进res的时候反转一下数据、或者是需要翻转的时候就把此节点的值添加到队列的尾部，同样是从左到右遍历，那么添加的时候就已经从右到左添加了。</p>
-<p>-我的Bilibili<span class="exturl" data-url="aHR0cHM6Ly9zcGFjZS5iaWxpYmlsaS5jb20vNDQxMzE4NTIz" title="欢迎您！">墨泽moozy<i class="fa fa-external-link-alt"></i></span></p>
-<p>-我的公众号<a href="#hellomoozy">墨泽moozy</a></p>
-<p>-我的知乎<span class="exturl" data-url="aHR0cHM6Ly93d3cuemhpaHUuY29tL3Blb3BsZS9nYW4tZ2FuLWppbmctamluZy01MS05MA==" title="欢迎关注">干干净净我的心<i class="fa fa-external-link-alt"></i></span></p>
-<p>-我的<a href="https://moozy.space" title="欢迎到访！">博客</a></p>
-]]></content>
-      <tags>
-        <tag>someword</tag>
-        <tag>碎碎念</tag>
-        <tag>编程</tag>
-        <tag>算法</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>心态继续崩着</title>
-    <url>/2024/02/27/%E5%BF%83%E6%80%81%E7%BB%A7%E7%BB%AD%E5%B4%A9%E7%9D%80/</url>
-    <content><![CDATA[<h1 id="怎么说都是很难受"><a class="markdownIt-Anchor" href="#怎么说都是很难受"></a> 怎么说都是很难受</h1>
-<p>看起自己的一生，总感觉自己没有什么擅长的东西。</p>
-<p>假如说编程？</p>
-<p>仔细看看，哪怕只是蓝桥杯这种类型的题目也就只能做个暴力。</p>
-<p>说起别的，什么数学、英语、打游戏、运动，就没有一样是能比得上其他人的。</p>
-<p>就没有什么能够拿得出手的玩意。</p>
-<p>哪怕是那个FTF，我写的那一个程序，也没有什么人用上！即使她确实很好用了，只需要简单的点击与选择，但是……没有人用就是没有人用。</p>
-<p>现如今，搭建了一个博客，wordpress、typecho、hexo、jekyll的方案我都试过了，在那么多的时间消耗之后我感觉自己什么也没有得到……</p>
-<span id="more"></span>
-<p>除了知道这几个玩意怎么用，知道ngnix怎么配置，知道如何编辑一些yml文件……可是说到底，这也不过只是一个博客，除了博客之外呢？我还得到了什么？而我所能学到的东西连一篇博客都凑不出来！</p>
-<p>当我把手搭在我的键盘上的时候，我想写一些什么东西，但是我什么都写不出来。从我的指尖流露出来的只有这样的话语，我很痛苦得想要说一些足够让人感觉到精神振奋的玩意，比如说什么圆锥曲线大招、圆锥曲线原理、C语言精通……好！</p>
-<p>看似很多东西都能说出来，但是什么都说不出来！什么都不是！</p>
-<p>我什么都说不出来。</p>
-<p>而再放到一个大的范围来看，哪怕是这些我觉得十分晦涩的玩意，只不过是别人的基础。这些什么二叉树的遍历，什么线段树，都不过是别人简简单单的一个课后作业，而我却需要花费几个小时去学习，才能明白这些遍历是如何运行的，这些玩意是怎么用的，但是到了最为简单的蓝桥杯上却没有办法用上这些玩意。</p>
-<p>我还能干些什么呢？</p>
-<p>内心还是在痛苦着。</p>
-<p>不过随着我的撰写……我的内心似乎又好了一些……</p>
-<p>别人终归只是简简单单的课后作业……所谓前序遍历，根左右，中序遍历，左根右，后序遍历，左右根。</p>
-<p>这样的玩意我也能随口说出来，但是别人懂得用dfs来遍历么？又懂得为什么dfs是这样遍历而且能说出来解释清楚么？</p>
-<p>博士……外表看起来和一个研究生，一个博士生也没有什么区别，但是一个博士，就是一个领域的最顶尖的人，不管这个领域有没有用 😂</p>
-<p>那好吧……暂时平复心情，做一些有用的事情。</p>
-<p>把所谓的二叉树再看看，再说说数组。</p>
-<p>我不指望蓝桥杯能拿个什么奖，只要我告诉自己我做到了就好了。</p>
-<p>顺便一提，我最近在看C语言二级，有点意外，里面竟然也涉及到了二叉树什么的……果然就是别人的课后作业，而我啥也不会。</p>
-<p>二级比我想象中简单，后面的三道题占了60分，拿下后面的三道大题，前面的随便写写就能过。</p>
-<p><strong>我不指望蓝桥杯能拿个什么奖，只要我告诉自己我做到了就好了。</strong></p>
-<p><strong>相信吧。无限进步吧。</strong></p>
-<p>-我的Bilibili<span class="exturl" data-url="aHR0cHM6Ly9zcGFjZS5iaWxpYmlsaS5jb20vNDQxMzE4NTIz" title="欢迎您！">墨泽moozy<i class="fa fa-external-link-alt"></i></span></p>
-<p>-我的公众号<a href="#hellomoozy">墨泽moozy</a></p>
-<p>-我的知乎<span class="exturl" data-url="aHR0cHM6Ly93d3cuemhpaHUuY29tL3Blb3BsZS9nYW4tZ2FuLWppbmctamluZy01MS05MA==" title="欢迎关注">干干净净我的心<i class="fa fa-external-link-alt"></i></span></p>
-<p>-我的<a href="https://moozy.space" title="欢迎到访！">博客</a></p>
-]]></content>
-      <tags>
-        <tag>text</tag>
-        <tag>someword</tag>
-        <tag>碎碎念</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>睡前的话</title>
-    <url>/2024/02/29/%E7%9D%A1%E5%89%8D%E7%9A%84%E8%AF%9D/</url>
-    <content><![CDATA[<p>昨天刚想说ICP备案要备个半天，没想到昨天刚把博客写完半个小时ICP备案通过的通知就下来了。</p>
-<p>虽然通过了，但是还没有向腾讯云同步，所以通过了也暂时没有办法通过域名访问我的网站，等到今天应该就可以实现了。</p>
-<p>然后现在是在等公安的备案。</p>
-<p>这个应该很简单，毕竟我这个网站啥也没有，没有评论，没有通知，没有注册。</p>
-<p>有的只是我一个人的狂欢。</p>
-<p>-我的Bilibili<span class="exturl" data-url="aHR0cHM6Ly9zcGFjZS5iaWxpYmlsaS5jb20vNDQxMzE4NTIz" title="欢迎您！">墨泽moozy<i class="fa fa-external-link-alt"></i></span></p>
-<p>-我的公众号<a href="#hellomoozy">墨泽moozy</a></p>
-<p>-我的知乎<span class="exturl" data-url="aHR0cHM6Ly93d3cuemhpaHUuY29tL3Blb3BsZS9nYW4tZ2FuLWppbmctamluZy01MS05MA==" title="欢迎关注">干干净净我的心<i class="fa fa-external-link-alt"></i></span></p>
-<p>-我的<a href="https://moozy.space" title="欢迎到访！">博客</a></p>
-]]></content>
-      <tags>
-        <tag>someword</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>二叉树的集中遍历</title>
     <url>/2024/02/25/%E4%BA%8C%E5%8F%89%E6%A0%91/</url>
     <content><![CDATA[<h1 id="二叉树的几种遍历"><a class="markdownIt-Anchor" href="#二叉树的几种遍历"></a> 二叉树的几种遍历</h1>
@@ -298,18 +142,141 @@ TreeNode *left; 和 TreeNode *right;：这两个是指针，分别指向节点�
       </tags>
   </entry>
   <entry>
-    <title>到达上海</title>
-    <url>/2024/03/03/%E5%88%B0%E8%BE%BE%E4%B8%8A%E6%B5%B7/</url>
-    <content><![CDATA[<p>为了减少obs资源开支，可以前往我的公众号访问。</p>
-<p>不是可怜这一点obs资源，而是本来就没人看，全浪费给爬虫了。</p>
-<p>假如有人看我是不在意这一点消耗的。</p>
-<p><img src="https://moozy.space/picture/%E4%B8%8A%E6%B5%B7%E6%9C%BA%E5%9C%BA%E5%80%99%E6%9C%BA%E5%AE%A4.jpg" alt="候机楼"></p>
+    <title>心态继续崩着</title>
+    <url>/2024/02/27/%E5%BF%83%E6%80%81%E7%BB%A7%E7%BB%AD%E5%B4%A9%E7%9D%80/</url>
+    <content><![CDATA[<h1 id="怎么说都是很难受"><a class="markdownIt-Anchor" href="#怎么说都是很难受"></a> 怎么说都是很难受</h1>
+<p>看起自己的一生，总感觉自己没有什么擅长的东西。</p>
+<p>假如说编程？</p>
+<p>仔细看看，哪怕只是蓝桥杯这种类型的题目也就只能做个暴力。</p>
+<p>说起别的，什么数学、英语、打游戏、运动，就没有一样是能比得上其他人的。</p>
+<p>就没有什么能够拿得出手的玩意。</p>
+<p>哪怕是那个FTF，我写的那一个程序，也没有什么人用上！即使她确实很好用了，只需要简单的点击与选择，但是……没有人用就是没有人用。</p>
+<p>现如今，搭建了一个博客，wordpress、typecho、hexo、jekyll的方案我都试过了，在那么多的时间消耗之后我感觉自己什么也没有得到……</p>
+<span id="more"></span>
+<p>除了知道这几个玩意怎么用，知道ngnix怎么配置，知道如何编辑一些yml文件……可是说到底，这也不过只是一个博客，除了博客之外呢？我还得到了什么？而我所能学到的东西连一篇博客都凑不出来！</p>
+<p>当我把手搭在我的键盘上的时候，我想写一些什么东西，但是我什么都写不出来。从我的指尖流露出来的只有这样的话语，我很痛苦得想要说一些足够让人感觉到精神振奋的玩意，比如说什么圆锥曲线大招、圆锥曲线原理、C语言精通……好！</p>
+<p>看似很多东西都能说出来，但是什么都说不出来！什么都不是！</p>
+<p>我什么都说不出来。</p>
+<p>而再放到一个大的范围来看，哪怕是这些我觉得十分晦涩的玩意，只不过是别人的基础。这些什么二叉树的遍历，什么线段树，都不过是别人简简单单的一个课后作业，而我却需要花费几个小时去学习，才能明白这些遍历是如何运行的，这些玩意是怎么用的，但是到了最为简单的蓝桥杯上却没有办法用上这些玩意。</p>
+<p>我还能干些什么呢？</p>
+<p>内心还是在痛苦着。</p>
+<p>不过随着我的撰写……我的内心似乎又好了一些……</p>
+<p>别人终归只是简简单单的课后作业……所谓前序遍历，根左右，中序遍历，左根右，后序遍历，左右根。</p>
+<p>这样的玩意我也能随口说出来，但是别人懂得用dfs来遍历么？又懂得为什么dfs是这样遍历而且能说出来解释清楚么？</p>
+<p>博士……外表看起来和一个研究生，一个博士生也没有什么区别，但是一个博士，就是一个领域的最顶尖的人，不管这个领域有没有用 😂</p>
+<p>那好吧……暂时平复心情，做一些有用的事情。</p>
+<p>把所谓的二叉树再看看，再说说数组。</p>
+<p>我不指望蓝桥杯能拿个什么奖，只要我告诉自己我做到了就好了。</p>
+<p>顺便一提，我最近在看C语言二级，有点意外，里面竟然也涉及到了二叉树什么的……果然就是别人的课后作业，而我啥也不会。</p>
+<p>二级比我想象中简单，后面的三道题占了60分，拿下后面的三道大题，前面的随便写写就能过。</p>
+<p><strong>我不指望蓝桥杯能拿个什么奖，只要我告诉自己我做到了就好了。</strong></p>
+<p><strong>相信吧。无限进步吧。</strong></p>
 <p>-我的Bilibili<span class="exturl" data-url="aHR0cHM6Ly9zcGFjZS5iaWxpYmlsaS5jb20vNDQxMzE4NTIz" title="欢迎您！">墨泽moozy<i class="fa fa-external-link-alt"></i></span></p>
 <p>-我的公众号<a href="#hellomoozy">墨泽moozy</a></p>
 <p>-我的知乎<span class="exturl" data-url="aHR0cHM6Ly93d3cuemhpaHUuY29tL3Blb3BsZS9nYW4tZ2FuLWppbmctamluZy01MS05MA==" title="欢迎关注">干干净净我的心<i class="fa fa-external-link-alt"></i></span></p>
 <p>-我的<a href="https://moozy.space" title="欢迎到访！">博客</a></p>
 ]]></content>
       <tags>
+        <tag>text</tag>
+        <tag>碎碎念</tag>
+        <tag>someword</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>关于二叉树的层序遍历方式</title>
+    <url>/2024/02/27/%E5%BF%83%E6%80%81%E5%B4%A9%E4%BA%86/</url>
+    <content><![CDATA[<h1 id="心态崩了"><a class="markdownIt-Anchor" href="#心态崩了"></a> 心态崩了</h1>
+<p>蓝桥杯的题好难……前面几道填空题，暴力固然可以做，可是代码量大，能保证代码写出来不出错也是很难的……而有一些题目，要进行剪枝等等操作，还有一些题目，思路都很难想……虽然看了别人的的答案之后——啊呀！不就是这么一回事么！</p>
+<p>可是自己做起来就是很难搞。</p>
+<p>后面的几道大题就更是很难很难了。</p>
+<p>线段树、前后缀和、图论……不是我吹，吹牛可以，真写起来是一道也不会。能写个dfs就已经快到极限了，用个滚动数组、滑动窗口、二分查找优化一下就是真的极限了……</p>
+<p>今年的蓝桥杯能给我来一道比较简单的动态规划，我就真的谢天谢地。</p>
+<p>马上又要开学了。感觉一个寒假过去啥也没学到，啥也不是…………下个学期课还算是比较少……但是有大学物理…………先走一步看一步吧，慢慢学，慢慢努力……蓝桥杯这种玩意……今年拿不了奖还可以明年再试试，然后到大三就努力备战考研了。</p>
+<h2 id="下面是代码部分"><a class="markdownIt-Anchor" href="#下面是代码部分"></a> 下面是代码部分</h2>
+<h3 id="先来说说-queue"><a class="markdownIt-Anchor" href="#先来说说-queue"></a> 先来说说 queue</h3>
+<p>queue和栈最大的区别是queue是先进先出的，叫做队列，栈是先进后出的，类似于一个十分窄的箱子，前面放进去的东西就只好最后才能取出来。</p>
+<span id="more"></span>
+<p>队列则是类似于平时的排队，先排队的人先出来。</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">&#123;</span><br><span class="line"><span class="comment">//C++队列Queue类成员函数如下:</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">back</span>()<span class="comment">//返回最后一个元素</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">empty</span>()<span class="comment">//如果队列空则返回真</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">front</span>()<span class="comment">//返回第一个元素</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">pop</span>()<span class="comment">//删除第一个元素</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">push</span>()<span class="comment">//在末尾加入一个元素</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">size</span>()<span class="comment">//返回队列中元素的个数</span></span><br><span class="line"></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p>知道了queue的性质，来讲讲二叉树的层序遍历。</p>
+<p><strong>所谓的层序遍历就是把二叉树的每一层的元素都遍历出来，默认是从左到右，顺序是每一层，从根节点逐层向下。</strong></p>
+<p>那么输出的状态就是[[],[]]这样的，因为有的节点是有两个值的。或者不用这样只是输出排序也成。</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="comment">//在蓝桥杯里，不像是leetcode那样一切都是封装好，只需要写一个函数即可，在蓝桥杯上，要写一个完整的函数。</span></span><br><span class="line"><span class="comment">//首先导库</span></span><br><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;bits/stdc++.h&gt;</span>  </span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br><span class="line"><span class="comment">//我固然知道using namespace std是一种十分不好的行为，但是在蓝桥杯里本来也用不上太多的命名，一个using就可以解决一切问题。</span></span><br><span class="line"><span class="keyword">struct</span> <span class="title class_">TreeNode</span>&#123;</span><br><span class="line">    <span class="type">int</span> val;</span><br><span class="line">    TreeNode* left;</span><br><span class="line">    TreeNode* right;</span><br><span class="line">    <span class="built_in">TreeNode</span> (<span class="type">int</span> x):<span class="built_in">val</span>(x),<span class="built_in">left</span>(<span class="literal">nullptr</span>),<span class="built_in">right</span>(<span class="literal">nullptr</span>)&#123;&#125;</span><br><span class="line">&#125;;</span><br><span class="line"></span><br><span class="line"><span class="comment">//root = [3,9,20,null,null,15,7]  </span></span><br><span class="line"></span><br><span class="line">vector&lt;vector&lt;<span class="type">int</span>&gt;&gt; <span class="built_in">level</span>(TreeNode* root)&#123;</span><br><span class="line">    vector&lt;vector&lt;<span class="type">int</span>&gt;&gt; res;<span class="comment">//使用一个二维容器来储存数据。</span></span><br><span class="line">    <span class="keyword">if</span>(!root)&#123;</span><br><span class="line">        <span class="keyword">return</span> res;</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="comment">//如果根节点是空的那就直接返回，下面的写法也可以实现同样的效果。</span></span><br><span class="line">    <span class="comment">/*</span></span><br><span class="line"><span class="comment">    if(root ==  nullptr)</span></span><br><span class="line"><span class="comment">        return res;</span></span><br><span class="line"><span class="comment">    */</span></span><br><span class="line"></span><br><span class="line">    queue&lt;TreeNode*&gt; q;<span class="comment">//创建一个队列用来层序遍历</span></span><br><span class="line">    q.<span class="built_in">push</span>(root);<span class="comment">//先是将根节点入队。</span></span><br><span class="line">    <span class="keyword">while</span>(!q.<span class="built_in">empty</span>())&#123;<span class="comment">//如果当前节点不为空</span></span><br><span class="line">        <span class="type">int</span> cursize = q.<span class="built_in">size</span>();</span><br><span class="line">        res.<span class="built_in">push_back</span>(<span class="built_in">vector</span>&lt;<span class="type">int</span>&gt;());<span class="comment">//往答案里添加一个容器。</span></span><br><span class="line"></span><br><span class="line">        <span class="keyword">for</span>(<span class="type">int</span> i = <span class="number">1</span>;i&lt;= cursize;i++)&#123;</span><br><span class="line">            <span class="keyword">auto</span> node = q.<span class="built_in">front</span>();<span class="comment">//node就是当前层的最左边的节点。</span></span><br><span class="line">            q.<span class="built_in">pop</span>();<span class="comment">//删除队列中的第一个元素，注意，这个时候第一个元素已经被存到node里面了</span></span><br><span class="line">            res.<span class="built_in">back</span>().<span class="built_in">push_back</span>(node-&gt;val);<span class="comment">//向res的最后的vector存入node的值。注意这个时候node是第一个元素。然后将node所有的左右的元素也存进去。</span></span><br><span class="line">            <span class="comment">//然后继续向左右添加节点。</span></span><br><span class="line">            <span class="keyword">if</span>(node-&gt;left) </span><br><span class="line">                q.<span class="built_in">push</span>(node-&gt;left);</span><br><span class="line">            <span class="keyword">if</span>(node-&gt;right)</span><br><span class="line">                q.<span class="built_in">push</span>(node-&gt;right);</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="keyword">return</span> res;</span><br><span class="line"></span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="type">int</span> <span class="title">main</span><span class="params">(<span class="type">void</span>)</span></span>&#123;</span><br><span class="line">    TreeNode* root = <span class="keyword">new</span> <span class="built_in">TreeNode</span>(<span class="number">1</span>);  </span><br><span class="line">    root-&gt;left = <span class="keyword">new</span> <span class="built_in">TreeNode</span>(<span class="number">2</span>);  </span><br><span class="line">    root-&gt;right = <span class="keyword">new</span> <span class="built_in">TreeNode</span>(<span class="number">3</span>);  </span><br><span class="line">    root-&gt;right-&gt;left = <span class="keyword">new</span> <span class="built_in">TreeNode</span>(<span class="number">4</span>);  </span><br><span class="line">    root-&gt;right-&gt;right = <span class="keyword">new</span> <span class="built_in">TreeNode</span>(<span class="number">5</span>); </span><br><span class="line">    vector&lt;vector&lt;<span class="type">int</span>&gt;&gt;ans;</span><br><span class="line">    ans = <span class="built_in">level</span>(root);</span><br><span class="line">    <span class="comment">//在leetcode中此时直接return就可以结束了。</span></span><br><span class="line">    <span class="type">int</span> n = ans.<span class="built_in">size</span>();</span><br><span class="line">    <span class="keyword">for</span>(<span class="type">int</span> i = <span class="number">0</span>;i &lt; n; i++)</span><br><span class="line">    &#123;</span><br><span class="line">        <span class="type">int</span> m = ans[i].<span class="built_in">size</span>();</span><br><span class="line">        <span class="keyword">for</span>(<span class="type">int</span> j = <span class="number">0</span>;j &lt; m;j++)</span><br><span class="line">        &#123;</span><br><span class="line">            cout&lt;&lt;ans[i][j];</span><br><span class="line">            cout&lt;&lt;endl;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<h3 id="有几点是特别妙的"><a class="markdownIt-Anchor" href="#有几点是特别妙的"></a> 有几点是特别妙的。</h3>
+<p><strong>首先就是使用队列可以减少空间开支，这样除了那些用来维护的内存、树本身的内存外只需要两层树的内存即可。</strong><br />
+<strong>每一层都是root-&gt;left然后再root-&gt;right，这样本身就可以维护队列的从左到右。由于根节点只有一个，所以根节点无所谓是从左到右还是从右到左，其他的节点都是先左再右，然后再加上队列的先进先出的特点，这下子就可以实现从左到右的排列。</strong></p>
+<p>说说一个朴素的做法，也就是leetcode题解中提到的那一个做法，也是类似的历遍，但是是使用哈希表，使用一个二元组记录下节点与其对应的层数，使用哈希表来储存这些数据。</p>
+<p>然后输出的时候就可以使用层数作为key来输出每一层的元素了。</p>
+<p>那么锯齿层序遍历是怎么搞呢？<strong>锯齿层序遍历就是每一层遍历的顺序是反过来的</strong>，这一层是从左到右，下一层就是从右到左。</p>
+<p>可以在存数据进res的时候反转一下数据、或者是需要翻转的时候就把此节点的值添加到队列的尾部，同样是从左到右遍历，那么添加的时候就已经从右到左添加了。</p>
+<p>-我的Bilibili<span class="exturl" data-url="aHR0cHM6Ly9zcGFjZS5iaWxpYmlsaS5jb20vNDQxMzE4NTIz" title="欢迎您！">墨泽moozy<i class="fa fa-external-link-alt"></i></span></p>
+<p>-我的公众号<a href="#hellomoozy">墨泽moozy</a></p>
+<p>-我的知乎<span class="exturl" data-url="aHR0cHM6Ly93d3cuemhpaHUuY29tL3Blb3BsZS9nYW4tZ2FuLWppbmctamluZy01MS05MA==" title="欢迎关注">干干净净我的心<i class="fa fa-external-link-alt"></i></span></p>
+<p>-我的<a href="https://moozy.space" title="欢迎到访！">博客</a></p>
+]]></content>
+      <tags>
+        <tag>编程</tag>
+        <tag>算法</tag>
+        <tag>碎碎念</tag>
+        <tag>someword</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>一些杂项</title>
+    <url>/2024/02/23/%E7%A2%8E%E7%A2%8E%E5%BF%B5/</url>
+    <content><![CDATA[<h1 id="first"><a class="markdownIt-Anchor" href="#first"></a> FIRST</h1>
+<p>首先就是网站几乎彻底部署好了，这个方案是可行的，而且也是久经验证的。</p>
+<p>在历史上，github pages也为许多的程序员提供了这样的服务，可以预见的是，在短短的几年内，github pages都不会关闭这个服务，即使Github pages 关闭了，我也依旧可以在自己的服务器上继续接力下去。</p>
+<p>而且，github 被微软收购了，背靠着微软雄厚的财力，我相信github短时间内不会倒闭。</p>
+<span id="more"></span>
+<h1 id="secound"><a class="markdownIt-Anchor" href="#secound"></a> SECOUND</h1>
+<p>github pages + vscode +markdown真的是一个非常好用的组合。</p>
+<p>现在总算是可以从这些事情中解脱出来了，然后就可以用点心思去看看算法io的东西，我现在觉得这一套玩意有一点过于学术化，但是以后转码也许能用得上……此外，蓝桥杯毕竟已经交了300元的报名费。</p>
+<p>不论如何，或许可以这么说，我会继续前进，继续前进，直到取得一个比较好的结果……或许可以问<strong>这一个结果</strong>是什么呢？</p>
+<p>我已经有一点语无伦次了，当我思考我的未来的时候，我是迷茫的。</p>
+<p>思考一下……这个时代变得太快了，一个公司，在短短的几年时间登上巅峰，又在短短的几年时间陷入低谷甚至是破产。</p>
+<p>看看IBM公司，曾经的王者，现在已经默默无闻，成为了一个类似智囊团的存在，曾经的机器业务现在也所剩无几……</p>
+<p>再例如NOKIA公司，现在NOKIA回归了通信的老本行，买下了AT&amp;T的贝尔实验室，但是NOKIA与贝尔实验室都没能再续辉煌。</p>
+<p>关于未来的事情，又有谁能说得准？这么早就“布局未来”真的有必要？</p>
+<p>你真的可以<strong>布局</strong>未来么？</p>
+<h1 id="last"><a class="markdownIt-Anchor" href="#last"></a> LAST</h1>
+<p>我希望公众号上可以很方便的同步markdown语法，这样可以方便我进行博客的发布……Markdown真是一个很好用的东西，在使用markdown的时候你的双手不需要离开键盘，只需要几个符号，你就可以进行大纲、加粗、斜体、标题的设置。</p>
+<p>-我的Bilibili<span class="exturl" data-url="aHR0cHM6Ly9zcGFjZS5iaWxpYmlsaS5jb20vNDQxMzE4NTIz" title="欢迎您！">墨泽moozy<i class="fa fa-external-link-alt"></i></span></p>
+<p>-我的公众号<a href="#hellomoozy">墨泽moozy</a></p>
+<p>-我的知乎<span class="exturl" data-url="aHR0cHM6Ly93d3cuemhpaHUuY29tL3Blb3BsZS9nYW4tZ2FuLWppbmctamluZy01MS05MA==" title="欢迎关注">干干净净我的心<i class="fa fa-external-link-alt"></i></span></p>
+<p>-我的<span class="exturl" data-url="aHR0cHM6Ly9tb3plLW1heC5naXRodWIuaW8=" title="欢迎到访！">博客<i class="fa fa-external-link-alt"></i></span></p>
+]]></content>
+      <tags>
+        <tag>text</tag>
+        <tag>someword</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>碎碎念</title>
+    <url>/2024/02/24/%E7%A2%8E%E7%A2%8E%E5%BF%B5/</url>
+    <content><![CDATA[<h1 id="azure"><a class="markdownIt-Anchor" href="#azure"></a> azure</h1>
+<p>今天晚上偶然看到了azure的价格计算器，在上面作为学习用途去部署静态网页竟然也是免费的！</p>
+<p>这不由得令我感到欣喜若狂。</p>
+<p>但是我忽然又想到，我这么费劲巴拉的到底是想要干什么呢？</p>
+<span id="more"></span>
+<p>本来就已经有了github pages，现在还需要这些玩意做什么？即使以后真的用上了azure的服务器，也是很久很久之后的事情了，目前来讲，或许以后考虑使用香港的服务器或者东京的服务器作为主要的动态使用的服务器来减少开支或许才是稍微有那么一点考虑价值的东西。</p>
+<p>人有的时候是真的很奇妙。明明这些东西没有什么价值，但是却还是忍不住去想，假如我有这个我会怎么样，假如我实现了这个我会怎么样……亦或是，明明已经到了十分危急的关头，到了时间非常紧迫的时刻，人在那个时候却会好像突然能抓住一些空闲的时光，然后用这些空闲的时光来奢侈的干一些没什么价值的事情……</p>
+<p>人是真的很神奇。</p>
+<p>总而言之，确实是很感谢微软，<strong>github pages</strong> 和 <strong>azure</strong>可以免费开放有一定<strong>限制</strong>的<strong>静态网页服务</strong>，假如没有微软的付出，恐怕现在市面上的博客的数量要大大的减少了……当然，活跃的博客的占比也会大大增加……</p>
+<p>免费的东西，人们得到了却总是不会珍惜。</p>
+<p>这样的服务恐怕也只有国外的厂商会提供，假如国内的厂商提供了，那就一定要接入层层的审核，最终的结局就像是曾经腾讯、网易等大厂的博客一样，悄悄然地关闭。</p>
+<p>在国内，如果想你要一个这样的服务，那其实也很简单，那就是进行ICP备案，可是说来简单，我的ICP备案到现在都还没有通过呢！</p>
+<p>不管怎么说，到现在是时候免除这样的烦扰了，是时候去干一些有意义的事情了，把时间花在刀刃上，而不是再去折腾这个博客系统的好坏。</p>
+<blockquote>
+<p>人们在讨论玫瑰花的时候，不会在意她的刺是否扎手，也不会在意她的绿叶是否美丽动人。</p>
+</blockquote>
+<p>-我的Bilibili<span class="exturl" data-url="aHR0cHM6Ly9zcGFjZS5iaWxpYmlsaS5jb20vNDQxMzE4NTIz" title="欢迎您！">墨泽moozy<i class="fa fa-external-link-alt"></i></span></p>
+<p>-我的公众号<a href="#hellomoozy">墨泽moozy</a></p>
+<p>-我的知乎<span class="exturl" data-url="aHR0cHM6Ly93d3cuemhpaHUuY29tL3Blb3BsZS9nYW4tZ2FuLWppbmctamluZy01MS05MA==" title="欢迎关注">干干净净我的心<i class="fa fa-external-link-alt"></i></span></p>
+<p>-我的<a href="https://moozy.space" title="欢迎到访！">博客</a></p>
+]]></content>
+      <tags>
+        <tag>text</tag>
         <tag>someword</tag>
       </tags>
   </entry>
@@ -364,17 +331,21 @@ TreeNode *left; 和 TreeNode *right;：这两个是指针，分别指向节点�
       </tags>
   </entry>
   <entry>
-    <title>learn_numpy</title>
-    <url>/2024/03/06/learn-numpy/</url>
-    <content><![CDATA[<h1 id="这是一篇关于numpy库的博客"><a class="markdownIt-Anchor" href="#这是一篇关于numpy库的博客"></a> 这是一篇关于numpy库的博客</h1>
-<h2 id="忽然记起自己还有一场数学建模的任务"><a class="markdownIt-Anchor" href="#忽然记起自己还有一场数学建模的任务"></a> 忽然记起自己还有一场数学建模的任务</h2>
-<p>感觉单单是什么蓝桥杯、电设赛云者已经很让人疲惫了，不过数学建模是一种很重要的技能。</p>
-<p>这个博客不可能一次性更新完，会慢慢更新。</p>
-<p>在这个博客中，我会介绍我关于numpy的学习经验。</p>
+    <title>睡前的话</title>
+    <url>/2024/02/29/%E7%9D%A1%E5%89%8D%E7%9A%84%E8%AF%9D/</url>
+    <content><![CDATA[<p>昨天刚想说ICP备案要备个半天，没想到昨天刚把博客写完半个小时ICP备案通过的通知就下来了。</p>
+<p>虽然通过了，但是还没有向腾讯云同步，所以通过了也暂时没有办法通过域名访问我的网站，等到今天应该就可以实现了。</p>
+<p>然后现在是在等公安的备案。</p>
+<p>这个应该很简单，毕竟我这个网站啥也没有，没有评论，没有通知，没有注册。</p>
+<p>有的只是我一个人的狂欢。</p>
+<p>-我的Bilibili<span class="exturl" data-url="aHR0cHM6Ly9zcGFjZS5iaWxpYmlsaS5jb20vNDQxMzE4NTIz" title="欢迎您！">墨泽moozy<i class="fa fa-external-link-alt"></i></span></p>
+<p>-我的公众号<a href="#hellomoozy">墨泽moozy</a></p>
+<p>-我的知乎<span class="exturl" data-url="aHR0cHM6Ly93d3cuemhpaHUuY29tL3Blb3BsZS9nYW4tZ2FuLWppbmctamluZy01MS05MA==" title="欢迎关注">干干净净我的心<i class="fa fa-external-link-alt"></i></span></p>
+<p>-我的<a href="https://moozy.space" title="欢迎到访！">博客</a></p>
 ]]></content>
-      <categories>
-        <category>算法</category>
-      </categories>
+      <tags>
+        <tag>someword</tag>
+      </tags>
   </entry>
   <entry>
     <title>节约空间地求余</title>
@@ -422,6 +393,35 @@ TreeNode *left; 和 TreeNode *right;：这两个是指针，分别指向节点�
       </tags>
   </entry>
   <entry>
+    <title>到达上海</title>
+    <url>/2024/03/03/%E5%88%B0%E8%BE%BE%E4%B8%8A%E6%B5%B7/</url>
+    <content><![CDATA[<p>为了减少obs资源开支，可以前往我的公众号访问。</p>
+<p>不是可怜这一点obs资源，而是本来就没人看，全浪费给爬虫了。</p>
+<p>假如有人看我是不在意这一点消耗的。</p>
+<p><img src="https://moozy.space/picture/%E4%B8%8A%E6%B5%B7%E6%9C%BA%E5%9C%BA%E5%80%99%E6%9C%BA%E5%AE%A4.jpg" alt="候机楼" /></p>
+<p>-我的Bilibili<span class="exturl" data-url="aHR0cHM6Ly9zcGFjZS5iaWxpYmlsaS5jb20vNDQxMzE4NTIz" title="欢迎您！">墨泽moozy<i class="fa fa-external-link-alt"></i></span></p>
+<p>-我的公众号<a href="#hellomoozy">墨泽moozy</a></p>
+<p>-我的知乎<span class="exturl" data-url="aHR0cHM6Ly93d3cuemhpaHUuY29tL3Blb3BsZS9nYW4tZ2FuLWppbmctamluZy01MS05MA==" title="欢迎关注">干干净净我的心<i class="fa fa-external-link-alt"></i></span></p>
+<p>-我的<a href="https://moozy.space" title="欢迎到访！">博客</a></p>
+]]></content>
+      <tags>
+        <tag>someword</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>learn_numpy</title>
+    <url>/2024/03/06/learn-numpy/</url>
+    <content><![CDATA[<h1 id="这是一篇关于numpy库的博客"><a class="markdownIt-Anchor" href="#这是一篇关于numpy库的博客"></a> 这是一篇关于numpy库的博客</h1>
+<h2 id="忽然记起自己还有一场数学建模的任务"><a class="markdownIt-Anchor" href="#忽然记起自己还有一场数学建模的任务"></a> 忽然记起自己还有一场数学建模的任务</h2>
+<p>感觉单单是什么蓝桥杯、电设赛云者已经很让人疲惫了，不过数学建模是一种很重要的技能。</p>
+<p>这个博客不可能一次性更新完，会慢慢更新。</p>
+<p>在这个博客中，我会介绍我关于numpy的学习经验。</p>
+]]></content>
+      <categories>
+        <category>算法</category>
+      </categories>
+  </entry>
+  <entry>
     <title>还在美化</title>
     <url>/2024/03/13/%E8%BF%98%E5%9C%A8%E7%BE%8E%E5%8C%96/</url>
     <content><![CDATA[<h1 id="还是在美化的道路上越走越远了"><a class="markdownIt-Anchor" href="#还是在美化的道路上越走越远了"></a> 还是在美化的道路上越走越远了</h1>
@@ -437,41 +437,6 @@ TreeNode *left; 和 TreeNode *right;：这两个是指针，分别指向节点�
       <tags>
         <tag>服务器</tag>
         <tag>博客</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>SVM向量机初入门</title>
-    <url>/2024/03/15/SVM%E5%90%91%E9%87%8F%E6%9C%BA%E5%88%9D%E5%85%A5%E9%97%A8/</url>
-    <content><![CDATA[<h1 id="svm向量机"><a class="markdownIt-Anchor" href="#svm向量机"></a> SVM向量机</h1>
-<p>使用SVM向量机将数据进行区分。</p>
-<p>由于markdown中不方便插入图片，所以就略去不谈，示意的图片可以在网上找到很多。</p>
-<p>总的来讲，通过SVM向量机对数据进行处理，训练模型，然后通过模型去推测更多的数据。</p>
-<blockquote>
-<p>也就是我下面所说的那个<em>分类与预测</em>；</p>
-</blockquote>
-<p>最直接的做法就是：<strong>最接近的两个元素之间的距离，不同的两个元素之中会有不同的距离，找出最大的那一个距离，使得你的区分线鲁棒性最强。</strong></p>
-<p>由于我们整个SVM向量机都是一个预测的使用目的，你的区分模型鲁棒性越强，那么后续的预测就会更加准确。</p>
-<p>与此同时，还需要注意一个过拟合的问题：</p>
-<ul>
-<li>
-<p>这个可以用线性回归模型来进行演示，在平面上的那么多个点，划出一条直线，那么这一条直线是不可能都刚好通过所有的点的，假如说真的有那么一条直线通过所有的点，那么说明问题大了，为了通过所有的点，往往就付出了准确性下降，无法正确预测后面的点的代价，这个就是过拟合。</p>
-</li>
-<li>
-<p>一般情况下，预测的正确性能够有80%-90%就挺不错的了，太高就会发生过拟合问题，太低那就是预测不准。</p>
-</li>
-</ul>
-<blockquote>
-<p>现在研究完了SVM向量机，那么它是如何快速处理那么多的数据的呢？</p>
-</blockquote>
-<p>这必须要用到加速处理。</p>
-<h1 id="将低维非线性升为高维线性函数"><a class="markdownIt-Anchor" href="#将低维非线性升为高维线性函数"></a> 将低维非线性升为高维线性函数</h1>
-<p>高维线性函数可以使用线性回归方程求解，进而优化计算速度。</p>
-]]></content>
-      <categories>
-        <category>math</category>
-      </categories>
-      <tags>
-        <tag>math</tag>
       </tags>
   </entry>
   <entry>
@@ -631,44 +596,6 @@ TreeNode *left; 和 TreeNode *right;：这两个是指针，分别指向节点�
       </tags>
   </entry>
   <entry>
-    <title>随便说说</title>
-    <url>/2024/03/26/%E9%9A%8F%E4%BE%BF%E8%AF%B4%E8%AF%B4/</url>
-    <content><![CDATA[<p>上周考完计算机二级。</p>
-<p>感觉难度尚可,算不上是什么难事。</p>
-<p>不过确实有一些担心我的考试不过。</p>
-<p>这两天都在忙活一件小事，那就是用STM32的hal库来搞一个数码管显示数字。</p>
-<p>但是前天实现了段选，但是位选却一直没有搞定。</p>
-<p>说到底，就是对于hal库不太了解，而原本学习的标准库有段时间没看，也差不多快要忘了。</p>
-<p>这两天花了不少时间在各个平台和网站上找资料，很让人沮丧的是，基本上找不到什么有用的资源，说起来搞笑的是，今天晚上在知乎搜索hal库 位选，结果找出来了一个人对大部分hal库文件的注释的汉化的文章。</p>
-<p>这样的文章没有用吗？很难讲，我觉得是十分有用的，对于初学者来讲，中文可以显著降低他们对hal库以及官方文档的恐惧感。</p>
-<p>可是这样的文章却只有十几个观看。</p>
-<p>而更多的搜索出现的几千乃至几万个观看的文章呢？却顾左右而言它，基本上没有什么软用。</p>
-<p>今天晚上，索取无路，于是决定摆烂，很干脆地问了文心一言如何使用GPIO 的 PB引脚，很快，文心一言给出了答案。</p>
-<p>HAL_GPIO_WritePin(GPIOB,GPIO_PIN_0,GPIO_PIN_SET)</p>
-<p>我可以这么说：一语惊醒梦中人。</p>
-<p>我忽然意识到前面的GPIOB、GPIOA到底是什么意思了，而我之前在百度和知乎上搜索却告诉我说是区分什么虚拟、物理串口用的。好吧，也不能说完全没有，只能说对于我一个寻求资料的人来讲没有什么软用。</p>
-<p>于是，终于，我实现了段选与位选。</p>
-<figure class="highlight c"><table><tr><td class="code"><pre><span class="line">HAL_GPIO_WritePin(GPIOA,num_code[<span class="number">3</span>],GPIO_PIN_SET);</span><br><span class="line">		HAL_GPIO_WritePin(GPIOB,GPIO_PIN_5,GPIO_PIN_SET);</span><br><span class="line">		HAL_GPIO_WritePin(GPIOB,GPIO_PIN_4,GPIO_PIN_RESET);</span><br><span class="line">		HAL_GPIO_WritePin(GPIOB,GPIO_PIN_3,GPIO_PIN_RESET);</span><br><span class="line">		HAL_Delay(<span class="number">500</span>);</span><br><span class="line">		HAL_GPIO_WritePin(GPIOA,num_code[<span class="number">3</span>],GPIO_PIN_RESET);</span><br><span class="line">		HAL_Delay(<span class="number">500</span>);</span><br></pre></td></tr></table></figure>
-]]></content>
-      <tags>
-        <tag>碎碎念</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>静态工作点</title>
-    <url>/2024/03/17/%E9%9D%99%E6%80%81%E5%B7%A5%E4%BD%9C%E7%82%B9/</url>
-    <content><![CDATA[<h1 id="什么是静态工作点"><a class="markdownIt-Anchor" href="#什么是静态工作点"></a> 什么是静态工作点？</h1>
-<p>三极管有静态工作与动态工作两种状态。</p>
-<p>静态工作点就是将交流电源输出信号为零的时候放大电路的工作状态，比如IB的大小此时就是IBQ。</p>
-<p>所以在求静态工作点的时候要先把交流电路变成直流电路。</p>
-<h2 id="未完待续"><a class="markdownIt-Anchor" href="#未完待续"></a> 未完待续</h2>
-]]></content>
-      <categories>
-        <category>电路</category>
-        <category>模电</category>
-      </categories>
-  </entry>
-  <entry>
     <title>PCB</title>
     <url>/2024/03/17/PCB/</url>
     <content><![CDATA[<h1 id="为什么学pcb板子"><a class="markdownIt-Anchor" href="#为什么学pcb板子"></a> 为什么学PCB板子？</h1>
@@ -741,55 +668,53 @@ pcb<br />
       </categories>
   </entry>
   <entry>
-    <title>leetcode_3070——前缀和</title>
-    <url>/2024/03/19/leetcode-3070/</url>
-    <content><![CDATA[<p><strong>元素和小于等于 k 的子矩阵的数目</strong></p>
-<h1 id="前缀和"><a class="markdownIt-Anchor" href="#前缀和"></a> 前缀和</h1>
-<p>为什么要使用前缀和的方式来写代码？</p>
-<p>首先，当然，你可以暴力遍历，由于要求矩阵的元素和的数目，你可以依次先遍历横行，然后再遍历竖行，两个for循环应该就可以搞定。</p>
-<p>但是请注意，这样的做法可能无法通过leetcode等软件的测试，因为这样的计算要花费很长的时间。</p>
-<blockquote>
-<p>我向来不相信知乎上有的人说自己用python多快多快，但是用C<ins>来运行代码就十分慢。<br />
-不正是这么一回事么，自己没写好代码，python上许多的库的质量都非常好，所以python运行起来速度也不慢，但是C</ins>上你自己写的函数可不就是能用就行。</p>
-</blockquote>
-<p>所以我们应该如何优化我们的代码？</p>
-<p>我们可以注意到，当使用for循环计算的时候，出现了很多重复次数的计算，我们应该避免这些重复计算。</p>
-<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="keyword">class</span> <span class="title class_">Solution</span> &#123;</span><br><span class="line"><span class="keyword">public</span>:</span><br><span class="line">    <span class="function"><span class="type">int</span> <span class="title">countSubmatrices</span><span class="params">(vector&lt;vector&lt;<span class="type">int</span>&gt;&gt;&amp; grid, <span class="type">int</span> k)</span> </span>&#123;</span><br><span class="line">        <span class="type">int</span> ans = <span class="number">0</span>,m = grid.<span class="built_in">size</span>(),n = grid[<span class="number">0</span>].<span class="built_in">size</span>();</span><br><span class="line">        vector&lt;vector&lt;<span class="type">int</span>&gt;&gt; <span class="built_in">sum</span> (m+<span class="number">1</span>,<span class="built_in">vector</span>&lt;<span class="type">int</span>&gt;(n+<span class="number">1</span>));</span><br><span class="line">        <span class="keyword">for</span>(<span class="type">int</span> i = <span class="number">0</span>;i&lt;m;i++)&#123;</span><br><span class="line">            <span class="keyword">for</span>(<span class="type">int</span> j = <span class="number">0</span>;j&lt;n;j++)&#123;</span><br><span class="line">                sum[i+<span class="number">1</span>][j+<span class="number">1</span>] = sum[i+<span class="number">1</span>][j] + sum[i][j+<span class="number">1</span>] -sum[i][j] + grid[i][j];</span><br><span class="line">                ans += sum[i+<span class="number">1</span>][j+<span class="number">1</span>]&lt;=k;</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">return</span> ans;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure>
-<p><code>vector&lt;vector&lt;int&gt;&gt; sum (m+1,vector&lt;int&gt;(n+1));</code>先是生成一个答案容器，用来储存数据。</p>
-<p>这里需要注意要多申请一点空间，也就是<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>m</mi><mo>+</mo><mn>1</mn></mrow><annotation encoding="application/x-tex">m+1</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.66666em;vertical-align:-0.08333em;"></span><span class="mord mathnormal">m</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">1</span></span></span></span>与<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow><annotation encoding="application/x-tex">n+1</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.66666em;vertical-align:-0.08333em;"></span><span class="mord mathnormal">n</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">1</span></span></span></span>，方便用来数据初始化。</p>
-<p>然后进行计算。</p>
-<p><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo fence="true">[</mo><mtable rowspacing="0.15999999999999992em" columnspacing="1em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="false"><mn>1</mn></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="false"><mn>2</mn></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="false"><mn>2</mn></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="false"><mn>3</mn></mstyle></mtd></mtr></mtable><mo fence="true">]</mo></mrow><annotation encoding="application/x-tex">\begin{bmatrix} 
-1 &amp; 2 \\
-2 &amp; 3 \end{bmatrix}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:2.40003em;vertical-align:-0.95003em;"></span><span class="minner"><span class="mopen delimcenter" style="top:0em;"><span class="delimsizing size3">[</span></span><span class="mord"><span class="mtable"><span class="col-align-c"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.45em;"><span style="top:-3.61em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">1</span></span></span><span style="top:-2.4099999999999997em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">2</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.9500000000000004em;"><span></span></span></span></span></span><span class="arraycolsep" style="width:0.5em;"></span><span class="arraycolsep" style="width:0.5em;"></span><span class="col-align-c"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.45em;"><span style="top:-3.61em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">2</span></span></span><span style="top:-2.4099999999999997em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">3</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.9500000000000004em;"><span></span></span></span></span></span></span></span><span class="mclose delimcenter" style="top:0em;"><span class="delimsizing size3">]</span></span></span></span></span></span> 类似于这样的一个数组，我们怎么给他进行sum求和？</p>
-<p>凭借经验，我们很快可以得到这样的一个结果：</p>
-<p><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo fence="true">[</mo><mtable rowspacing="0.15999999999999992em" columnspacing="1em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="false"><mn>1</mn></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="false"><mn>3</mn></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="false"><mn>3</mn></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="false"><mn>8</mn></mstyle></mtd></mtr></mtable><mo fence="true">]</mo></mrow><annotation encoding="application/x-tex">\begin{bmatrix} 
-1 &amp; 3 \\
-3 &amp; 8 \end{bmatrix}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:2.40003em;vertical-align:-0.95003em;"></span><span class="minner"><span class="mopen delimcenter" style="top:0em;"><span class="delimsizing size3">[</span></span><span class="mord"><span class="mtable"><span class="col-align-c"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.45em;"><span style="top:-3.61em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">1</span></span></span><span style="top:-2.4099999999999997em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">3</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.9500000000000004em;"><span></span></span></span></span></span><span class="arraycolsep" style="width:0.5em;"></span><span class="arraycolsep" style="width:0.5em;"></span><span class="col-align-c"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.45em;"><span style="top:-3.61em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">3</span></span></span><span style="top:-2.4099999999999997em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">8</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.9500000000000004em;"><span></span></span></span></span></span></span></span><span class="mclose delimcenter" style="top:0em;"><span class="delimsizing size3">]</span></span></span></span></span></span> ，那我们是怎么样做的呢？最开始的1，我们不做任何处理，然后右上的2，我们给他加上左边的1，左下的2也是同理，对于右下的3，可以这样抽象，正如左下的2一样，可以给他加上右上的3，然后左边同理，再加上一个3.此时我们可以注意到，1重复了，那么我们就把1给减掉。</p>
-<p><code>sum[i+1][j+1] = sum[i+1][j] + sum[i][j+1] -sum[i][j] + grid[i][j];</code></p>
-<p>于是我们就得到了这样的式子。</p>
-<p>如果sum[i+1][j+1]符合&lt;=k的条件，那么就说明以grid左上元素到[i][j]这个矩阵的和符合条件。</p>
-<p>如此，通过前缀和，我们就实现了对于计算的简化。</p>
+    <title>静态工作点</title>
+    <url>/2024/03/17/%E9%9D%99%E6%80%81%E5%B7%A5%E4%BD%9C%E7%82%B9/</url>
+    <content><![CDATA[<h1 id="什么是静态工作点"><a class="markdownIt-Anchor" href="#什么是静态工作点"></a> 什么是静态工作点？</h1>
+<p>三极管有静态工作与动态工作两种状态。</p>
+<p>静态工作点就是将交流电源输出信号为零的时候放大电路的工作状态，比如IB的大小此时就是IBQ。</p>
+<p>所以在求静态工作点的时候要先把交流电路变成直流电路。</p>
+<h2 id="未完待续"><a class="markdownIt-Anchor" href="#未完待续"></a> 未完待续</h2>
 ]]></content>
       <categories>
-        <category>算法</category>
+        <category>电路</category>
+        <category>模电</category>
       </categories>
-      <tags>
-        <tag>算法</tag>
-      </tags>
   </entry>
   <entry>
-    <title>learn_F#</title>
-    <url>/2024/03/29/learn-F/</url>
-    <content><![CDATA[<h1 id="什么是f"><a class="markdownIt-Anchor" href="#什么是f"></a> 什么是F#？</h1>
-<p>F#是一门同样基于.net生态的语言，在某方面来讲，它与C#十分相似。</p>
-<p>它与C#最大的不同，就是F#具有浓重的函数式思想，而C#则更多面向对象。</p>
-<p>所有C#可以做的事情，F#都可以完成，区别只是要花费的精力有所不同。</p>
-<figure class="highlight f#"><table><tr><td class="code"><pre><span class="line"><span class="comment">// For more information see https://aka.ms/fsharp-console-apps</span></span><br><span class="line"><span class="built_in">printfn</span> <span class="string">&quot;Hello from F#&quot;</span></span><br><span class="line"><span class="keyword">open</span> System <span class="comment">// Gets access to functionality in System namespace.</span></span><br><span class="line"></span><br><span class="line"><span class="comment">// Defines a list of names</span></span><br><span class="line"><span class="keyword">let</span> names <span class="operator">=</span> [ <span class="string">&quot;Peter&quot;</span>; <span class="string">&quot;Julia&quot;</span>; <span class="string">&quot;Xi&quot;</span> ]</span><br><span class="line"></span><br><span class="line"><span class="comment">// Defines a function that takes a name and produces a greeting.</span></span><br><span class="line"><span class="keyword">let</span> getGreeting name <span class="operator">=</span> <span class="string">$&quot;Hello, <span class="subst">&#123;name&#125;</span>&quot;</span></span><br><span class="line"></span><br><span class="line"><span class="comment">// Prints a greeting for each name!</span></span><br><span class="line">names</span><br><span class="line"><span class="operator">|&gt;</span> List.map getGreeting</span><br><span class="line"><span class="operator">|&gt;</span> List.iter (<span class="keyword">fun</span> greeting <span class="operator">-&gt;</span> <span class="built_in">printfn</span> <span class="string">$&quot;<span class="subst">&#123;greeting&#125;</span>! Enjoy your F#&quot;</span>)</span><br><span class="line"></span><br><span class="line"><span class="keyword">for</span> cnt <span class="operator">=</span> <span class="number">1</span> <span class="keyword">to</span> <span class="number">12</span> <span class="keyword">do</span> </span><br><span class="line">    <span class="built_in">printf</span> <span class="string">$&quot;nice to see you ,<span class="subst">&#123;cnt&#125;</span> \n&quot;</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">let</span> <span class="keyword">mutable</span> cnt <span class="operator">=</span> <span class="number">0</span>;<span class="comment">//F#中let默认生成的值是自动绑定的，也就是不可变值，假如想要让let的值可变，那么就用mutable属性来修饰。</span></span><br><span class="line"><span class="keyword">for</span> name <span class="keyword">in</span> names <span class="keyword">do</span> </span><br><span class="line">    cnt <span class="operator">&lt;-</span> cnt <span class="operator">+</span> <span class="number">1</span> </span><br><span class="line">    <span class="built_in">printfn</span> <span class="string">$&quot;hello ,No.<span class="subst">&#123;cnt&#125;</span> Are you <span class="subst">&#123;name&#125;</span>?&quot;</span></span><br></pre></td></tr></table></figure>
+    <title>SVM向量机初入门</title>
+    <url>/2024/03/15/SVM%E5%90%91%E9%87%8F%E6%9C%BA%E5%88%9D%E5%85%A5%E9%97%A8/</url>
+    <content><![CDATA[<h1 id="svm向量机"><a class="markdownIt-Anchor" href="#svm向量机"></a> SVM向量机</h1>
+<p>使用SVM向量机将数据进行区分。</p>
+<p>由于markdown中不方便插入图片，所以就略去不谈，示意的图片可以在网上找到很多。</p>
+<p>总的来讲，通过SVM向量机对数据进行处理，训练模型，然后通过模型去推测更多的数据。</p>
+<blockquote>
+<p>也就是我下面所说的那个<em>分类与预测</em>；</p>
+</blockquote>
+<p>最直接的做法就是：<strong>最接近的两个元素之间的距离，不同的两个元素之中会有不同的距离，找出最大的那一个距离，使得你的区分线鲁棒性最强。</strong></p>
+<p>由于我们整个SVM向量机都是一个预测的使用目的，你的区分模型鲁棒性越强，那么后续的预测就会更加准确。</p>
+<p>与此同时，还需要注意一个过拟合的问题：</p>
+<ul>
+<li>
+<p>这个可以用线性回归模型来进行演示，在平面上的那么多个点，划出一条直线，那么这一条直线是不可能都刚好通过所有的点的，假如说真的有那么一条直线通过所有的点，那么说明问题大了，为了通过所有的点，往往就付出了准确性下降，无法正确预测后面的点的代价，这个就是过拟合。</p>
+</li>
+<li>
+<p>一般情况下，预测的正确性能够有80%-90%就挺不错的了，太高就会发生过拟合问题，太低那就是预测不准。</p>
+</li>
+</ul>
+<blockquote>
+<p>现在研究完了SVM向量机，那么它是如何快速处理那么多的数据的呢？</p>
+</blockquote>
+<p>这必须要用到加速处理。</p>
+<h1 id="将低维非线性升为高维线性函数"><a class="markdownIt-Anchor" href="#将低维非线性升为高维线性函数"></a> 将低维非线性升为高维线性函数</h1>
+<p>高维线性函数可以使用线性回归方程求解，进而优化计算速度。</p>
 ]]></content>
       <categories>
-        <category>wiki</category>
-        <category>F#</category>
+        <category>math</category>
       </categories>
+      <tags>
+        <tag>math</tag>
+      </tags>
   </entry>
   <entry>
     <title>大一下学期第三周</title>
@@ -845,6 +770,67 @@ pcb<br />
       </categories>
   </entry>
   <entry>
+    <title>随便说说</title>
+    <url>/2024/03/26/%E9%9A%8F%E4%BE%BF%E8%AF%B4%E8%AF%B4/</url>
+    <content><![CDATA[<p>上周考完计算机二级。</p>
+<p>感觉难度尚可,算不上是什么难事。</p>
+<p>不过确实有一些担心我的考试不过。</p>
+<p>这两天都在忙活一件小事，那就是用STM32的hal库来搞一个数码管显示数字。</p>
+<p>但是前天实现了段选，但是位选却一直没有搞定。</p>
+<p>说到底，就是对于hal库不太了解，而原本学习的标准库有段时间没看，也差不多快要忘了。</p>
+<p>这两天花了不少时间在各个平台和网站上找资料，很让人沮丧的是，基本上找不到什么有用的资源，说起来搞笑的是，今天晚上在知乎搜索hal库 位选，结果找出来了一个人对大部分hal库文件的注释的汉化的文章。</p>
+<p>这样的文章没有用吗？很难讲，我觉得是十分有用的，对于初学者来讲，中文可以显著降低他们对hal库以及官方文档的恐惧感。</p>
+<p>可是这样的文章却只有十几个观看。</p>
+<p>而更多的搜索出现的几千乃至几万个观看的文章呢？却顾左右而言它，基本上没有什么软用。</p>
+<p>今天晚上，索取无路，于是决定摆烂，很干脆地问了文心一言如何使用GPIO 的 PB引脚，很快，文心一言给出了答案。</p>
+<p>HAL_GPIO_WritePin(GPIOB,GPIO_PIN_0,GPIO_PIN_SET)</p>
+<p>我可以这么说：一语惊醒梦中人。</p>
+<p>我忽然意识到前面的GPIOB、GPIOA到底是什么意思了，而我之前在百度和知乎上搜索却告诉我说是区分什么虚拟、物理串口用的。好吧，也不能说完全没有，只能说对于我一个寻求资料的人来讲没有什么软用。</p>
+<p>于是，终于，我实现了段选与位选。</p>
+<figure class="highlight c"><table><tr><td class="code"><pre><span class="line">HAL_GPIO_WritePin(GPIOA,num_code[<span class="number">3</span>],GPIO_PIN_SET);</span><br><span class="line">		HAL_GPIO_WritePin(GPIOB,GPIO_PIN_5,GPIO_PIN_SET);</span><br><span class="line">		HAL_GPIO_WritePin(GPIOB,GPIO_PIN_4,GPIO_PIN_RESET);</span><br><span class="line">		HAL_GPIO_WritePin(GPIOB,GPIO_PIN_3,GPIO_PIN_RESET);</span><br><span class="line">		HAL_Delay(<span class="number">500</span>);</span><br><span class="line">		HAL_GPIO_WritePin(GPIOA,num_code[<span class="number">3</span>],GPIO_PIN_RESET);</span><br><span class="line">		HAL_Delay(<span class="number">500</span>);</span><br></pre></td></tr></table></figure>
+]]></content>
+      <tags>
+        <tag>碎碎念</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>leetcode_3070——前缀和</title>
+    <url>/2024/03/19/leetcode-3070/</url>
+    <content><![CDATA[<p><strong>元素和小于等于 k 的子矩阵的数目</strong></p>
+<h1 id="前缀和"><a class="markdownIt-Anchor" href="#前缀和"></a> 前缀和</h1>
+<p>为什么要使用前缀和的方式来写代码？</p>
+<p>首先，当然，你可以暴力遍历，由于要求矩阵的元素和的数目，你可以依次先遍历横行，然后再遍历竖行，两个for循环应该就可以搞定。</p>
+<p>但是请注意，这样的做法可能无法通过leetcode等软件的测试，因为这样的计算要花费很长的时间。</p>
+<blockquote>
+<p>我向来不相信知乎上有的人说自己用python多快多快，但是用C<ins>来运行代码就十分慢。<br />
+不正是这么一回事么，自己没写好代码，python上许多的库的质量都非常好，所以python运行起来速度也不慢，但是C</ins>上你自己写的函数可不就是能用就行。</p>
+</blockquote>
+<p>所以我们应该如何优化我们的代码？</p>
+<p>我们可以注意到，当使用for循环计算的时候，出现了很多重复次数的计算，我们应该避免这些重复计算。</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="keyword">class</span> <span class="title class_">Solution</span> &#123;</span><br><span class="line"><span class="keyword">public</span>:</span><br><span class="line">    <span class="function"><span class="type">int</span> <span class="title">countSubmatrices</span><span class="params">(vector&lt;vector&lt;<span class="type">int</span>&gt;&gt;&amp; grid, <span class="type">int</span> k)</span> </span>&#123;</span><br><span class="line">        <span class="type">int</span> ans = <span class="number">0</span>,m = grid.<span class="built_in">size</span>(),n = grid[<span class="number">0</span>].<span class="built_in">size</span>();</span><br><span class="line">        vector&lt;vector&lt;<span class="type">int</span>&gt;&gt; <span class="built_in">sum</span> (m+<span class="number">1</span>,<span class="built_in">vector</span>&lt;<span class="type">int</span>&gt;(n+<span class="number">1</span>));</span><br><span class="line">        <span class="keyword">for</span>(<span class="type">int</span> i = <span class="number">0</span>;i&lt;m;i++)&#123;</span><br><span class="line">            <span class="keyword">for</span>(<span class="type">int</span> j = <span class="number">0</span>;j&lt;n;j++)&#123;</span><br><span class="line">                sum[i+<span class="number">1</span>][j+<span class="number">1</span>] = sum[i+<span class="number">1</span>][j] + sum[i][j+<span class="number">1</span>] -sum[i][j] + grid[i][j];</span><br><span class="line">                ans += sum[i+<span class="number">1</span>][j+<span class="number">1</span>]&lt;=k;</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">return</span> ans;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure>
+<p><code>vector&lt;vector&lt;int&gt;&gt; sum (m+1,vector&lt;int&gt;(n+1));</code>先是生成一个答案容器，用来储存数据。</p>
+<p>这里需要注意要多申请一点空间，也就是<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>m</mi><mo>+</mo><mn>1</mn></mrow><annotation encoding="application/x-tex">m+1</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.66666em;vertical-align:-0.08333em;"></span><span class="mord mathnormal">m</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">1</span></span></span></span>与<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow><annotation encoding="application/x-tex">n+1</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.66666em;vertical-align:-0.08333em;"></span><span class="mord mathnormal">n</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">1</span></span></span></span>，方便用来数据初始化。</p>
+<p>然后进行计算。</p>
+<p><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo fence="true">[</mo><mtable rowspacing="0.15999999999999992em" columnspacing="1em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="false"><mn>1</mn></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="false"><mn>2</mn></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="false"><mn>2</mn></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="false"><mn>3</mn></mstyle></mtd></mtr></mtable><mo fence="true">]</mo></mrow><annotation encoding="application/x-tex">\begin{bmatrix} 
+1 &amp; 2 \\
+2 &amp; 3 \end{bmatrix}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:2.40003em;vertical-align:-0.95003em;"></span><span class="minner"><span class="mopen delimcenter" style="top:0em;"><span class="delimsizing size3">[</span></span><span class="mord"><span class="mtable"><span class="col-align-c"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.45em;"><span style="top:-3.61em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">1</span></span></span><span style="top:-2.4099999999999997em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">2</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.9500000000000004em;"><span></span></span></span></span></span><span class="arraycolsep" style="width:0.5em;"></span><span class="arraycolsep" style="width:0.5em;"></span><span class="col-align-c"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.45em;"><span style="top:-3.61em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">2</span></span></span><span style="top:-2.4099999999999997em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">3</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.9500000000000004em;"><span></span></span></span></span></span></span></span><span class="mclose delimcenter" style="top:0em;"><span class="delimsizing size3">]</span></span></span></span></span></span> 类似于这样的一个数组，我们怎么给他进行sum求和？</p>
+<p>凭借经验，我们很快可以得到这样的一个结果：</p>
+<p><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo fence="true">[</mo><mtable rowspacing="0.15999999999999992em" columnspacing="1em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="false"><mn>1</mn></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="false"><mn>3</mn></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="false"><mn>3</mn></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="false"><mn>8</mn></mstyle></mtd></mtr></mtable><mo fence="true">]</mo></mrow><annotation encoding="application/x-tex">\begin{bmatrix} 
+1 &amp; 3 \\
+3 &amp; 8 \end{bmatrix}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:2.40003em;vertical-align:-0.95003em;"></span><span class="minner"><span class="mopen delimcenter" style="top:0em;"><span class="delimsizing size3">[</span></span><span class="mord"><span class="mtable"><span class="col-align-c"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.45em;"><span style="top:-3.61em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">1</span></span></span><span style="top:-2.4099999999999997em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">3</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.9500000000000004em;"><span></span></span></span></span></span><span class="arraycolsep" style="width:0.5em;"></span><span class="arraycolsep" style="width:0.5em;"></span><span class="col-align-c"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.45em;"><span style="top:-3.61em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">3</span></span></span><span style="top:-2.4099999999999997em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">8</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.9500000000000004em;"><span></span></span></span></span></span></span></span><span class="mclose delimcenter" style="top:0em;"><span class="delimsizing size3">]</span></span></span></span></span></span> ，那我们是怎么样做的呢？最开始的1，我们不做任何处理，然后右上的2，我们给他加上左边的1，左下的2也是同理，对于右下的3，可以这样抽象，正如左下的2一样，可以给他加上右上的3，然后左边同理，再加上一个3.此时我们可以注意到，1重复了，那么我们就把1给减掉。</p>
+<p><code>sum[i+1][j+1] = sum[i+1][j] + sum[i][j+1] -sum[i][j] + grid[i][j];</code></p>
+<p>于是我们就得到了这样的式子。</p>
+<p>如果sum[i+1][j+1]符合&lt;=k的条件，那么就说明以grid左上元素到[i][j]这个矩阵的和符合条件。</p>
+<p>如此，通过前缀和，我们就实现了对于计算的简化。</p>
+]]></content>
+      <categories>
+        <category>算法</category>
+      </categories>
+      <tags>
+        <tag>算法</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>第四周</title>
     <url>/2024/04/03/%E7%AC%AC%E5%9B%9B%E5%91%A8/</url>
     <content><![CDATA[<p>现在已经是到了第五周的一半了。上一周没有写周记，这一周补上。</p>
@@ -861,25 +847,9 @@ pcb<br />
       </categories>
   </entry>
   <entry>
-    <title>曼哈顿与切比雪夫</title>
-    <url>/2024/04/05/%E6%9B%BC%E5%93%88%E9%A1%BF%E4%B8%8E%E5%88%87%E6%AF%94%E9%9B%AA%E5%A4%AB/</url>
-    <content><![CDATA[<h1 id="曼哈顿坐标系与切比雪夫坐标系的适用范围"><a class="markdownIt-Anchor" href="#曼哈顿坐标系与切比雪夫坐标系的适用范围"></a> 曼哈顿坐标系与切比雪夫坐标系的适用范围</h1>
-<p><strong>曼哈顿坐标系通常适用于计算两点在标准坐标系中的绝对距离</strong>，特别是在涉及网格或像素的场景中。由于曼哈顿距离考虑的是各个维度上的差值之和，它非常适合描述在像素或网格构成的空间中从一个点到另一个点的移动路径。例如，在计算机图形学中，屏幕是由像素构成的，而点的坐标也通常是整数，这使得曼哈顿距离成为一种非常自然的距离度量方式。此外，曼哈顿距离在仓库物流等领域也有应用，因为它可以用来表示在网格状布局中从一个位置到另一个位置的实际移动距离。</p>
-<p>而<strong>切比雪夫坐标系则通常用于衡量两个向量在各个维度上的最大差值</strong>，或者可以理解为沿着一个坐标轴的最大距离。由于其本质，切比雪夫距离通常被称为棋盘距离，因为国王从一个方格到另一个方格的最小步数等于切比雪夫距离。切比雪夫距离在特定情况下非常有用，例如在游戏中提取从一个方块到另一个方块所需的最小步数，或者在允许无限制的8向移动的游戏中作为衡量移动距离的指标。此外，切比雪夫距离在仓库物流中也有应用，因为它可以很好地模拟起重机在移动物体时的路径。</p>
-<p>如何将曼哈顿坐标系转化为切比雪夫坐标系？</p>
-<p>对于一个在标准坐标系的点<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo stretchy="false">(</mo><mi>x</mi><mo separator="true">,</mo><mi>y</mi><mo stretchy="false">)</mo></mrow><annotation encoding="application/x-tex">(x,y)</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mopen">(</span><span class="mord mathnormal">x</span><span class="mpunct">,</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">y</span><span class="mclose">)</span></span></span></span>，其对应的切比雪夫坐标系的值为<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo stretchy="false">(</mo><mfrac><mrow><mi>x</mi><mo>+</mo><mi>y</mi></mrow><mn>2</mn></mfrac><mo separator="true">,</mo><mfrac><mrow><mi>x</mi><mo>−</mo><mi>y</mi></mrow><mn>2</mn></mfrac><mo stretchy="false">)</mo></mrow><annotation encoding="application/x-tex">(\frac{x+y}{2},\frac{x-y}{2})</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.199439em;vertical-align:-0.345em;"></span><span class="mopen">(</span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.854439em;"><span style="top:-2.6550000000000002em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">2</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.446108em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight">x</span><span class="mbin mtight">+</span><span class="mord mathnormal mtight" style="margin-right:0.03588em;">y</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.345em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mpunct">,</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.854439em;"><span style="top:-2.6550000000000002em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">2</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.446108em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight">x</span><span class="mbin mtight">−</span><span class="mord mathnormal mtight" style="margin-right:0.03588em;">y</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.345em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mclose">)</span></span></span></span></p>
-]]></content>
-      <categories>
-        <category>算法</category>
-      </categories>
-      <tags>
-        <tag>算法</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>第五周</title>
     <url>/2024/04/07/%E7%AC%AC%E4%BA%94%E5%91%A8/</url>
-    <content><![CDATA[<h1>这周没什么可说的</h1>
+    <content><![CDATA[<h1 id="这周没什么可说的"><a class="markdownIt-Anchor" href="#这周没什么可说的"></a> 这周没什么可说的</h1>
 <p>今天是星期日的晚上，明天就是第六周了。</p>
 <p>当我写第四周的周记的时候，其实已经到了第四周的周三，这一周是清明小长假，这周，我花了一点时间去看数学建模，看了一点算法。</p>
 <p>下周周六早上九点就要考蓝桥杯了，我其实还什么都不懂。</p>
@@ -904,9 +874,23 @@ pcb<br />
       </tags>
   </entry>
   <entry>
+    <title>learn_F#</title>
+    <url>/2024/03/29/learn-F/</url>
+    <content><![CDATA[<h1 id="什么是f"><a class="markdownIt-Anchor" href="#什么是f"></a> 什么是F#？</h1>
+<p>F#是一门同样基于.net生态的语言，在某方面来讲，它与C#十分相似。</p>
+<p>它与C#最大的不同，就是F#具有浓重的函数式思想，而C#则更多面向对象。</p>
+<p>所有C#可以做的事情，F#都可以完成，区别只是要花费的精力有所不同。</p>
+<figure class="highlight f#"><table><tr><td class="code"><pre><span class="line"><span class="comment">// For more information see https://aka.ms/fsharp-console-apps</span></span><br><span class="line"><span class="built_in">printfn</span> <span class="string">&quot;Hello from F#&quot;</span></span><br><span class="line"><span class="keyword">open</span> System <span class="comment">// Gets access to functionality in System namespace.</span></span><br><span class="line"></span><br><span class="line"><span class="comment">// Defines a list of names</span></span><br><span class="line"><span class="keyword">let</span> names <span class="operator">=</span> [ <span class="string">&quot;Peter&quot;</span>; <span class="string">&quot;Julia&quot;</span>; <span class="string">&quot;Xi&quot;</span> ]</span><br><span class="line"></span><br><span class="line"><span class="comment">// Defines a function that takes a name and produces a greeting.</span></span><br><span class="line"><span class="keyword">let</span> getGreeting name <span class="operator">=</span> <span class="string">$&quot;Hello, <span class="subst">&#123;name&#125;</span>&quot;</span></span><br><span class="line"></span><br><span class="line"><span class="comment">// Prints a greeting for each name!</span></span><br><span class="line">names</span><br><span class="line"><span class="operator">|&gt;</span> List.map getGreeting</span><br><span class="line"><span class="operator">|&gt;</span> List.iter (<span class="keyword">fun</span> greeting <span class="operator">-&gt;</span> <span class="built_in">printfn</span> <span class="string">$&quot;<span class="subst">&#123;greeting&#125;</span>! Enjoy your F#&quot;</span>)</span><br><span class="line"></span><br><span class="line"><span class="keyword">for</span> cnt <span class="operator">=</span> <span class="number">1</span> <span class="keyword">to</span> <span class="number">12</span> <span class="keyword">do</span> </span><br><span class="line">    <span class="built_in">printf</span> <span class="string">$&quot;nice to see you ,<span class="subst">&#123;cnt&#125;</span> \n&quot;</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">let</span> <span class="keyword">mutable</span> cnt <span class="operator">=</span> <span class="number">0</span>;<span class="comment">//F#中let默认生成的值是自动绑定的，也就是不可变值，假如想要让let的值可变，那么就用mutable属性来修饰。</span></span><br><span class="line"><span class="keyword">for</span> name <span class="keyword">in</span> names <span class="keyword">do</span> </span><br><span class="line">    cnt <span class="operator">&lt;-</span> cnt <span class="operator">+</span> <span class="number">1</span> </span><br><span class="line">    <span class="built_in">printfn</span> <span class="string">$&quot;hello ,No.<span class="subst">&#123;cnt&#125;</span> Are you <span class="subst">&#123;name&#125;</span>?&quot;</span></span><br></pre></td></tr></table></figure>
+]]></content>
+      <categories>
+        <category>wiki</category>
+        <category>F#</category>
+      </categories>
+  </entry>
+  <entry>
     <title>第六周</title>
     <url>/2024/04/11/%E7%AC%AC%E5%85%AD%E5%91%A8/</url>
-    <content><![CDATA[<h1>First</h1>
+    <content><![CDATA[<h1 id="first"><a class="markdownIt-Anchor" href="#first"></a> First</h1>
 <p>说起来愧疚，今天上学期的C语言老师认出我来了，并且问我蓝桥杯备战怎么样。</p>
 <p>我该怎么说呢……虽然已经是见识了不少题，做了不少笔记，类似于什么vector,unordered_map,unordered_set都能用一用，但是其实水平还是很低。</p>
 <p>回望我的过去的日子。</p>
@@ -916,13 +900,13 @@ pcb<br />
 </blockquote>
 <p>这毫无疑问是一种打击。</p>
 <p>现如今，我对于蓝桥杯，实在是心里没底，我还能做什么呢？我也不知道。</p>
-<h1>Second</h1>
+<h1 id="second"><a class="markdownIt-Anchor" href="#second"></a> Second</h1>
 <p>这一周是确确实实比起上一周使用手机少了。</p>
 <p>上课也更加认真了。</p>
 <p>但是我终究是浪费了时间，而且最大的问题在于，手机对于一个人的学习习惯的伤害是很大的。</p>
 <p>这是一种手机所带来的害处。</p>
 <p>所以我很早就认为，假如小时候没有正确学会如何对待手机，等到长大了也不会知道应该如何对待手机。</p>
-<h1>3</h1>
+<h1 id="3"><a class="markdownIt-Anchor" href="#3"></a> 3</h1>
 <p>我很喜欢使用火狐，但是不代表火狐的使用体验好。</p>
 <p>火狐其实质上和edge、谷歌比起来已经落伍了。</p>
 <p>但是火狐标志着自由与造反，所以我才喜欢使用火狐而已。</p>
@@ -935,15 +919,20 @@ pcb<br />
       </tags>
   </entry>
   <entry>
-    <title>第七周</title>
-    <url>/2024/04/15/%E7%AC%AC%E4%B8%83%E5%91%A8/</url>
-    <content><![CDATA[<h1>上周</h1>
-<p>上一周考完了蓝桥杯，感觉其实难度尚可。只不过有的题目确实是经验不足。</p>
-<p>这一周我打算开始努力学习模电，然后为那几个比赛做一些准备。</p>
+    <title>曼哈顿与切比雪夫</title>
+    <url>/2024/04/05/%E6%9B%BC%E5%93%88%E9%A1%BF%E4%B8%8E%E5%88%87%E6%AF%94%E9%9B%AA%E5%A4%AB/</url>
+    <content><![CDATA[<h1 id="曼哈顿坐标系与切比雪夫坐标系的适用范围"><a class="markdownIt-Anchor" href="#曼哈顿坐标系与切比雪夫坐标系的适用范围"></a> 曼哈顿坐标系与切比雪夫坐标系的适用范围</h1>
+<p><strong>曼哈顿坐标系通常适用于计算两点在标准坐标系中的绝对距离</strong>，特别是在涉及网格或像素的场景中。由于曼哈顿距离考虑的是各个维度上的差值之和，它非常适合描述在像素或网格构成的空间中从一个点到另一个点的移动路径。例如，在计算机图形学中，屏幕是由像素构成的，而点的坐标也通常是整数，这使得曼哈顿距离成为一种非常自然的距离度量方式。此外，曼哈顿距离在仓库物流等领域也有应用，因为它可以用来表示在网格状布局中从一个位置到另一个位置的实际移动距离。</p>
+<p>而<strong>切比雪夫坐标系则通常用于衡量两个向量在各个维度上的最大差值</strong>，或者可以理解为沿着一个坐标轴的最大距离。由于其本质，切比雪夫距离通常被称为棋盘距离，因为国王从一个方格到另一个方格的最小步数等于切比雪夫距离。切比雪夫距离在特定情况下非常有用，例如在游戏中提取从一个方块到另一个方块所需的最小步数，或者在允许无限制的8向移动的游戏中作为衡量移动距离的指标。此外，切比雪夫距离在仓库物流中也有应用，因为它可以很好地模拟起重机在移动物体时的路径。</p>
+<p>如何将曼哈顿坐标系转化为切比雪夫坐标系？</p>
+<p>对于一个在标准坐标系的点<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo stretchy="false">(</mo><mi>x</mi><mo separator="true">,</mo><mi>y</mi><mo stretchy="false">)</mo></mrow><annotation encoding="application/x-tex">(x,y)</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mopen">(</span><span class="mord mathnormal">x</span><span class="mpunct">,</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">y</span><span class="mclose">)</span></span></span></span>，其对应的切比雪夫坐标系的值为<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo stretchy="false">(</mo><mfrac><mrow><mi>x</mi><mo>+</mo><mi>y</mi></mrow><mn>2</mn></mfrac><mo separator="true">,</mo><mfrac><mrow><mi>x</mi><mo>−</mo><mi>y</mi></mrow><mn>2</mn></mfrac><mo stretchy="false">)</mo></mrow><annotation encoding="application/x-tex">(\frac{x+y}{2},\frac{x-y}{2})</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.199439em;vertical-align:-0.345em;"></span><span class="mopen">(</span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.854439em;"><span style="top:-2.6550000000000002em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">2</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.446108em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight">x</span><span class="mbin mtight">+</span><span class="mord mathnormal mtight" style="margin-right:0.03588em;">y</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.345em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mpunct">,</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.854439em;"><span style="top:-2.6550000000000002em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">2</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.446108em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight">x</span><span class="mbin mtight">−</span><span class="mord mathnormal mtight" style="margin-right:0.03588em;">y</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.345em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mclose">)</span></span></span></span></p>
 ]]></content>
       <categories>
-        <category>周记</category>
+        <category>算法</category>
       </categories>
+      <tags>
+        <tag>算法</tag>
+      </tags>
   </entry>
   <entry>
     <title>元件</title>
@@ -970,6 +959,17 @@ pcb<br />
       </tags>
   </entry>
   <entry>
+    <title>第七周</title>
+    <url>/2024/04/15/%E7%AC%AC%E4%B8%83%E5%91%A8/</url>
+    <content><![CDATA[<h1 id="上周"><a class="markdownIt-Anchor" href="#上周"></a> 上周</h1>
+<p>上一周考完了蓝桥杯，感觉其实难度尚可。只不过有的题目确实是经验不足。</p>
+<p>这一周我打算开始努力学习模电，然后为那几个比赛做一些准备。</p>
+]]></content>
+      <categories>
+        <category>周记</category>
+      </categories>
+  </entry>
+  <entry>
     <title>第十一周</title>
     <url>/2024/05/18/%E7%AC%AC%E5%8D%81%E4%B8%80%E5%91%A8/</url>
     <content><![CDATA[<h2 id="fist"><a class="markdownIt-Anchor" href="#fist"></a> Fist</h2>
@@ -980,6 +980,78 @@ pcb<br />
 <p>个人博客最大的问题就是没有人看。</p>
 <p>这个就是最大的问题。</p>
 <p>我在努力让我的博客有价值。</p>
+]]></content>
+      <categories>
+        <category>周记</category>
+      </categories>
+      <tags>
+        <tag>周记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>近代史提纲</title>
+    <url>/2024/05/30/%E8%BF%91%E4%BB%A3%E5%8F%B2%E6%8F%90%E7%BA%B2/</url>
+    <content><![CDATA[<p>1.鸦片战争是中国近代史的起点</p>
+<p>2.鸦片战争以后，独立的中国逐步变成半殖民地的中国，封建的中国逐步变成半封建的中国，原因外国资本主义帝国主义列强，用武力打开中国的门户，把中国卷入世界资本主义经济体系和市场之中</p>
+<p>3.西方列强对中国的侵略，包括军事侵略，政治控制，经济掠夺，文化渗透<br />
+4.太平天国定都天津颁布天朝田亩制度，建立有“有田同耕，有饭同食，有衣同穿，有钱同使，无处不均匀，无人不保暖”的理想社会。</p>
+<p>5.洋务运动的代表人物。奕䜣，曾国藩，李鸿章，左宗棠，张之洞</p>
+<p>6.维新派与守旧派的论战包括三个方面：第一，要不要变法，第二，要不要新民权设议院实行君主立宪，要不要废八股改科举和兴西学。</p>
+<p>7.陈天华写了《警世钟》和《猛回头》，两本小册子</p>
+<p>8.孙中山将同盟会的纲领概括为三大主义，民族主义，民权主义，民生主义，称为三民主义。</p>
+<p>9.自己总结新文化运动的兴起和意义（91-93）页。</p>
+<p>10.辛亥革命的历史意义：第一，辛亥革命推翻了封建势力的政治代表，帝国主义在中国的代理人清王朝的统治，沉重打击了中外反动势力，使中国反动统治者在政治上乱了阵脚。第二，辛亥革命结束了中国延续2000多年的君主专制制度，建立了中国历史上第一个资产阶级共和政府，使民主共和的观念开始深入人心，并在中国形成了“敢有帝制自为者，天下共击之”的民主主义观念。第三，辛亥革命，推动了中国人民的思想解放。第四，辛亥革命推动了中国的社会变革，促使中国的社会经济思想习惯和社会风俗等方面发生了积极的变化，第五，辛亥革命不仅在一定程度上打击了帝国主义的侵略势力，而且推动了亚洲各国民族解放运动的高潮</p>
+<p>11.新文化运动提倡民主和科学，民主即是资本主义民主、科学指广义上的社会科学。</p>
+<p>12.中国共产党成立的历史意义：深刻改变了近代以后中华民族发展的方向和进程、深刻改变了中国人民和中华民族的前途和命运、深刻改变了世界发展的趋势与格局。</p>
+<p>13.国民党一大事实上确认了联俄联共扶助农工的三大革命政策，标志着第一次国共合作正式形成。</p>
+<p>14.1924年至1927年，中国反帝反封建革命比以往任何一次革命，包括辛亥革命和五四运动，一、群众的动员程度更加广泛。二、斗争的规模更加宏伟。三、革命的社会内涵更为深刻，因此被称作大革命</p>
+<p>15.一、大革命是在反对帝国主义，反对军军阀的政治口号下进行的，而提出这一口号的正是中国共产党。二、大革命是在以国共合作为基础的统一战线的组织形式下进行的，而中国共产党正是国共合作的倡导者和统一战线的组织者。三、大革命是近代中国历史上空前广泛而深刻的群众运动，而中国共产党正是人民群众的主要发动者和组织者，是大革命的主要行斗争形式，是革命战争由中国共产党直接领导的第四军独立团，是一个突出的例证。</p>
+<p>16.“八七会议”确立了土地革命和武装起义的方针。</p>
+<p>17.“三湾改编”是建设无产阶级领导的新型人民军队的重要开端。</p>
+<p>18.“古田会议”的主要内容：一、确立了思想建党，政治建军的原则。二、阐述了加强党的思想建设的极端重要性，指明党内各种非无产阶级思想的表现来源及纠正办法。三、规定红军是一个执行革命的政治任务的武装集团，必须绝对服从共产党的领导，必须全心全意为党的纲领，路线和政策而奋斗。四、提出红军必须担负打仗筹款和做群众工作任务的任务，必须加强政治工作。</p>
+<p>19.“遵义会议”。事实上，确立了毛泽东在党中央和红军的领导地位，开始形成以毛泽东同志为核心的第一代中央领导集体。</p>
+<p>20.1931年9月18日“九一八事变”日本变中国为其独占殖民地的侵略战争由此开始</p>
+<p>21.1937年7月7日，“卢沟桥事变”即“七七事变”，标志着日本全面侵华战争由此开始</p>
+<p>22.抗日战争中的中流砥柱。一、全面抗战路线和持久战的战略总方针。二、敌后战场的开辟与游击战争的发展。三、坚持抗战，团结，进步的方针。四、抗日民主根据地的建设，五、大后方的抗日民主运动和进步文化工作。六、中国共产党的自身建设</p>
+<p>23.中共七大标志着党在政治上，思想上，组织上走向成熟。他为建立新民主主义的新中国制定了正确路线方针政策，确立了毛泽东在党中央和全党的领导核心地位。毛泽东思想在全党的指导地位，形成了一支高举毛泽东旗帜的经久考验的政治家集团。</p>
+<p>24.延安精神。中国共产党形成了以坚定正确的政治方向、解放思想，实事求是的思想路线，全心全意为人民服务的根本宗旨，自力更生，艰苦奋斗的创业精神为主要内容的延安精神。这是党的宝贵精神财富</p>
+<p>25.抗日战争胜利的原因，第一，以爱国主义为核心的民族精神是中国人民抗日战争胜利的决定因素。第二，中国共产党的中流砥柱作用是中国人民抗日战争胜利的关键。中国共产党自成立之日起，就把实现中华民族伟大复兴作为自己的历史使命。第三，全民族抗战是中国人民抗日战争胜利的重要法宝。中国共产党坚持动员人民，依靠人民，推动形成了全民族抗战的历史洪流，第四，中国人民抗日战争的胜利同世界所有爱好和平和正义的国家和人民。国际组织以及各种反法西斯力量的同情和支持，也是分不开的</p>
+<p>26.重庆谈判确立双十协定确认和平建国的基本方针</p>
+<p>27.国民党统治区的政治经济危机表现。一，国民党政府由于其专制独裁统治和官员们的贪污腐败大发国难财，抗战后期在大后方便，已严重丧失人心。二、国民党之所以迅速失去民心，主要是由于它违背全国人民迫切要求休养生息，和平建国的意愿，执行反人民的内战政策。三、官僚资本主义极度膨胀工农业生产严重萎缩，大批民族工商业濒于倒闭</p>
+<p>28.毛泽东思想活的灵魂：一、实事求是二、群众路线三、独立自主</p>
+<p>29.毛泽东指出，战胜敌人的三个法宝：统一战线、武装斗争、党的建设</p>
+<p>30.捍卫巩固新政权的斗争。一，完成民主革命的遗留任务。二，巩固民族独立，维护国家主权和安全。三，抗美援朝，保家卫国，四，恢复国民经济为社会主义改造创造条件</p>
+<p>31.三反运动，反贪污，反浪费，反官僚主义</p>
+<p>32.社会主义基本制度确立的伟大意义，社会主义基本制度的确立，极大地提高了工人阶级和广大劳动人民的积极性，创造性，为社会生产力的大发展开辟了广阔道路，二，社会主义基本制度的确立，为当代中国的一切发展进步提供了根本政治保障，三，社会主义基本制度的确立，为社会主义先进文化的发展指明了前进方向，四，社会主义制度的确立，标志着中国这个占世界1/4人口的东方大国进入了社会主义社会</p>
+<p>33.1957年二月，毛泽东发表《关于正确处理人民内部矛盾问题的讲话》，意义在马克思主义发展史上具有开创性意义。毛泽东深入研究社会主义社会的矛盾问题，形成一套系统的关于社会主义社会矛盾的学说</p>
+<p>34.1964年底，周恩来在三届全国人大一次会议上，郑重提出实现四个现代化的历史任务，四个现代化，包括现代农业，现代工业，现代国防和现代科学技术</p>
+<p>35.1971年十月25日，第26届联大通过2758号决议，决定恢复中华人民共和国在联合国的一切合法权利</p>
+<p>36.邓小平在中央工作会议闭幕会上作题为 <strong>《解放思想，实事求是，团结一致向前看》</strong> 的讲话，这个讲话是解放思想，开辟新时期新道路的宣言书</p>
+<p>37.邓小平南方谈话明确提出，使用社会主义市场经济体制这个提法，为中共14大召开做了重要的思想理论准备</p>
+<p>38.党的二十大高度评价了新时代十年的伟大变革。大会指出，党的十八大召开十年来，我们经历了对党和人民事业具有重大现实意义和深远历史意义的三件大事：一是迎来中国共产党成立一百周年，二、是中国特色社会主义进入新时代，三、是完成脱贫攻坚、全面建成小康社会的历史任务，实现第一个百年目标。</p>
+<p>39.两个确立：确立习近平同志党中央的核心、全党的核心地位，确立习近平新时代中国特色社会主义思想的指导地位。1.反映了全党全军全国各族人民共同心愿，对新时代党和国家事业发展具有决定性意义2.对推进中华民族伟大复兴历史进程具有决定性意义。3.新时代新征程上把中国特色社会主义事业推向前进。</p>
+<p>40.中国式现代化的本质要求：坚持中国公产党的领导，坚持中国特色社会主义，实现高质量发展，发展全过程人民民主，丰富人民精神世界，实现全国人民共同富裕，促进人与自然和谐共生，推动构建人类命运共同体，创造人类文明新形态。</p>
+<p>41.2035年到本世纪中叶把我国建设成富强民主文明和谐美丽的社会主义现代化强国。</p>
+<p>42.两个务必：务必对同志保持谦虚、谨慎、不骄、不躁的作风；务必使同志们继续地保持艰苦奋斗的作风。新时代三个务必：1.务必不忘初心，牢记使命。2.务必谦虚谨慎，艰苦奋斗。3.务必敢于斗争，善于斗争</p>
+<p>43.中国式现代化的本质要求是：坚持中国共产党领导，坚持中国特色社会主义，实现高质量发展，发展全过程人民民主，丰富人民精神世界，实现全体人民共同富裕，促进人与自然和谐共生，推动构建人类命运共同体，创造人类文明新形态。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>写于24年7月2日</title>
+    <url>/2024/07/02/%E5%86%99%E4%BA%8E24%E5%B9%B47%E6%9C%882%E6%97%A5/</url>
+    <content><![CDATA[<h1 id="写于7月2日"><a class="markdownIt-Anchor" href="#写于7月2日"></a> 写于7月2日</h1>
+<h2 id="今日是7月4日"><a class="markdownIt-Anchor" href="#今日是7月4日"></a> 今日是7月4日</h2>
+<p>看起来是一个笑话，但是其实是这样的，其实周记的题目的时间也不是非得要和实际的时间匹配起来是吧？</p>
+<p>现在我又遇到了一件十分烦心的事情，我这个学期考的不咋地，还有一些学科的成绩没有出来，但是……想来也不会是很好。</p>
+<p>仔细想想这个学期你都做了些什么呢？你花了一些时间来打一个蓝桥杯，拿到了一个省二，这固然很好，然后是你的嵌赛，你的物联网设计大赛。经过这些磨练，你对于软件构建更加顺手了，你学过了avalonia，MAUI,flutter,最终选择了使用MAUI来构建你的那一个MQTT软件。目前的成果是：最终可以实现了配网，让其可用。</p>
+<p>这个学期对于python也有了深入的研究，对于python的了解也不错了。知道那一些python的基础库是如何使用的，至少能成为一个有点水平的调包侠了。</p>
+<p>再然后呢？这样说固然不是很好，但是……这些东西都是有一个十分关键的错误的，那就是这些是不可太持续的，是属于未来的布局，而其变现的时间遥遥无期，等到其终于迎来变现的时机的时候，你难道真的可以把握住吗？</p>
+<p>你在高三的时候学了基础的Python语法，但是当你到大一的时候，你就完全忘记了，你甚至不确定Print是如何使用的。那么你现在大一所取得的成绩到了大四，你还剩下什么呢？</p>
+<p>然后，作为一个通信工程的学生，你的大部分时间都要花在硬件上，但是与其所对应的模电你却学得一塌糊涂。那么说回考研，你的英语有学的什么样？你的数学又学得怎么样？你固然可以以现在学会了，到时候会忘作为借口，但是这是基础，有了基础，你能学得更快。</p>
+<p>或许……</p>
+<p>根本的问题是：我对于自己确实有很高的要求，我不希望这样的人生再持续下去。当你进入高中的时候，你自以为自己很有希望去冲刺一个北京理工大学，你自以为自己能够在3年的时间里面逆天改命，但是事实就是，你比起初三的时候的自己差远了，你整个高中三年都做了什么，你自己的心里清楚，最终来到防灾科技学院，你是什么实力你自己的心里也有数，一个二本，你也就是这样的水平。</p>
+<p>不论你怎么自视甚高，不论你如何狡辩，事实就是事实，你就是来到了防灾科技学院，然后更进一步的，在这里如此简单的期末的试卷的威胁下，你甚至几乎擦着及格的边。</p>
+<p>你是什么水平呢？</p>
 ]]></content>
       <categories>
         <category>周记</category>
@@ -1039,78 +1111,6 @@ pcb<br />
 <p>打印出计算得到的“总氨基酸评分”。</p>
 <p>总的来说，这段代码的目的是为了评估一个食谱中食物的营养价值，特别是蛋白质和氨基酸的含量及评分。</p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>近代史提纲</title>
-    <url>/2024/05/30/%E8%BF%91%E4%BB%A3%E5%8F%B2%E6%8F%90%E7%BA%B2/</url>
-    <content><![CDATA[<p>1.鸦片战争是中国近代史的起点</p>
-<p>2.鸦片战争以后，独立的中国逐步变成半殖民地的中国，封建的中国逐步变成半封建的中国，原因外国资本主义帝国主义列强，用武力打开中国的门户，把中国卷入世界资本主义经济体系和市场之中</p>
-<p>3.西方列强对中国的侵略，包括军事侵略，政治控制，经济掠夺，文化渗透<br />
-4.太平天国定都天津颁布天朝田亩制度，建立有“有田同耕，有饭同食，有衣同穿，有钱同使，无处不均匀，无人不保暖”的理想社会。</p>
-<p>5.洋务运动的代表人物。奕䜣，曾国藩，李鸿章，左宗棠，张之洞</p>
-<p>6.维新派与守旧派的论战包括三个方面：第一，要不要变法，第二，要不要新民权设议院实行君主立宪，要不要废八股改科举和兴西学。</p>
-<p>7.陈天华写了《警世钟》和《猛回头》，两本小册子</p>
-<p>8.孙中山将同盟会的纲领概括为三大主义，民族主义，民权主义，民生主义，称为三民主义。</p>
-<p>9.自己总结新文化运动的兴起和意义（91-93）页。</p>
-<p>10.辛亥革命的历史意义：第一，辛亥革命推翻了封建势力的政治代表，帝国主义在中国的代理人清王朝的统治，沉重打击了中外反动势力，使中国反动统治者在政治上乱了阵脚。第二，辛亥革命结束了中国延续2000多年的君主专制制度，建立了中国历史上第一个资产阶级共和政府，使民主共和的观念开始深入人心，并在中国形成了“敢有帝制自为者，天下共击之”的民主主义观念。第三，辛亥革命，推动了中国人民的思想解放。第四，辛亥革命推动了中国的社会变革，促使中国的社会经济思想习惯和社会风俗等方面发生了积极的变化，第五，辛亥革命不仅在一定程度上打击了帝国主义的侵略势力，而且推动了亚洲各国民族解放运动的高潮</p>
-<p>11.新文化运动提倡民主和科学，民主即是资本主义民主、科学指广义上的社会科学。</p>
-<p>12.中国共产党成立的历史意义：深刻改变了近代以后中华民族发展的方向和进程、深刻改变了中国人民和中华民族的前途和命运、深刻改变了世界发展的趋势与格局。</p>
-<p>13.国民党一大事实上确认了联俄联共扶助农工的三大革命政策，标志着第一次国共合作正式形成。</p>
-<p>14.1924年至1927年，中国反帝反封建革命比以往任何一次革命，包括辛亥革命和五四运动，一、群众的动员程度更加广泛。二、斗争的规模更加宏伟。三、革命的社会内涵更为深刻，因此被称作大革命</p>
-<p>15.一、大革命是在反对帝国主义，反对军军阀的政治口号下进行的，而提出这一口号的正是中国共产党。二、大革命是在以国共合作为基础的统一战线的组织形式下进行的，而中国共产党正是国共合作的倡导者和统一战线的组织者。三、大革命是近代中国历史上空前广泛而深刻的群众运动，而中国共产党正是人民群众的主要发动者和组织者，是大革命的主要行斗争形式，是革命战争由中国共产党直接领导的第四军独立团，是一个突出的例证。</p>
-<p>16.“八七会议”确立了土地革命和武装起义的方针。</p>
-<p>17.“三湾改编”是建设无产阶级领导的新型人民军队的重要开端。</p>
-<p>18.“古田会议”的主要内容：一、确立了思想建党，政治建军的原则。二、阐述了加强党的思想建设的极端重要性，指明党内各种非无产阶级思想的表现来源及纠正办法。三、规定红军是一个执行革命的政治任务的武装集团，必须绝对服从共产党的领导，必须全心全意为党的纲领，路线和政策而奋斗。四、提出红军必须担负打仗筹款和做群众工作任务的任务，必须加强政治工作。</p>
-<p>19.“遵义会议”。事实上，确立了毛泽东在党中央和红军的领导地位，开始形成以毛泽东同志为核心的第一代中央领导集体。</p>
-<p>20.1931年9月18日“九一八事变”日本变中国为其独占殖民地的侵略战争由此开始</p>
-<p>21.1937年7月7日，“卢沟桥事变”即“七七事变”，标志着日本全面侵华战争由此开始</p>
-<p>22.抗日战争中的中流砥柱。一、全面抗战路线和持久战的战略总方针。二、敌后战场的开辟与游击战争的发展。三、坚持抗战，团结，进步的方针。四、抗日民主根据地的建设，五、大后方的抗日民主运动和进步文化工作。六、中国共产党的自身建设</p>
-<p>23.中共七大标志着党在政治上，思想上，组织上走向成熟。他为建立新民主主义的新中国制定了正确路线方针政策，确立了毛泽东在党中央和全党的领导核心地位。毛泽东思想在全党的指导地位，形成了一支高举毛泽东旗帜的经久考验的政治家集团。</p>
-<p>24.延安精神。中国共产党形成了以坚定正确的政治方向、解放思想，实事求是的思想路线，全心全意为人民服务的根本宗旨，自力更生，艰苦奋斗的创业精神为主要内容的延安精神。这是党的宝贵精神财富</p>
-<p>25.抗日战争胜利的原因，第一，以爱国主义为核心的民族精神是中国人民抗日战争胜利的决定因素。第二，中国共产党的中流砥柱作用是中国人民抗日战争胜利的关键。中国共产党自成立之日起，就把实现中华民族伟大复兴作为自己的历史使命。第三，全民族抗战是中国人民抗日战争胜利的重要法宝。中国共产党坚持动员人民，依靠人民，推动形成了全民族抗战的历史洪流，第四，中国人民抗日战争的胜利同世界所有爱好和平和正义的国家和人民。国际组织以及各种反法西斯力量的同情和支持，也是分不开的</p>
-<p>26.重庆谈判确立双十协定确认和平建国的基本方针</p>
-<p>27.国民党统治区的政治经济危机表现。一，国民党政府由于其专制独裁统治和官员们的贪污腐败大发国难财，抗战后期在大后方便，已严重丧失人心。二、国民党之所以迅速失去民心，主要是由于它违背全国人民迫切要求休养生息，和平建国的意愿，执行反人民的内战政策。三、官僚资本主义极度膨胀工农业生产严重萎缩，大批民族工商业濒于倒闭</p>
-<p>28.毛泽东思想活的灵魂：一、实事求是二、群众路线三、独立自主</p>
-<p>29.毛泽东指出，战胜敌人的三个法宝：统一战线、武装斗争、党的建设</p>
-<p>30.捍卫巩固新政权的斗争。一，完成民主革命的遗留任务。二，巩固民族独立，维护国家主权和安全。三，抗美援朝，保家卫国，四，恢复国民经济为社会主义改造创造条件</p>
-<p>31.三反运动，反贪污，反浪费，反官僚主义</p>
-<p>32.社会主义基本制度确立的伟大意义，社会主义基本制度的确立，极大地提高了工人阶级和广大劳动人民的积极性，创造性，为社会生产力的大发展开辟了广阔道路，二，社会主义基本制度的确立，为当代中国的一切发展进步提供了根本政治保障，三，社会主义基本制度的确立，为社会主义先进文化的发展指明了前进方向，四，社会主义制度的确立，标志着中国这个占世界1/4人口的东方大国进入了社会主义社会</p>
-<p>33.1957年二月，毛泽东发表《关于正确处理人民内部矛盾问题的讲话》，意义在马克思主义发展史上具有开创性意义。毛泽东深入研究社会主义社会的矛盾问题，形成一套系统的关于社会主义社会矛盾的学说</p>
-<p>34.1964年底，周恩来在三届全国人大一次会议上，郑重提出实现四个现代化的历史任务，四个现代化，包括现代农业，现代工业，现代国防和现代科学技术</p>
-<p>35.1971年十月25日，第26届联大通过2758号决议，决定恢复中华人民共和国在联合国的一切合法权利</p>
-<p>36.邓小平在中央工作会议闭幕会上作题为 <strong>《解放思想，实事求是，团结一致向前看》</strong> 的讲话，这个讲话是解放思想，开辟新时期新道路的宣言书</p>
-<p>37.邓小平南方谈话明确提出，使用社会主义市场经济体制这个提法，为中共14大召开做了重要的思想理论准备</p>
-<p>38.党的二十大高度评价了新时代十年的伟大变革。大会指出，党的十八大召开十年来，我们经历了对党和人民事业具有重大现实意义和深远历史意义的三件大事：一是迎来中国共产党成立一百周年，二、是中国特色社会主义进入新时代，三、是完成脱贫攻坚、全面建成小康社会的历史任务，实现第一个百年目标。</p>
-<p>39.两个确立：确立习近平同志党中央的核心、全党的核心地位，确立习近平新时代中国特色社会主义思想的指导地位。1.反映了全党全军全国各族人民共同心愿，对新时代党和国家事业发展具有决定性意义2.对推进中华民族伟大复兴历史进程具有决定性意义。3.新时代新征程上把中国特色社会主义事业推向前进。</p>
-<p>40.中国式现代化的本质要求：坚持中国公产党的领导，坚持中国特色社会主义，实现高质量发展，发展全过程人民民主，丰富人民精神世界，实现全国人民共同富裕，促进人与自然和谐共生，推动构建人类命运共同体，创造人类文明新形态。</p>
-<p>41.2035年到本世纪中叶把我国建设成富强民主文明和谐美丽的社会主义现代化强国。</p>
-<p>42.两个务必：务必对同志保持谦虚、谨慎、不骄、不躁的作风；务必使同志们继续地保持艰苦奋斗的作风。新时代三个务必：1.务必不忘初心，牢记使命。2.务必谦虚谨慎，艰苦奋斗。3.务必敢于斗争，善于斗争</p>
-<p>43.中国式现代化的本质要求是：坚持中国共产党领导，坚持中国特色社会主义，实现高质量发展，发展全过程人民民主，丰富人民精神世界，实现全体人民共同富裕，促进人与自然和谐共生，推动构建人类命运共同体，创造人类文明新形态。</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>写于24年7月2日</title>
-    <url>/2024/07/02/%E5%86%99%E4%BA%8E24%E5%B9%B47%E6%9C%882%E6%97%A5/</url>
-    <content><![CDATA[<h1>写于7月2日</h1>
-<h2 id="今日是7月4日">今日是7月4日</h2>
-<p>看起来是一个笑话，但是其实是这样的，其实周记的题目的时间也不是非得要和实际的时间匹配起来是吧？</p>
-<p>现在我又遇到了一件十分烦心的事情，我这个学期考的不咋地，还有一些学科的成绩没有出来，但是……想来也不会是很好。</p>
-<p>仔细想想这个学期你都做了些什么呢？你花了一些时间来打一个蓝桥杯，拿到了一个省二，这固然很好，然后是你的嵌赛，你的物联网设计大赛。经过这些磨练，你对于软件构建更加顺手了，你学过了avalonia，MAUI,flutter,最终选择了使用MAUI来构建你的那一个MQTT软件。目前的成果是：最终可以实现了配网，让其可用。</p>
-<p>这个学期对于python也有了深入的研究，对于python的了解也不错了。知道那一些python的基础库是如何使用的，至少能成为一个有点水平的调包侠了。</p>
-<p>再然后呢？这样说固然不是很好，但是……这些东西都是有一个十分关键的错误的，那就是这些是不可太持续的，是属于未来的布局，而其变现的时间遥遥无期，等到其终于迎来变现的时机的时候，你难道真的可以把握住吗？</p>
-<p>你在高三的时候学了基础的Python语法，但是当你到大一的时候，你就完全忘记了，你甚至不确定Print是如何使用的。那么你现在大一所取得的成绩到了大四，你还剩下什么呢？</p>
-<p>然后，作为一个通信工程的学生，你的大部分时间都要花在硬件上，但是与其所对应的模电你却学得一塌糊涂。那么说回考研，你的英语有学的什么样？你的数学又学得怎么样？你固然可以以现在学会了，到时候会忘作为借口，但是这是基础，有了基础，你能学得更快。</p>
-<p>或许……</p>
-<p>根本的问题是：我对于自己确实有很高的要求，我不希望这样的人生再持续下去。当你进入高中的时候，你自以为自己很有希望去冲刺一个北京理工大学，你自以为自己能够在3年的时间里面逆天改命，但是事实就是，你比起初三的时候的自己差远了，你整个高中三年都做了什么，你自己的心里清楚，最终来到防灾科技学院，你是什么实力你自己的心里也有数，一个二本，你也就是这样的水平。</p>
-<p>不论你怎么自视甚高，不论你如何狡辩，事实就是事实，你就是来到了防灾科技学院，然后更进一步的，在这里如此简单的期末的试卷的威胁下，你甚至几乎擦着及格的边。</p>
-<p>你是什么水平呢？</p>
-]]></content>
-      <categories>
-        <category>周记</category>
-      </categories>
-      <tags>
-        <tag>周记</tag>
-      </tags>
   </entry>
   <entry>
     <title>线性规划的基本形式与求解</title>
